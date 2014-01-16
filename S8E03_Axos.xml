@@ -1,0 +1,1412 @@
+<?xml-model href="UNIT_Schema_serial.rnc" type="application/relax-ng-compact-syntax"?>
+<serial season="8" epi="03">
+    <title>The Claws of Axos</title>
+
+<date>Original Airdate: Mar 13, 1971</date>
+
+<episode>
+    <subtitle>Episode One</subtitle>
+<scene><location>UNIT radar tracking</location>
+
+<action>An elegant golden spaceship is picked up on a tracking dish.</action> 
+<line><speaker who="radar1">RADAR 1</speaker> Twenty five mps. One million miles. Mass, variable. </line>
+<line><speaker who="radar2">RADAR 2</speaker> Well, if that's its course, we've discovered a comet. Run another course check. </line>
+    <line><speaker who="radar1">RADAR 1</speaker> It's altered its course! </line>
+    <line><speaker who="radar2">RADAR 2</speaker> It can't have. </line>
+    <line><speaker who="radar1">RADAR 1</speaker> Oh, yes it can, <address who="radar2" level="otherEndear">mate</address>. <address who="radar2" level="pronoun">You</address> can say goodbye to your comet, 'because whatever that thing is, it's on collision course and heading straight for Earth. </line>
+<action>We get a close up at the approaching ship, with it's organic-looking hull, leech-mouth-like bow, and tail-shaped stern. Inside, large lifeforms with lots of root-like appendages flail around.</action>
+</scene>
+<scene><location>Brigadier's office</location>
+
+<action>A Civil Service type opens a file conveniently labelled Top Secret, then another. Other people are standing and sitting around the room.</action> 
+<line><speaker who="chinn">CHINN</speaker> Nothing. Nothing at all. </line>
+<line><speaker who="brig">BRIGADIER</speaker> No. </line>
+    <line><speaker who="chinn">CHINN</speaker> <address who="brig" level="title">Brigadier</address>, as head of this committee of enquiry, I must remind <address who="brig" level="pronoun">you</address> of the Defence Ministry ruling. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="chinn" level="titleSurname">Mister Chinn</address>, as head of UNIT, I must remind <address who="chinn" level="pronoun">you</address>, that we're not in the Ministry of Defence. </line>
+<line><speaker who="chinn">CHINN</speaker> All personnel must be properly screened </line>
+<line><speaker who="chinn">CHINN + BRIGADIER</speaker> And scrupulously filed. </line>
+<line><speaker who="chinn">CHINN</speaker> As an elementary security precaution, I must insist upon a file for <reference who="doctor" level="thatNP">this Doctor</reference>, er, what's-his-name. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> I'm sorry, <address who="chinn" level="titleSurname">Mister Chinn</address>. I am personally responsible for <reference who="doctor" level="title">the Doctor</reference>. </line>
+    <line><speaker who="chinn">CHINN</speaker> Typical! Absolutely typical! That's the kind of high-handed attitude one's come to expect from the UN recently. Now, <address who="brig" level="title">Brigadier</address>, what about <reference who="doctor" level="thatNP">this Doctor</reference>? I gather <reference who="doctor" level="pronoun">he</reference>'s not a British subject. Then who is <reference who="doctor" level="pronoun">he</reference> and where does <reference who="doctor" level="pronoun">he</reference> come from? </line>
+<action>The Doctor enters, catching the pacing Chinn with the edge of a double door.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Good morning. Oh, good morning.</line>
+</scene>
+    <scene><location>UNIT corridor</location>
+
+<line><speaker who="jo">JO</speaker> I gather Washington think its time <reference who="master" level="title">the Master</reference> was dealt with? </line>
+<line><speaker who="filer">FILER</speaker> <action>american</action> Something like that. </line>
+    <line><speaker who="jo">JO</speaker> And <address who="filer" level="pronoun">you</address>'re going to deal with <reference who="master" level="pronoun">him</reference> singlehanded? </line>
+<line><speaker who="filer">FILER</speaker> Yeah. No, no, that was Errol Flynn. </line>
+<line><speaker who="jo">JO</speaker> Who? </line>
+<line><speaker who="filer">FILER</speaker> Forget it. </line>
+<action>Jo and Filer walk past a set of red orange and green lights on the wall under a large number six. They all begin to flash.</action></scene>
+
+<scene><location>Brigadier's office</location>
+
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="chinn" level="myDearNP">My dear Mister Chinn</address>, if I could leave, I would, if only to get away from people like <address who="chinn" level="pronoun">you</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="doctor" level="title">Doctor</address>. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> And your petty obsessions! England for the English! Good heavens, <address who="chinn" level="man">man</address>! </line>
+<line><speaker who="chinn">CHINN</speaker> I have a duty to my country! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Not to the world? </line>
+<action>Jo and Filer enter.</action> 
+<line><speaker who="jo">JO</speaker> Good morning. Oh, I'm sorry. Has the conference started? </line>
+<line><speaker who="brig">BRIGADIER</speaker> No, not yet. </line>
+<line><speaker who="jo">JO</speaker> This is <reference who="filer" level="fullName">Bill Filer</reference> from Washington HQ.</line>
+</scene>
+<scene><location>UNIT corridor</location>
+
+<action>The lights are still flashing but nobody is paying attention.</action> 
+<line><speaker who="yates">YATES</speaker> What is it? Do <address who="benton" level="pronoun">you</address> know? </line>
+<line><speaker who="benton">BENTON</speaker> No idea, <address who="yates" level="sir">sir</address>.</line>
+</scene>
+<scene><location>Brigadier's office</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> There's no point in discussing <reference who="master" level="title">the Master</reference>. I keep telling you, he's left Earth by now. </line>
+<line><speaker who="brig">BRIGADIER</speaker> We can't be certain of that, <address who="doctor" level="title">Doctor</address>. We must keep on looking. </line>
+    <line><speaker who="chinn">CHINN</speaker> Master? Who is <reference who="master" level="title">the Master</reference>? </line>
+<line><speaker who="filer">FILER</speaker> I, er, I have a report here, <address who="brig" level="title">Brigadier</address>. It's classified I'm afraid, <address who="chinn" level="sir">sir</address>. </line>
+<line><speaker who="chinn">CHINN</speaker> Then I must insist upon staying. </line>
+    <line><speaker who="filer">FILER</speaker> I'm sorry, <address who="chinn" level="sir">sir</address>. <address who="chinn" level="pronoun">You</address> have no clearance. </line>
+<line><speaker who="chinn">CHINN</speaker> On the contrary, for the duration of this enquiry, I've been guaranteed full access to </line>
+    <line><speaker who="filer">FILER</speaker> Not by us, <address who="chinn" level="sir">sir</address>. </line>
+<line><speaker who="chinn">CHINN</speaker> This has nothing to do with Washington! </line>
+    <line><speaker who="filer">FILER</speaker> I'm sorry, <address who="chinn" level="sir">sir</address>. <address who="chinn" level="pronoun">You</address> are a security risk. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, well, er </line>
+<action>An alarm bell rings and red and green lights mounted by the door flash. Yates enters.</action> 
+<line><speaker who="yates">YATES</speaker> UFO, <address who="brig" level="sir">sir</address>, coming in fast.</line>
+</scene>
+<scene><location>UNIT radar tracking</location>
+
+<line><speaker who="radar2">RADAR 2</speaker> UFO bearing two zero niner. Five hundred miles and closing. </line>
+    <line><speaker who="benton">BENTON</speaker> ITS, <address who="radar2" level="sir">sir</address>, report sightings confirmed. </line>
+<line><speaker who="radar2">RADAR 2</speaker> Velocity twenty mps </line>
+<line><speaker who="benton">BENTON</speaker> Houston HAL tracking. </line>
+<line><speaker who="radar2">RADAR 2</speaker> Decreasing. </line>
+<line><speaker who="benton">BENTON</speaker> Hawaii HAL tracking. </line>
+<action>Yates, the Brigadier, Chinn and the Doctor enter.</action> 
+<line><speaker who="yates">YATES</speaker> What's the picture here, lads? </line>
+<line><speaker who="benton">BENTON</speaker> Negative on astro. We're running ICBM checks, <address who="yates" level="sir">sir</address>. </line>
+<line><speaker who="chinn">CHINN</speaker> ICBM? What ICBM? <address who="brig" level="title">Brigadier</address>, what's going on here? </line>
+    <line><speaker who="brig">BRIGADIER</speaker> An unidentified flying object appears to be heading for Earth, <address who="chinn" level="titleSurname">Mister Chinn</address>. Shouldn't <address who="chinn" level="pronoun">you</address> be in touch with your Ministry? </line>
+<line><speaker who="chinn">CHINN</speaker> Oh, er, telephone. Quickly, <address who="radar2" level="man">man</address>, quickly. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="yates" level="titleSurname">Captain Yates</address>? </line>
+<line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>? </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Show <address who="chinn" level="titleSurname">Mister Chinn</address> the direct line. </line>
+<line><speaker who="yates">YATES</speaker> Direct line? </line>
+<line><speaker who="brig">BRIGADIER</speaker> In there! </line>
+    <line><speaker who="yates">YATES</speaker> Oh, yes, <address who="brig" level="sir">sir</address>. This way, <address who="chinn" level="sir">sir</address>. </line>
+<action>Yates takes Chinn into the office. Jo and Filer stand in the doorway.</action> 
+<line><speaker who="radar1">RADAR 1</speaker> Course changing. Two zero seven. Two zero six. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Well, <address who="doctor" level="title">Doctor</address>, what is it? </line>
+<line><speaker who="doctor">DOCTOR</speaker> I've no idea. </line>
+<line><speaker who="radar1">RADAR 1</speaker> Two zero five. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Variable mass. That's interesting. </line>
+<line><speaker who="radar2">RADAR 2</speaker> Orbital flight path now. </line>
+<line><speaker who="jo">JO</speaker> Is it going to hit us? </line>
+<line><speaker who="radar2">RADAR 2</speaker> UFO entering atmosphere. now. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Compute target area. </line>
+<line><speaker who="radar1">RADAR 1</speaker> Check. </line>
+<action>The Doctor's lips move as he does the maths in his head.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Yes. Somewhere on the south east coast, I should imagine. </line>
+<action>The shingle beach of Dungeness, most likely, where we watch a tramp get on a bicycle.</action>
+</scene>
+<scene><location>UNIT office</location>
+
+<action>Chinn has made his telephone call.</action> 
+<line><speaker who="chinn">CHINN</speaker> <address who="brig" level="title">Brigadier</address>!</line>
+</scene>
+<scene><location>UNIT radar tracking</location>
+
+<line><speaker who="radar2">RADAR 2</speaker> South Atlantic, moving north. Bearing now zero two zero.</line>
+</scene>
+<scene><location>UNIT radar office</location>
+
+<line><speaker who="chinn">CHINN</speaker> <reference who="minister" level="title">The Minister</reference> wants all these facilities linked up to strike force immediately. I have full authority. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="yates" level="surname">Yates</address>? </line>
+<line><speaker who="yates">YATES</speaker> All taken care of, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="chinn">CHINN</speaker> Oh, good. </line>
+<action>Yates turns on a set of monitors, showing a radar screen and two angles on a missile.</action> 
+    <line><speaker who="radio">RADIO</speaker> <location>OC</location> One cleared. Flight path green one cleared. </line>
+<line><speaker who="chinn">CHINN</speaker> Yes, good. Er, get me station command, will you? </line>
+<line><speaker who="benton">BENTON</speaker> Yes, <address who="chinn" level="sir">sir</address>. </line>
+    <line><speaker who="radio">RADIO</speaker> <location>OC</location> Strike unit A </line>
+    <line><speaker who="chinn">CHINN</speaker> Chinn here, MOD. <address who="radio" level="pronoun">You</address> know I'm coordinating this operation, don't you. Well, I want <address who="radio" level="pronoun">you</address> to be ready to destroy this thing the moment I give the word. Oh, <address who="radio" level="pronoun">you</address> are ready. Good. Well, stand by then. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> All set to destroy it, <address who="brig" level="title">Brigadier</address>? Whatever it is? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Just a precaution, <address who="doctor" level="title">Doctor</address>. </line>
+<line><speaker who="doctor">DOCTOR</speaker> I see. Shoot first and think afterwards, is that it? </line>
+    <line><speaker who="radio">RADIO</speaker> <location>OC</location> Strike unit B </line>
+<action>Benton is handed a message. Bell takes a telephone call.</action> 
+<line><speaker who="benton">BENTON</speaker> Major nuclear powers deny missile launching. Surveillance confirmed. </line>
+<line><speaker who="cplbell">BELL</speaker> Estimated target area England, south east coast. There's a report in from the Met Office, <address who="yates" level="sir">sir</address>. There are freak weather conditions over the whole area. </line>
+<line><speaker who="yates">YATES</speaker> Explain. </line>
+    <line><speaker who="cplbell">BELL</speaker> Sudden snowstorms, <address who="yates" level="sir">sir</address>. Dense fog's covering the area. </line>
+<action>The tramp is cycling down a snow-covered road when he spots something in a pile of fly-tipping. It is another bicycle, but it is for a little girl and he throws it away again in disgust.</action>
+</scene>
+<scene><location>UNIT radar tracking</location>
+
+<line><speaker who="radar1">RADAR 1</speaker> UFO over airline flight path Green One. All civil aircraft scattered.</line>
+</scene>
+<scene><location>UNIT office</location>
+
+<line><speaker who="radar2">RADAR 2</speaker> <location>OC</location> ETA sixty seconds. Repeat, sixty seconds. Airborne interceptors closing. </line>
+<line><speaker who="chinn">CHINN</speaker> <action>into phone.</action> Missile strike now! Commit now! Yes, <address who="radio" level="title">Commander</address>. Now! </line>
+<action>On the large monitor, a missile is launched.</action> 
+<line><speaker who="chinn">CHINN</speaker> A perfect sitting target! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Hardly seems sporting, does it? </line>
+    <line><speaker who="radar2">RADAR 2</speaker> <location>OC</location> Contact lost! Contact lost!</line>
+</scene>
+<scene><location>UNIT radar tracking</location>
+
+<line><speaker who="radar2">RADAR 2</speaker> It's gone, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> What, destroyed? </line>
+    <line><speaker who="radar2">RADAR 2</speaker> No, you don't understand. It's disappeared, <address who="brig" level="sir">sir</address>, and the missiles haven't reached it yet. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Don't <address who="chinn" level="pronoun">you</address> think <address who="chinn" level="pronoun">you</address>'d better abort? What goes up must come down again. The warheads! Abort, <address who="chinn" level="man">man</address>, abort!</line>
+</scene>
+<scene><location>UNIT office</location>
+
+<line><speaker who="chinn">CHINN</speaker> <action>into phone.</action> Abort mission! Destruct, destruct, destruct! </line>
+<action>KaBOOM. The tramp cycles on through the wintery wasteland.</action>
+</scene>
+<scene><location>UNIT radar tracking</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> Well? </line>
+<line><speaker who="radar2">RADAR 2</speaker> Still no trace of the UFO, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> It can't have disappeared. </line>
+    <line><speaker who="cplbell">BELL</speaker> <location>OC</location> ITSN report total radar contact lost.</line>
+</scene>
+<scene><location>UNIT office</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> Well, <address who="doctor" level="title">Doctor</address>? Where's it gone? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Gone? It hasn't gone anywhere, <address who="brig" level="title">Brigadier</address>. It's just arriving. </line>
+<action>A golden glow dazzles the tramp, and he careers off the road and down into an icy river. The sign by the bridge says Nuton Power Complex 1 mile.</action>
+</scene>
+<scene><location>Brigadier's office</location>
+
+<line><speaker who="chinn">CHINN</speaker> We have to assume the thing is hostile. It's landed right by the national power complex. Britain's entire power supply is menaced. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <action>into phone</action> Right. </line>
+<line><speaker who="chinn">CHINN</speaker> <address who="brig" level="title">Brigadier</address>, in accordance with the Emergency Powers Act </line>
+<line><speaker who="brig">BRIGADIER</speaker> All right, <address who="chinn" level="titleSurname">Mister Chinn</address>, all right. <address who="yates" level="surname">Yates</address>? </line>
+    <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>? </line>
+<line><speaker who="brig">BRIGADIER</speaker> All available personnel to the assembly area. </line>
+    <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>. <address who="benton" level="title">Sergeant</address>? </line>
+<line><speaker who="chinn">CHINN</speaker> I'm treating this as a national emergency. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Yes, yes, so am I. <address who="doctor" level="title">Doctor</address>?</line>
+</scene>
+<scene><location>UNIT office</location>
+
+<line><speaker who="chinn">CHINN</speaker> From now on, you are to consider yourself under my orders. </line>
+    <line><speaker who="filer">FILER</speaker> Er, <address who="brig" level="title">Brigadier</address>? Where do <address who="brig" level="pronoun">you</address> want me? </line>
+    <line><speaker who="chinn">CHINN</speaker> <address who="filer" level="titleSurname">Mister Filer</address>, this is an internal matter. Your presence is not necessary. If <address who="filer" level="pronoun">you</address> don't leave immediately, I shall have to have <address who="filer" level="pronoun">you</address> arrested. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="chinn" level="titleSurname">Mister Chinn</address>! </line>
+    <line><speaker who="filer">FILER</speaker> No, no, no, it's all right. It's all right, <address who="brig" level="title">Brigadier</address>. Well, goodbye, <address who="chinn" level="titleSurname">Mister Chinn</address>. Take care.</line>
+</scene>
+<scene><location>Dungeness</location>
+
+<action>The tramp comes across the bow of the alien ship sticking out of the shingle, steaming gently.</action> 
+    <line><speaker who="tramp0">JOSH</speaker> Oo-arr? Oo-arr? </line>
+<action>He runs over to investigate, and the mouth part of the bow opens. A long, golden tentacle reaches out and grabs Josh, pulling him inside. Meanwhile, Filer is driving down a road. He tunes his car radio to the UNIT frequency.</action> 
+    <line><speaker who="yates">YATES</speaker> <location>OC</location> UFO objective confirmed as area north sector national power complex. All vehicles, repeat, all vehicles, RV this area. Out.</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<action>Josh is lying in an organic area, held down by claws growing from the floor.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Analysis pattern reveals locomotor facility normal, sensory receptors acute, intelligence atypical. </line>
+<action>Filer's car screeches to a halt near the Axos' landing site and he runs across to it.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> This specimen is valueless. Absorb, process and eject.</line>
+</scene>
+<scene><location>Dungeness</location>
+
+<action>(Filer looks at the bow of the spaceships as a UNIT convoy arrives. Suddenly his throat is grabbed by the tentacle. A klaxon sounds and the convoy comes to a halt by his car. Troops rush across the shingle. </action>
+    <line><speaker who="soldier1">SOLDIER</speaker> All right you boys. Go! </line>
+<action>The Doctor, Brigadier, Jo, Benson and Yates get into the mobile HQ. Several Ministry men join them from a limousine at the rear of the convoy. Inside the spaceship, Filer is getting the same analysis as the tramp did.</action>
+</scene>
+<scene><location>UNIT Mobile HQ</location>
+
+<line><speaker who="chinn">CHINN</speaker> <address who="hardiman" level="title">Sir George</address>, this is <reference who="brig" level="surname">Lethbridge Stewart</reference>. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> <reference who="brig" level="title">Brigadier</reference>, this is <reference who="winser" level="surname">Winser</reference>, head of research. </line>
+<action>A be-spectacled geek who appears to be a direct descendant of Lt Carstairs from The War Games. Yes, David Savile returns to the show.</action> 
+<line><speaker who="winser">WINSER</speaker> I hope you're not contemplating an attack so close to the labs? </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> You realise this complex provides power for the whole of Britain? An attack would be disastrous. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> An attack? By whom, <address who="hardiman" level="title">Sir George</address>? We have no idea what we're up against. We must take these precautions. </line>
+<line><speaker who="chinn">CHINN</speaker> I've arranged with the army for full artillery support. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Artillery? Well, your missiles couldn't find their target, what chance bazookas? </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="hardiman" level="title">Sir George</address>, <address who="winser" level="titleSurname">Professor Winser</address>, <address who="doctor" level="title">the Doctor</address> is our scientific advisor. </line>
+<line><speaker who="doctor">DOCTOR</speaker> As far as I can gather with these primitive instruments here, the device has buried itself deep underground. So there's not much that anybody can do about it, even if it is a bomb. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> But <address who="doctor" level="pronoun">you</address> don't think it is? </line>
+<line><speaker who="winser">WINSER</speaker> Perhaps I could check the readings? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, please do. </line>
+    <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, look! </line>
+<action>An oscilloscope is going crazy.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> You know, I would have said that that was a heartbeat.</line>
+</scene>
+<scene><location>Axos cell</location>
+
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Intelligent, aggressive, possibly dangerous. Hold for further investigation.</line>
+</scene>
+<scene><location>UNIT Mobile HQ</location>
+
+    <line><speaker who="radar2">RADAR 2</speaker> <reference who="brig" level="title">Brigadier</reference>, something's coming through. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Well, let's hear it. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Earth. Axos calling Earth. Fuel systems exhausted. Request immediate assistance. Immediate assistance. Axos calling Earth, Axos calling Earth. Fuel system exhausted. </line>
+<line><speaker who="doctor">DOCTOR</speaker> More of a cry for help than a threat, wouldn't you say? </line>
+    <line><speaker who="chinn">CHINN</speaker> <reference who="brig" level="title">Brigadier</reference>, we can't wait any longer. We must attack now before they have time to reorganise their defences. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Before <address who="chinn" level="pronoun">you</address> start annihilating the thing, why don't we just take a look at it? </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> I agree. </line>
+<line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, I'm sorry. Not this time. </line>
+<action>The Doctor leaves.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> <address who="yates" level="titleSurname">Captain Yates</address>. </line>
+<line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Stay here and act as liaison. Keep an eye on <reference who="jo" level="titleSurname">Miss Grant</reference>. </line>
+    <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="benton" level="titleSurname">Sergeant Benton</address>, check the perimeter guard. </line>
+    <line><speaker who="benton">BENTON</speaker> Right, <address who="brig" level="sir">sir</address>.</line>
+</scene>
+<scene><location>Dungeness</location>
+
+<action>The bow opens again.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Axos calling Earth. Request immediate assistance. Axos calling Earth. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Right, gentlemen. Shall we go in? </line>
+<action>The Doctor, Brigadier, Hardiman, Winser and Chinn enter the spaceship. The entrance closes behind them.</action>
+</scene>
+<scene><location>UNIT Mobile HQ</location>
+
+    <line><speaker who="yates">YATES</speaker> It's no good going on at me, <address who="jo" level="nickname">Jo</address>. You heard <reference who="brig" level="title">the Brigadier</reference> and <reference who="brig" level="pronoun">he</reference> made it perfectly clear that </line>
+<action>Benton enters.</action> 
+    <line><speaker who="yates">YATES</speaker> What is it, <address who="benton" level="surname">Benton</address>? </line>
+    <line><speaker who="benton">BENTON</speaker> <address who="yates" level="sir">Sir</address>. We've found a body, <address who="yates" level="sir">sir</address>. </line>
+<line><speaker who="yates">YATES</speaker> Where? </line>
+<line><speaker who="benton">BENTON</speaker> Over by the north perimeter. And we've found a car, too. A big Yankee job. </line>
+<line><speaker who="yates">YATES</speaker> Come on then, you'd better show me. </line>
+    <line><speaker who="benton">BENTON</speaker> Right, <address who="yates" level="sir">sir</address>. No, <address who="jo" level="title">Miss</address>, I wouldn't go if I were you. </line>
+<line><speaker who="jo">JO</speaker> All right. I'll stay here. </line>
+<action>The body of the tramp lies in the scrub, under guard. Yates touches it and it crumbles to dust. Of course, Jo sneaks out of the mobile HQ.</action>
+</scene>
+<scene><location>Axos</location>
+
+<action>The Brigadier leads the group along the round corridor and through a slit in a membrane which acts as a doorway. They are watched by various types of eyes all the time. Suddenly the Doctor stops and cringes in pain. Outside, nobody tries to stop Jo as she walks up to the ship, which opens to let her in.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Attention. Subject non-typical. Investigate. Investigate. Analysis pattern investigates extra-terrestrial. Investigate. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> <action>faintly</action> <address who="brig" level="title">Brigadier</address>! <address who="brig" level="title">Brigadier</address>! <address who="brig" level="title">Brigadier</address>! </line>
+<action>The Doctor sees multiple images of the rest of the group but cannot hear them. Jo enters the ship. Axos releases the Doctor.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Are you all right, <address who="doctor" level="title">Doctor</address>? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, I suppose so. I must say, this place is full of surprises, isn't it? Let's see what else we can find.</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<action>Filer wakes up and tries to break free of the claws holding him down.</action> 
+<line><speaker who="filer">FILER</speaker> Help! Help! </line>
+<action>Then he sees another person being held against the wall. A black-clothed figure with neat beard and widow's peak. Serves the Master right.</action>
+</scene>
+<scene><location>Axos</location>
+
+    <line><speaker who="filer">FILER</speaker> <location>OC</location> Help! Help! </line>
+    <line><speaker who="jo">JO</speaker> <address who="filer" level="nickname">Bill</address>? <address who="filer" level="nickname">Bill</address>, is that <address who="filer" level="pronoun">you</address>?</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="brig" level="title">Brigadier</address>! <address who="brig" level="title">Brigadier</address>! </line>
+<action>The others running in. Two figures are visible behind a circular screen, then four beautiful golden people appear in the chamber. They have large blank eyes but are otherwise humanoid, two male and two female.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Well, gentlemen, there's your enemy. </line>
+<line><speaker who="axonm">AXON MAN</speaker> Our worlds are uncountable light years away on the far rim of the galaxy. Our planetary system has been crippled by extreme solar flare activity. Axos is all that remains of our culture. As you can see, our science, unlike yours, has taken an organic path. This ship? This ship was not built for our journey. It was grown. </line>
+<line><speaker who="winser">WINSER</speaker> What? </line>
+<line><speaker who="axonm">AXON MAN</speaker> Yes, grown from a single cell and now its nutrient is all but exhausted. We would like to stay. </line>
+<line><speaker who="chinn">CHINN</speaker> Well </line>
+<line><speaker who="axonm">AXON MAN</speaker> Until our nutrition and energy cycles have been fully replenished. In return, according to your custom, we offer a gift, a payment. </line>
+<action>A girl steps forward and hold up a large orange blob.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> Axonite.</line>
+</scene>
+<scene><location>Axos</location>
+
+    <line><speaker who="jo">JO</speaker> <address who="filer" level="nickname">Bill</address>? <address who="filer" level="nickname">Bill</address>, where are <address who="filer" level="pronoun">you</address>?</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>The Axonite has been put on a four foot tall pillar.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> Axonite is the source of all our growth technology. Axonite can absorb, convert, transmit and programme all forms of energy. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Even radiation? Why then were <address who="axos" level="pronoun">you</address> crippled by solar flare? </line>
+<line><speaker who="axonm">AXON MAN</speaker> It was already too late. </line>
+    <line><speaker who="chinn">CHINN</speaker> Perhaps <address who="axonm" level="pronoun">you</address> could explain, just what it is, what it does. My report, <address who="axonm" level="pronoun">you</address> understand. </line>
+<line><speaker who="axonm">AXON MAN</speaker> Axonite is, shall we say, the chameleon of the elements. It is a thinking molecule. It uses the energy it absorbs, not only to copy but to recreate and restructure any given substance.</line>
+    <line><speaker who="doctor">DOCTOR</speaker> And yet <address who="axos" level="pronoun">you</address> still ran out of fuel? </line>
+<line><speaker who="winser">WINSER</speaker> And the principle? The principle of Axonite? </line>
+<line><speaker who="axonm">AXON MAN</speaker> It would be simpler for me to demonstrate Axonite.</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<line><speaker who="master">MASTER</speaker> What's your name? </line>
+<line><speaker who="filer">FILER</speaker> Filer, Bill Filer. Who are you? What do you want? </line>
+<line><speaker who="master">MASTER</speaker> I'm your fellow captive, <address who="filer" level="surname">Filer</address>. I am the Master.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>A helpless frog is sitting on the pillar now.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> A painless lasonic injection of Axonite. </line>
+<action>He takes a large syringe filled with the orange stuff and holds it over the amphibian.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> This is, I presume, one of your food animals? </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Er, no, no, it isn't. </line>
+<line><speaker who="axonm">AXON MAN</speaker> My apologies. Assuming it were, you can see, of course, the possibilities for alleviating the world's food problems. </line>
+<action>He switches on the syringe and the frog grows. A lot.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> The process is, of course, reversible. </line>
+<action>And shrinks again. It is put in a bowl and taken away.</action> 
+<line><speaker who="winser">WINSER</speaker> It's incredible! </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Unlimited food. </line>
+<line><speaker who="doctor">DOCTOR</speaker> And unlimited power. </line>
+<line><speaker who="chinn">CHINN</speaker> We must have it!</line>
+</scene>
+<scene><location>Axos</location>
+
+<line><speaker who="jo">JO</speaker> <address who="filer" level="nickname">Bill</address>? </line>
+<action>One of the root-covered creatures comes out of the wall. She screams.</action>
+</scene>
+</episode>
+<episode>
+    <subtitle>Episode Two</subtitle>
+
+<scene><location>Axos main chamber</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> That's <reference who="jo" level="nickname">Jo</reference>! Come on! </line>
+<action>The Doctor and Brigadier run out.</action> 
+<line><speaker who="chinn">CHINN</speaker> <address who="hardiman" level="title">Sir George</address>, no, wait! Now, regarding an agreement. </line>
+<line><speaker who="axonm">AXON MAN</speaker> The emergency is sector seven. I'm sorry. I must investigate. </line>
+<action>The Axon man leaves.</action> 
+<line><speaker who="chinn">CHINN</speaker> I must make my report to <address who="minister" level="title">the Minister</address>. I think I can take care of this perpetual interference from these UNIT people.</line>
+</scene>
+<scene><location>Axos</location>
+
+<action>The Doctor and Brigadier find Jo lying at the feet of an Axon Man.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>! Are <address who="jo" level="pronoun">you</address> all right? What's happened? </line>
+<action>The Doctor helps Jo up.</action> 
+<line><speaker who="jo">JO</speaker> I saw this thing. It was shapeless and horrible and </line>
+<action>Jo sees Axon Man and squeals.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> It's all right, <address who="jo" level="myDear">my dear</address>. Don't be frightened. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="jo" level="titleSurname">Miss Grant</address>, what are <address who="jo" level="pronoun">you</address> doing here? I gave <address who="jo" level="pronoun">you</address> explicit orders. </line>
+    <line><speaker who="jo">JO</speaker> I was following <address who="brig" level="pronoun">you</address> in, <address who="brig" level="sir">sir</address>, and I thought I heard Bill Filer's voice. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <reference who="filer" level="surname">Filer</reference>? In here? </line>
+    <line><speaker who="jo">JO</speaker> I tried to find <reference who="filer" level="pronoun">him</reference> and then suddenly this awful thing appeared. It came straight out of the wall at me! </line>
+    <line><speaker who="axonm">AXON MAN</speaker> I think I can explain. We are close to the organic power sources here. Emission from the energy cells would have affected your sense perception, almost certainly causing <address who="jo" level="pronoun">you</address> to hallucinate. </line>
+<line><speaker who="jo">JO</speaker> And the voices? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Well, it's all part of the same thing, I'm afraid. <address who="jo" level="pronoun">You</address> must have been hearing things. </line>
+<line><speaker who="jo">JO</speaker> Hearing things? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Look, <address who="jo" level="nickname">Jo</address>, don't worry. The same thing happened to me when I first came in here. </line>
+    <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, I wasn't imagining things. I tell <address who="doctor" level="pronoun">you</address> I heard Bill Filer's voice!</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<action>Filer manages to get his gun from an inside pocket and tries shooting the claws that are holding him down.</action> 
+    <line><speaker who="master">MASTER</speaker> That won't help <address who="filer" level="pronoun">you</address>, <address who="filer" level="surname">Filer</address>! </line>
+<line><speaker who="filer">FILER</speaker> Go to hell! </line>
+    <line><speaker who="master">MASTER</speaker> Now look, if <address who="filer" level="pronoun">you</address> do what I say, we can both escape from here. </line>
+<line><speaker who="filer">FILER</speaker> Oh, yeah, sure. How? </line>
+    <line><speaker who="master">MASTER</speaker> That ganglion on the wall behind <address who="filer" level="pronoun">you</address>, <address who="filer" level="pronoun">you</address> see it? </line>
+<action>It's a green coiled rope thing.</action> 
+<line><speaker who="filer">FILER</speaker> Yeah? </line>
+    <line><speaker who="master">MASTER</speaker> That's the nerve sector of this section of <reference who="axos" level="title">Axos</reference>. Hit that and the shock will disorientate <reference who="axos" level="pronoun">it</reference> temporarily. </line>
+<line><speaker who="filer">FILER</speaker> And that's our chance? </line>
+<line><speaker who="master">MASTER</speaker> That's our only chance. </line>
+<line><speaker who="filer">FILER</speaker> Okay, I'll try. </line>
+<action>The first shot misses. The second blows a hole in the ganglion, letting gas escape. The claws release Filer and the Master.</action> 
+    <line><speaker who="master">MASTER</speaker> <address who="filer" level="surname">Filer</address>! Go!</line>
+</scene>
+<scene><location>UNIT Mobile HQ</location>
+
+<line><speaker who="radar2">RADAR 2</speaker> Your call to the Ministry, <address who="chinn" level="sir">sir</address>. </line>
+<line><speaker who="chinn">CHINN</speaker> Ah, just wait outside, will you? </line>
+    <line><speaker who="radar2">RADAR 2</speaker> <address who="chinn" level="sir">Sir</address>? </line>
+<line><speaker who="chinn">CHINN</speaker> Just wait outside! </line>
+    <line><speaker who="radar2">RADAR 2</speaker> Very good, <address who="chinn" level="sir">sir</address>. </line>
+    <line><speaker who="chinn">CHINN</speaker> <address who="minister" level="title">Minister</address>? Will <address who="minister" level="pronoun">you</address> scramble, or shall I, sir? </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>OC</location> Just your report, <address who="chinn" level="surname">Chinn</address>. I'm sure that will be quite garbled enough. </line>
+    <line><speaker who="chinn">CHINN</speaker> Yes, <address who="minister" level="sir">sir</address>. Well, as I anticipated, we are having a certain amount of trouble with these UNIT people, <address who="minister" level="sir">sir</address>. </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>OC</location> We, <address who="chinn" level="surname">Chinn</address>? We? </line>
+    <line><speaker who="chinn">CHINN</speaker> Well, I am, <address who="minister" level="sir">sir</address>. </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>OC</location> Are <address who="chinn" level="pronoun">you</address> quite sure <address who="chinn" level="pronoun">you</address> can handle this matter, <address who="chinn" level="surname">Chinn</address>? </line>
+    <line><speaker who="chinn">CHINN</speaker> Oh, yes, sir, yes, of course! Er, about the special powers, <address who="minister" level="sir">sir</address>? </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>OC</location> Because if <address who="chinn" level="pronoun">you</address> are not, just remember, it's your head on the block, <address who="chinn" level="surname">Chinn</address>, not mine.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<line><speaker who="hardiman">HARDIMAN</speaker> Yes, well, I think we ought to look to the future too. There are tremendous advantages for humanity in Axonite. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, tremendous material advantages, but I doubt if even Axonite could increase the growth of human common sense. But since <address who="hardiman" level="pronoun">you</address> seem hell bent on getting hold of it, I suggest the best thing to do is to restrict its use to your laboratories until we've made a full analysis of all its properties. </line>
+<line><speaker who="winser">WINSER</speaker> We? </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> <address who="doctor" level="pronoun">You</address> mean <address who="doctor" level="pronoun">you</address> want to cooperate with us? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Scientifically, yes. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> <address who="winser" level="surname">Winser</address>? </line>
+<line><speaker who="winser">WINSER</speaker> It depends. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> On what? </line>
+<line><speaker who="winser">WINSER</speaker> Who leads the investigation? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Why, <address who="winser" level="pronoun">you</address> do, of course!</line>
+</scene>
+<scene><location>UNIT Mobile HQ</location>
+
+    <line><speaker who="chinn">CHINN</speaker> Er, about my request, <address who="minister" level="sir">sir</address>? </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>OC</location> Special powers have already been granted. Do your best to keep me informed, <address who="chinn" level="otherEndear">old chap</address>. After all, <address who="chinn" level="pronoun">you</address> are our man on the spot, <address who="chinn" level="surname">Chinn</address>, in more ways than one. </line>
+    <line><speaker who="chinn">CHINN</speaker> <address who="minister" level="title">Minister</address>? Right, <address who="brig" level="title">Brigadier</address>!</line>
+</scene>
+<scene><location>Axos</location>
+
+<action>The Master is caught by tendrils from the walls, and Filer by two golden people.</action> 
+<line><speaker who="master">MASTER</speaker> What about me? I insist <address who="axos" level="pronoun">you</address> release me. I kept my side of the bargain. I insist! </line>
+<line><speaker who="axonm">AXON MAN</speaker> Silence. </line>
+<line><speaker who="filer">FILER</speaker> Where are <address who="axonm" level="pronoun">you</address> taking me? </line>
+<line><speaker who="axonm">AXON MAN</speaker> Replication sector. </line>
+<action>Elsewhere...</action> 
+<line><speaker who="axonm">AXON MAN</speaker> Name them. </line>
+<line><speaker who="chinn">CHINN</speaker> All we ask is your guarantee that the sole distribution right to all Axonite materials be vested in the British government. </line>
+<line><speaker who="axonm">AXON MAN</speaker> To bring the greatest possible benefit to all Earth peoples, Axonite distribution must be worldwide. </line>
+<line><speaker who="chinn">CHINN</speaker> I think I can give <address who="axonm" level="pronoun">you</address> that assurance. </line>
+<line><speaker who="axonm">AXON MAN</speaker> In that case, all that remains is for me to hand over samples of Axonite for your investigation to begin. </line>
+<line><speaker who="chinn">CHINN</speaker> Thank you. </line>
+<action>An Axon woman hands over a transparent globe with the stuff in it.</action> 
+<line><speaker who="chinn">CHINN</speaker> Thank you! </line>
+<action>Chinn leaves.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Begin re-absorption. </line>
+<action>The woman melts into the wall.</action>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="chinn" level="titleSurname">Mister Chinn</address>? What's been going on here? I warn <address who="chinn" level="pronoun">you</address>, <address who="chinn" level="pronoun">you</address> have no authority. </line>
+    <line><speaker who="chinn">CHINN</speaker> All over, <address who="brig" level="title">Brigadier</address>. No further concern of yours. Agreement has been reached. Britain has the world rights to Axonite. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Not as far as I'm concerned. </line>
+    <line><speaker who="chinn">CHINN</speaker> I'm warning <address who="brig" level="pronoun">you</address>, <address who="brig" level="title">Brigadier</address>. </line>
+<action>The Brigadier aims his revolver at Chinn.</action> 
+    <line><speaker who="brig">BRIGADIER</speaker> I'll take that, please. Thank you. Right, shall we go? <address who="doctor" level="title">Doctor</address>, <address who="jo" level="titleSurname">Miss Grant</address>. After <address who="chinn" level="pronoun">you</address>, <address who="chinn" level="titleSurname">Mister Chinn</address>.</line>
+</scene>
+<scene><location>UNIT Mobile HQ</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> What's going on here, <address who="yates" level="surname">Yates</address>? </line>
+<line><speaker who="yates">YATES</speaker> Regulars suddenly took over, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Took over? </line>
+    <line><speaker who="yates">YATES</speaker> We couldn't very well open fire on them, could we, <address who="brig" level="sir">sir</address>? </line>
+<line><speaker who="brig">BRIGADIER</speaker> What about the rest of the men? </line>
+    <line><speaker who="chinn">CHINN</speaker> They've all been arrested, and so, <address who="brig" level="title">Brigadier</address>, have <address who="brig" level="pronoun">you</address>. If <address who="brig" level="pronoun">you</address> will excuse me. </line>
+<action>Chinn takes back the Axonite from the Brigadier.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> You have no right. </line>
+<line><speaker who="chinn">CHINN</speaker> On the contrary, I have every right. You're all under security arrest under the Emergency Powers Act. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="harker" level="title">Captain</address>, this is an illegal act. </line>
+    <line><speaker who="harker">HARKER</speaker> I have my orders, <address who="brig" level="title">Brigadier</address>. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> I must tell <address who="chinn" level="pronoun">you</address>, <address who="chinn" level="titleSurname">Mister Chinn</address>, I shall make every possible attempt to warn the UN. </line>
+    <line><speaker who="chinn">CHINN</speaker> <address who="harker" level="title">Captain</address>, I want all these men put under twenty four hour armed guard. They are to see no one, no one at all. Do <address who="harker" level="pronoun">you</address> understand? If <address who="harker" level="pronoun">you</address> need me, I shall be with <reference who="hardiman" level="title">Sir George</reference>. </line>
+<action>Everyone leaves except the Doctor and Jo.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Hmm, quite a quandary. </line>
+    <line><speaker who="jo">JO</speaker> About which side <address who="doctor" level="pronoun">you</address>'re on, <address who="doctor" level="pronoun">you</address> mean? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Why should they foist this gift onto us? They must want something. <address who="jo" level="nickname">Jo</address>, tell me again about that creature that <address who="jo" level="pronoun">you</address> saw. </line>
+    <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">You</address> mean <address who="doctor" level="pronoun">you</address> believe me? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Yes, of course I believe <address who="jo" level="pronoun">you</address>. I always did. Now then, <address who="jo" level="pronoun">you</address>'re quite sure it was <reference who="filer" level="surname">Bill Filer</reference> that <address who="jo" level="pronoun">you</address> heard? </line>
+<action>Whilst the Axons do something clever to Filer in their replication unit, the Doctor shows Jo a photograph of the tramp.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> This body they found, was there no identification? </line>
+<line><speaker who="jo">JO</speaker> Apparently not. And when they touched it, it just disintegrated. There was a car, too. Bill Filer's. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Perhaps <reference who="filer" level="pronoun">he</reference> got here ahead of us? </line>
+    <line><speaker who="jo">JO</speaker> And they didn't find any sign of <reference who="filer" level="pronoun">him</reference>? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> No. Perhaps the same thing happened to <reference who="filer" level="pronoun">him</reference>. </line>
+    <line><speaker who="jo">JO</speaker> No! No, <reference who="filer" level="pronoun">he</reference> can't be dead. <reference who="filer" level="pronoun">He</reference>'s still inside that ship. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> I only hope <address who="jo" level="pronoun">you</address>'re right, <address who="jo" level="nickname">Jo</address>. </line>
+    <line><speaker who="jo">JO</speaker> Look, we must get <reference who="filer" level="pronoun">him</reference> out. We'll make the Axons let us search. </line>
+<action>Chinn enters with Harker and Winser.</action> 
+<line><speaker who="chinn">CHINN</speaker> You'll do no such thing. As far as I'm concerned, <reference who="filer" level="other">the man</reference> has ceased to exist. </line>
+<action>On the contrary, there are now two Bill Filers.</action> 
+    <line><speaker who="jo">JO</speaker> As far as <address who="chinn" level="pronoun">you</address>'re concerned, <address who="chinn" level="titleSurname">Mister Chinn</address>, nothing exists except this contemptible underhanded deal!</line>
+<line><speaker who="chinn">CHINN</speaker> I don't intend to prejudice anything at this stage. <reference who="filer" level="thatNP">This man</reference>, <reference who="filer" level="surname">Filer</reference>, is not going to cause an incident. There will be no search and that is that. <address who="harker" level="title">Captain</address>, have them both taken to the complex and put with the others. Remember, no contact with anyone at all. </line>
+<line><speaker who="harker">HARKER</speaker> Right, <address who="chinn" level="sir">sir</address>. </line>
+    <line><speaker who="winser">WINSER</speaker> Er, not <reference who="doctor" level="pronoun">him</reference>. <reference who="doctor" level="title">The, er, Doctor</reference>'s going to help with the preliminary investigations into Axonite. </line>
+<line><speaker who="chinn">CHINN</speaker> Very well. But understand, the slightest hint of delay or sabotage, it's your head on the block, not mine!</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<action>The Master is pinned to the floor now.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> We have done well, <address who="master" level="aliasTitle">Time Lord</address>. </line>
+<line><speaker who="master">MASTER</speaker> Of course. The humans are fools. </line>
+<line><speaker who="axonm">AXON MAN</speaker> So far your predictions have proved correct. This is indeed a rich planet <address who="master" level="pronoun">you</address> have brought us to. </line>
+<line><speaker who="master">MASTER</speaker> And am I to be released? </line>
+<line><speaker who="axonm">AXON MAN</speaker> As yet, we have only gained a foothold. For the maximum nutrient value, Axonite must encircle the world within the next seventy two hours. </line>
+<line><speaker who="master">MASTER</speaker> And for that to happen, your secret arrangement with the British Government must be made universally known. Now, I can do that for <address who="axos" level="pronoun">you</address>. Give me my freedom. </line>
+    <line><speaker who="axonm">AXON MAN</speaker> Your freedom? The bargain, you remember, was that if we spared <address who="master" level="pronoun">you</address> and your Tardis, <address who="master" level="pronoun">you</address> would lead us to this planet in return for the death of <reference who="doctor" level="title">the Doctor</reference>. </line>
+<line><speaker who="master">MASTER</speaker> And the destruction of all life on Earth. </line>
+    <line><speaker who="axonm">AXON MAN</speaker> Of course. But our sensors detected something <address who="master" level="pronoun">you</address> neglected to tell us. <reference who="doctor" level="thatNP">This Doctor</reference> is also a Time Lord, is he not? </line>
+<action>Filer is thrown through the membrane onto the floor.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> No one is irreplaceable.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>At the Nuton Complex, Winser shows the Doctor round his lab, a clear-walled place a tube running down through the middle, linking two giant hemispheres or spheres, we can't see which, above and below it. The opening dialogue cannot be heard over the music.</action> 
+<line><speaker who="winser">WINSER</speaker> This panel here. </line>
+<line><speaker who="doctor">DOCTOR</speaker> And this brings in the whole output of Reactor One? </line>
+<line><speaker who="winser">WINSER</speaker> Yeah! The particles are accelerated round and round the cyclotron in an ever increasing electromagnetic field. Eventually, we hope to have controlled acceleration up to the speed of light. Now, once beyond that point, the particles will be travelling in the fourth dimension. I will be able to begin my experiments with the nature of time itself. </line>
+<line><speaker who="doctor">DOCTOR</speaker> With the ultimate aim of making travel in time possible? </line>
+<line><speaker who="winser">WINSER</speaker> Why not? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, most impressive. Much larger than my own set-up, of course. </line>
+<line><speaker who="winser">WINSER</speaker> Your set-up? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes.</line>
+</scene>
+<scene><location>Axos</location>
+
+<action>Replica Filer is being spoken to by a very large eye dangling from the ceiling by its muscles.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> <reference who="doctor" level="other">The other Time Lord</reference> will be with the Axonite. Find <reference who="doctor" level="pronoun">him</reference> and bring <reference who="doctor" level="pronoun">him</reference> here.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+    <line><speaker who="winser">WINSER</speaker> Are <address who="doctor" level="pronoun">you</address> trying to tell me that <address who="doctor" level="pronoun">you</address> actually achieved time travel and published nothing? </line>
+<line><speaker who="doctor">DOCTOR</speaker> In Britain, no. </line>
+<line><speaker who="winser">WINSER</speaker> Where, then? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Elsewhere. Yes, yes, elsewhere. </line>
+<line><speaker who="winser">WINSER</speaker> And I suppose you can't remember. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes. As a matter of fact, that's the trouble. I can't. </line>
+<line><speaker who="winser">WINSER</speaker> How convenient. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Most inconvenient, actually. You know, I was thinking, if <address who="winser" level="pronoun">you</address>'d really like to take a look at my Tardis, maybe I can arrange to have it brought down. </line>
+    <line><speaker who="winser">WINSER</speaker> Tardis? Are <address who="doctor" level="pronoun">you</address> serious? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Absolutely. Perhaps we can get it operational, with the help of this stuff. </line>
+<action>The Doctor taps the globe of Axonite. Meanwhile Filer wakes up pinned to the floor by claws that react to his attempts to get up quickly, but don't seem to notice very gentle, slow movements.</action> 
+<line><speaker who="winser">WINSER</speaker> No, <address who="doctor" level="title">Doctor</address>, I simply won't hear of it! </line>
+    <line><speaker who="doctor">DOCTOR</speaker> But don't <address who="winser" level="pronoun">you</address> see? It's the simplest way to break it down. </line>
+    <line><speaker who="winser">WINSER</speaker> <address who="doctor" level="pronoun">You</address>'re asking me to risk fifty million pounds worth of equipment! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Look, all we have to do is take the Axonite, put it in the light accelerator and crack it down into particles. </line>
+<line><speaker who="winser">WINSER</speaker> Oh! No, it's far too hazardous. The whole damn lot could go up. </line>
+<line><speaker who="doctor">DOCTOR</speaker> If it is a thinking molecule, it should analyse itself. All we have to do is switch on and read the printout. </line>
+<line><speaker who="winser">WINSER</speaker> Analyse itself? Is the spectroscope set? </line>
+<action>An assistant nods.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Spectroscope? You might as well use a magnifying glass. </line>
+    <line><speaker who="winser">WINSER</speaker> What was that, <address who="doctor" level="title">Doctor</address>? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Oh, nothing, <address who="winser" level="myDearNP">my dear Holmes</address>.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>Filer's slow, careful escape from the cell succeeds.</action> 
+    <line><speaker who="master">MASTER</speaker> I know their ways on Earth. I can move around freely. I'm familiar with their systems, their organisations. <address who="axos" level="pronoun">You</address> don't have the time to learn these things. If the nutrition cycle is to be activated in the next seventy-two hours, <address who="axos" level="pronoun">you</address> must have worldwide distribution by then. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Data confirms feasibilities. Queries motivation. Decision reads, release <reference who="master" level="aliasTitle">Time Lord</reference> but retain his Tardis time capsule until mission completed. </line>
+<line><speaker who="master">MASTER</speaker> But I must have my Tardis! </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Negative. Data indicates time capsule unnecessary for success of mission. </line>
+<line><speaker who="master">MASTER</speaker> Well, at least give me back my laser gun. I may need to defend myself. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Return of laser gun is acceptable. Possession of time capsule will prevent hostile action. </line>
+<action>The giant eye goes dark and the Master leaves. Filer is crouching nearby.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Cell area. Emergency! Emergency! Emergency! </line>
+<action>Outside the spaceship, a soldier is looking the other way as the Master creeps out of the main hatch. Finally the soldier hears his footsteps crunching on the shingle, turns and gets killed with the laser gun. The Master runs off and the main hatch starts to close. Filer throws himself through at the last moment, sees the dead soldier and runs in the opposite direction to the Master.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> Well? </line>
+<line><speaker who="winser">WINSER</speaker> Not a thing. Damn it. It should show some response to something. </line>
+<line><speaker who="doctor">DOCTOR</speaker> It's been programmed not to. Don't <address who="winser" level="pronoun">you</address> see, it's deliberately resisting analysis. Well, isn't it? </line>
+<line><speaker who="winser">WINSER</speaker> Go on, say it. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Say what? </line>
+<line><speaker who="winser">WINSER</speaker> I told you so! </line>
+    <line><speaker who="doctor">DOCTOR</speaker> I told <address who="winser" level="pronoun">you</address> so! Particle acceleration, it's the only answer. If <address who="winser" level="pronoun">you</address>'re not prepared to risk your own equipment, why don't we try mine? </line>
+    <line><speaker who="winser">WINSER</speaker> I thought <address who="doctor" level="pronoun">you</address> said it was US. </line>
+<line><speaker who="doctor">DOCTOR</speaker> A certain malfunction of the drive system, yes, but the other components are all right. We could put them through the main reactor. </line>
+<line><speaker who="winser">WINSER</speaker> Well, if we <action>thinks</action> If we can bypass the malfunction and your light accelerator's compatible, it might work. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> It's the only thing left to do, isn't it? If <address who="winser" level="pronoun">you</address> could persuade the powers that be? </line>
+    <line><speaker who="winser">WINSER</speaker> Yes, I suppose <address who="doctor" level="pronoun">you</address>'re right. I'll see what I can do. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Right.</line>
+</scene>
+<scene><location>Army lorry</location>
+
+<action>The Master sees a lorry coming along a road and about to drive under a bridge, so he goes onto the bridge and jumps down onto its roof. From there he gets down to the nearside and makes his way to the cab, where the UNIT driver sees him in the wing mirror. Their eyes meet.</action> 
+    <line><speaker who="master">MASTER</speaker> I am the Master. <address who="driver0" level="pronoun">You</address> will obey me. <address who="driver0" level="pronoun">You</address> will obey me.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>The Doctor has unlocked and opened the central tube.</action> 
+<line><speaker who="filer2">FILER 2</speaker> <address who="doctor" level="title">Doctor</address>. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="filer2" level="surname">Filer</address>! So <address who="filer2" level="pronoun">you</address> got away? </line>
+    <line><speaker who="filer2">FILER 2</speaker> Come with me, <address who="doctor" level="title">Doctor</address>. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Come with <address who="filer2" level="pronoun">you</address>? What are <address who="filer2" level="pronoun">you</address> talking about? </line>
+    <line><speaker who="filer2">FILER 2</speaker> Come to Axos! </line>
+<action>The replica Filer puts the Doctor in an arm lock, but he uses his Venusian karate to break the hold.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> I won't go to Axos or anywhere else with <address who="filer2" level="pronoun">you</address>! In any case, <address who="filer2" level="pronoun">you</address>'re not <reference who="filer" level="surname">Filer</reference>! </line>
+<action>Because that finger jab in the collar area hasn't immobilised his attacker.</action> 
+    <line><speaker who="filer2">FILER 2</speaker> Come to Axos. </line>
+<line><speaker who="filer">FILER</speaker> Out of the way, <address who="doctor" level="nickname">Doc</address>! </line>
+<action>The Doctor turns to see the real Filer with his gun ready. Replica Filer hits him over the head and he falls, giving real Filer the chance to empty his gun into his evil twin. Then he tries to go hand to hand, and they throw each other around the lab. The Doctor comes to, gets up and tackles one of the men.</action> 
+    <line><speaker who="filer">FILER</speaker> No, <address who="doctor" level="nickname">Doc</address>! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Doc? </line>
+<line><speaker who="filer">FILER</speaker> No! </line>
+<action>Replica Filer tries to rush them both. They separate and it rushes headlong into the open light accelerator chamber, where it screams then explodes into a foaming mass of bubbles.</action> 
+<line><speaker who="filer">FILER</speaker> Boy, am I glad that's not me in there. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Are <address who="filer" level="pronoun">you</address> quite sure it isn't? </line>
+<line><speaker who="filer">FILER</speaker> Yeah, quite sure! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Good! Come along.</line>
+</scene>
+<scene><location>UNIT corridor</location>
+
+    <line><speaker who="master">MASTER</speaker> <address who="driver0" level="pronoun">You</address> will load the Doctor's Tardis onto your lorry. <address who="driver0" level="pronoun">You</address> will need some help. </line>
+<line><speaker who="driver0">DRIVER</speaker> I will need some help. </line>
+    <line><speaker who="master">MASTER</speaker> Get the guard to give <address who="driver0" level="pronoun">you</address> a hand. </line>
+<line><speaker who="driver0">DRIVER</speaker> The guard. </line>
+<line><speaker who="master">MASTER</speaker> Now.</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> I tell you, <address who="brig" level="title">Brigadier</address>, <reference who="axos" level="pronoun">they</reference> replicated <reference who="filer" level="nickname">Bill</reference> here. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Replicated? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Faked, copied, duplicated. </line>
+<line><speaker who="brig">BRIGADIER</speaker> But how? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Look, does it matter how, <address who="brig" level="title">Brigadier</address>? We haven't got the time to explain. </line>
+<line><speaker who="jo">JO</speaker> Axonite, the copying molecule! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, thank you, <address who="jo" level="nickname">Jo</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Yes, but I still don't see </line>
+<line><speaker who="doctor">DOCTOR</speaker> <address who="filer" level="nickname">Bill</address>, was <reference who="master" level="title">the Master</reference> in <reference who="axos" level="title">Axos</reference> or not? </line>
+    <line><speaker who="filer">FILER</speaker> <reference who="master" level="pronoun">He</reference> sure is, or was until <reference who="master" level="pronoun">he</reference> escaped. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Which was why <reference who="axos" level="pronoun">they</reference> sent <reference who="filer2" level="surname">Filer</reference>, <reference who="filer2" level="theNP">the fake Filer</reference>, after me. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Then they're not human at all? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Human! They're not even humanoid! </line>
+    <line><speaker who="filer">FILER</speaker> Well, according to <reference who="master" level="title">the Master</reference>, <reference who="axos" level="pronoun">they</reference>'re some kind of scavenger. You know, no planet, nothing. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> The whole thing's just a pack of lies, <address who="brig" level="title">Brigadier</address>. </line>
+<line><speaker who="jo">JO</speaker> Apart from Axonite copying things. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, quite. Look, we've got to stop <reference who="chinn" level="surname">Chinn</reference> getting hold of that stuff. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right. </line>
+<action>Harker and a soldier enter.</action> 
+<line><speaker who="harker">HARKER</speaker> Nobody move, please. Take his gun. </line>
+<action>Filer gives the soldier his pistol, and he leaves with it.</action> 
+<line><speaker who="harker">HARKER</speaker> I'm sorry, <address who="filer" level="titleSurname">Mister Filer</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="harker" level="title">Captain</address>, listen! </line>
+    <line><speaker who="harker">HARKER</speaker> <address who="brig" level="title">Brigadier</address>, I already have. </line>
+<action>Harker takes a listening bug from under the desk.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> And what is your decision? </line>
+<line><speaker who="harker">HARKER</speaker> Unfortunately, I have my orders. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Which are? </line>
+<line><speaker who="harker">HARKER</speaker> To confine <address who="doctor" level="pronoun">you</address> strictly to the laboratory.</line>
+</scene>
+<scene><location>UNIT radar tracking</location>
+
+<action>UNIT security is useless as the Master makes it all the way through the Brigadier's office and the main office to here.</action> 
+    <line><speaker who="radar1">RADAR 1</speaker> Trap One, do you read me? Over. Hello <address who="brig" level="aliasTitle">Greyhound</address>, this is Trap One. Do <address who="brig" level="pronoun">you</address> read me? Over. No use, <address who="radar2" level="nickname">Harry</address>. Who are <address who="master" level="pronoun">you</address>? </line>
+<line><speaker who="master">MASTER</speaker> <reference who="brig" level="title">The Brigadier</reference> sent me. </line>
+<line><speaker who="radar1">RADAR 1</speaker> What's going on </line>
+    <line><speaker who="master">MASTER</speaker> <address who="radar1" level="pronoun">You</address> have a top priority message to send to the United Nations. I will tell <address who="radar1" level="pronoun">you</address> what to say. </line>
+<action>The hapless man meets the Master's eyes and falls under his control.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>The Doctor starts a grand old reel to reel tape recorder going and speaks into a microphone.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="winser" level="myDearNP">My dear Winser</address>, I hope <address who="winser" level="myDearNP">you</address>'ll forgive this unauthorised use of your precious equipment, but in case there is an accident, I'm making this recording of what not to do. I am about to place the Axonite in the light accelerator. </line>
+<action>The Doctor opens up the main tube and puts the orange blob on a stand in the middle, then locks it up again. He checks his watch and makes a note on a clipboard.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Now, the idea is to split off a stream of Axonite particles and accelerate them through time. In this way, we shall force it to analyse itself on the printout. Right, here goes. Reactor One activated. Accelerating. Point one. Two. Three. It's reacting. Speed of light, now! </line>
+<action>A bell rings as the Axonite foams and bubbles in the tube.</action>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>In the spaceship, the golden people are clutching their heads.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Emergency! Nutrition cycle prematurely activated! Immediate recovery essential. Emergency! Emergency!</line>
+</scene>
+<scene><location>Nuton Complex corridor</location>
+
+<line><speaker who="harker">HARKER</speaker> Are the prisoners still inside? Open up! </line>
+<action>Harker enters the room then comes flying back out and lands on the floor, gasping. Filer knocks out the guard.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Sorry, <address who="harker" level="title">Captain</address>. Well done, <address who="filer" level="surname">Filer</address>. I must get on to UNIT headquarters. <address who="filer" level="pronoun">You</address> go with <reference who="jo" level="nickname">Jo</reference> and find <reference who="doctor" level="title">the Doctor</reference>. </line>
+<line><speaker who="jo">JO</speaker> But </line>
+<line><speaker who="brig">BRIGADIER</speaker> If anyone can explain, <reference who="doctor" level="pronoun">he</reference> can. Now hurry! </line>
+<action>The Brigadier goes back into the office.</action> 
+    <line><speaker who="jo">JO</speaker> <reference who="doctor" level="title">The Doctor</reference>'s in the laboratory, isn't <reference who="doctor" level="pronoun">he</reference>? </line>
+<line><speaker who="filer">FILER</speaker> Yeah, that's where the alarm's coming from.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>The accelerator is up to light x 2.</action> 
+<line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">Doctor</address>, what are you doing? </line>
+<line><speaker who="doctor">DOCTOR</speaker> A small experiment, that's all. </line>
+<line><speaker who="jo">JO</speaker> What? </line>
+<line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, please keep back! That's Axonite in there. It's now taking the whole output of Reactor One and absorbing it. Absorbing the whole lot and using it to grow. </line>
+<line><speaker who="winser">WINSER</speaker> What the hell's happening here? Get away from of my equipment, you idiots! </line>
+<action>Winser turns off the accelerator.</action> 
+<line><speaker who="winser">WINSER</speaker> Oh, <address who="doctor" level="insult">you stupid quack</address>! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Don't touch that! </line>
+<action>Winser goes to unlock the tube door. Blue energy lances through him, throwing him backwards. The Doctor stares as Winser changes into something else.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Yes, of course! Axons! <reference who="axos" level="thatNP">That ship</reference>, Axonite, it's all the same thing! Don't you see we're dealing with one single living creature? Axonite was just the dormant state until I activated it. </line>
+<line><speaker who="filer">FILER</speaker> Can't you stop it? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> No, it's too late. Don't <address who="filer" level="pronoun">you</address> see, <address who="filer" level="surname">Filer</address>? This stuff could endanger the entire world. </line>
+    <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">Doctor</address>! Look out! </line>
+<action>A large orange blob, which used to be Winser, is rolling towards them. All three run for the door but their way is blocked by a root creature. Another comes in through the opposite door.</action>
+</scene></episode>
+
+<episode>
+    <subtitle>Episode Three</subtitle>
+
+<scene><location>Light Acceleration laboratory</location>
+
+<action>Filer gets touched by a root or tentacle, and collapses. Jo and the Doctor are surrounded.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> De-energise them. </line>
+<action>The Doctor and Jo suddenly stiffen, then relax.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Re-personalise. </line>
+<action>The creatures turn into beautiful people.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Re-personalisation completed. Take them to Axos.</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+    <line><speaker who="brig">BRIGADIER</speaker> <action>into phone</action> What are <address who="opertr" level="pronoun">you</address> talking about, <address who="opertr" level="man">man</address>? I repeat, I want an urgent cable to Geneva HQ. Now, message reads, <reference who="chinn" level="surname">Chinn</reference> making illegal unilateral deal. Request confirmation. What do <address who="opertr" level="pronoun">you</address> mean, a similar message has already been sent? It can't have been! Well, there must have been a security leak. Look, just tell me exactly what happened. </line>
+<action>Harker enters and points his gun at the Brigadier.</action> 
+    <line><speaker who="brig">BRIGADIER</speaker> Just a moment. <address who="harker" level="pronoun">You</address> can put that away, <address who="harker" level="title">Captain</address>. I don't think <address who="harker" level="pronoun">you</address>'ll be needing it. </line>
+<line><speaker who="harker">HARKER</speaker> <address who="brig" level="sir">Sir</address>, <address who="brig" level="pronoun">you</address>'re still under arrest. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> I doubt it. I think <address who="harker" level="pronoun">you</address>'d better get in contact with your HQ.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>Chinn and Hardiman run in. A Axon man is standing there.</action> 
+<line><speaker who="hardiman">HARDIMAN</speaker> What's happened? Where's <reference who="winser" level="surname">Winser</reference>? </line>
+<line><speaker who="axonm">AXON MAN</speaker> <reference who="winser" level="other">Your scientist</reference> has been killed. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Killed? How? </line>
+<line><speaker who="axonm">AXON MAN</speaker> His body was destroyed by an intense blast of radiation. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Radiation? </line>
+<line><speaker who="chinn">CHINN</speaker> What happened? </line>
+<line><speaker who="axonm">AXON MAN</speaker> Our instruments showed attempts were being made to interfere with the structure of Axonite. We came to help, but we were too late. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> We? </line>
+<line><speaker who="axonm">AXON MAN</speaker> My crew have removed the unstable material. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> And the radiation? </line>
+<line><speaker who="axonm">AXON MAN</speaker> Has already been neutralised. </line>
+<line><speaker who="chinn">CHINN</speaker> Did you authorise these experiments, <address who="hardiman" level="title">Sir George</address>? </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> No, I did not. <reference who="winser" level="surname">Winser</reference> went his own way, <reference who="winser" level="other">poor devil</reference>. </line>
+<line><speaker who="chinn">CHINN</speaker> Did you mean to tell me </line>
+<line><speaker who="axonm">AXON MAN</speaker> The blame is for you to decide. This kind of thing must never happen again. Never! Otherwise, we shall cancel the agreement.</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<action>Jo is held on the floor and the Doctor pinned to the wall.</action> 
+<line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>! I can't move! </line>
+<line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, lie still! There's nothing we can do. </line>
+<line><speaker who="jo">JO</speaker> Where are we? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> We're back inside <reference who="axos" level="title">Axos</reference>, and these claws or whatever you call them, they're a living part of <reference who="axos" level="title">Axos</reference>. </line>
+    <line><speaker who="jo">JO</speaker> Why did <reference who="axos" level="pronoun">they</reference> bring us here? </line>
+<line><speaker who="doctor">DOCTOR</speaker> I wish I knew.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="harker">HARKER</speaker> Excuse me, <address who="chinn" level="sir">sir</address>. I've been talking to my HQ about <reference who="brig" level="titleSurname">Brigadier Lethbridge Stewart</reference>. </line>
+    <line><speaker who="chinn">CHINN</speaker> <reference who="brig" level="title">The Brigadier</reference> is under arrest. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> Any sign of <reference who="jo" level="titleSurname">Miss Grant</reference> or <reference who="doctor" level="title">the Doctor</reference>? </line>
+    <line><speaker who="harker">HARKER</speaker> Er, no, <address who="chinn" level="sir">sir</address>. Excuse me, <address who="chinn" level="sir">sir</address>, the message from HQ. </line>
+<line><speaker who="chinn">CHINN</speaker> Not now! </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> When <address who="axonm" level="pronoun">you</address> arrived here, were there any signs </line>
+<line><speaker who="axonm">AXON MAN</speaker> When we arrived there was no one here, except <reference who="filer" level="thatNP">this man</reference>. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> <reference who="filer" level="surname">Filer</reference>! </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <reference who="filer" level="pronoun">He</reference> is in a coma. Since my help is no longer needed. I shall return to my ship. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> Here, give us a hand. <reference who="filer" level="pronoun">He</reference>'s terribly ill. </line>
+<action>The Brigadier and a soldier pick up Filer.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> You've got a medical wing, haven't you? Well, take him there. Get on with it! </line>
+<line><speaker who="harker">HARKER</speaker> Right, <address who="brig" level="sir">sir</address>. Come on.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>The big eye stares at Jo and the Doctor while it speaks through an image of a beautiful man on the wall.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> All things must die, <address who="doctor" level="title">Doctor</address>. Mankind, this planet, <reference who="axos" level="title">Axos</reference> merely hastens the process. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Oh? How? </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> Axonite is simply bait for human greed. Because of this greed, Axonite will soon spread across the entire planet and then the nutrition cycle will begin. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Indeed, and what then? </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> Slowly we will consume every particle of energy, every last cell of living matter. Earth will be sucked dry!</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> On the contrary, <address who="chinn" level="titleSurname">Mister Chinn</address>, the position has changed. </line>
+<line><speaker who="chinn">CHINN</speaker> Changed? How? <address who="harker" level="title">Captain</address>? </line>
+    <line><speaker who="harker">HARKER</speaker> I'm afraid so, <address who="chinn" level="sir">sir</address>. I did try and tell <address who="chinn" level="pronoun">you</address>. I've had orders direct from the Ministry. I'm to hand over command to <reference who="brig" level="title">the Brigadier</reference>. </line>
+<line><speaker who="chinn">CHINN</speaker> Ministry? But I haven't heard anything about this! </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Well, <address who="chinn" level="pronoun">you</address> have now. </line>
+<line><speaker who="chinn">CHINN</speaker> Now, look here </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="harker" level="title">Captain</address>, anything on <reference who="doctor" level="title">the Doctor</reference> and <reference who="jo" level="titleSurname">Miss Grant</reference>? </line>
+<line><speaker who="harker">HARKER</speaker> No, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right, release my men. They'll help <address who="harker" level="pronoun">you</address> search. We've got to find them.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> Well, obviously, your plan entails some sort of time limit. </line>
+<line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> Axonite must be activated within seventy two hours of our landing. </line>
+<action>The eye goes blank.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> You know, <address who="jo" level="nickname">Jo</address>, I think <reference who="chinn" level="kinship">our friend Chinn</reference> has done the right thing for once. For the wrong reasons, of course. </line>
+<line><speaker who="jo">JO</speaker> What do you mean? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Well, fortunately, <reference who="chinn" level="pronoun">he</reference> intends to confine the entire supply of Axonite to Britain.</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+<line><speaker who="minister">MINISTER</speaker> <location>on monitor</location> <address who="chinn" level="surname">Chinn</address>? </line>
+<line><speaker who="chinn">CHINN</speaker> <address who="minister" level="sir">Sir</address>? </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>on monitor</location> Perhaps <address who="chinn" level="pronoun">you</address> can tell me why the sole result of the special powers I granted <address who="chinn" level="pronoun">you</address>, has been this catastrophic security leak? </line>
+    <line><speaker who="chinn">CHINN</speaker> Catastrophic security leak? Which catastrophic security leak, <address who="minister" level="sir">sir</address>? </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>on monitor</location> The United Nations are demanding the immediate free world-wide distribution of Axonite. The whole thing has blown up in our faces, <address who="chinn" level="surname">Chinn</address>. </line>
+    <line><speaker who="chinn">CHINN</speaker> Yes, <address who="minister" level="sir">sir</address>. In our faces, <address who="minister" level="sir">sir</address>. </line>
+<line><speaker who="minister">MINISTER</speaker> <location>on monitor</location> Distribution is to take place immediately. </line>
+    <line><speaker who="chinn">CHINN</speaker> Yes, <address who="minister" level="sir">sir</address>. Just as soon as I can </line>
+<line><speaker who="minister">MINISTER</speaker> <location>on monitor</location> Yes, sir. Not as soon as, immediately. Arrange air transport. </line>
+    <line><speaker who="chinn">CHINN</speaker> <address who="minister" level="pronoun">You</address> can depend upon me, <address who="minister" level="sir">sir</address>. </line>
+    <line><speaker who="minister">MINISTER</speaker> <location>on monitor</location> Hmm? What? Yes, well, just in case we can't. Your resignation, <address who="chinn" level="surname">Chinn</address>. All ready for signature. Goodbye, <address who="chinn" level="surname">Chinn</address>. </line>
+<line><speaker who="chinn">CHINN</speaker> <action>into phone</action> Hello? Get me air transport liaison. Hello, Chinn here. I want <address who="transpt0" level="pronoun">you</address> to arrange for world-wide distribution of Axonite immediately.</line>
+</scene>
+<scene><location>Medical bay</location>
+
+<action>Filer is in bed and a nurse makes a note on his chart, then leaves.</action> 
+<line><speaker who="filer">FILER</speaker> Axonite. Axonite. Dangerous. Must be kept here. Must not distribute. Must not distribute.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>The Tardis has been delivered by UNIT. Benton speaks to an officer who keeps his back to us and his face covered by greatcoat collar and cap.</action> 
+<line><speaker who="benton">BENTON</speaker> Will there be anything else, <address who="general1" level="sir">sir</address>? </line>
+<line><speaker who="general1">GENERAL</speaker> Thank you, <address who="benton" level="title">Sergeant</address>. That will be all. </line>
+<line><speaker who="benton">BENTON</speaker> I ought to let <reference who="brig" level="title">the Brigadier</reference> know <address who="general1" level="pronoun">you</address>'re here. </line>
+    <line><speaker who="general1">GENERAL</speaker> <address who="benton" level="pronoun">You</address>'ll do no such thing and that's an order, <address who="benton" level="title">Sergeant</address>. </line>
+    <line><speaker who="benton">BENTON</speaker> <address who="general1" level="sir">Sir</address>, <reference who="brig" level="pronoun">he</reference> would like to know </line>
+    <line><speaker who="general1">GENERAL</speaker> This is a surprise inspection. I'll make meself known to <reference who="brig" level="title">the Brigadier</reference> in me own time. </line>
+    <line><speaker who="benton">BENTON</speaker> Very good, <address who="general1" level="sir">sir</address>. </line>
+<line><speaker who="general1">GENERAL</speaker> Thank you. </line>
+<action>Benton and the soldiers leave. The Master removes his rubber mask and cap and takes off the greatcoat. He looks around the empty lab, then goes over to the Tardis and uses his version of a sonic screwdriver on the lock. The door opens and the Master goes inside.</action>
+</scene>
+<scene><location>Medical bay</location>
+
+    <line><speaker who="filer">FILER</speaker> No, we must find <reference who="master" level="pronoun">him</reference>! Helping <reference who="axos" level="pronoun">them</reference>! Got to find <reference who="master" level="pronoun">him</reference>. Must find <reference who="master" level="title">the Master</reference>.</line>
+</scene>
+<scene><location>Tardis</location>
+
+<action>The Master looks at all the wiring littering the main console.</action> 
+    <line><speaker who="master">MASTER</speaker> Oh, no! But what does <reference who="doctor" level="pronoun">he</reference> think <reference who="doctor" level="pronoun">he</reference>'s doing? What a botch-up!</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>The Doctor is suffering an interrogation.</action> 
+<line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> Lies are useless, <address who="doctor" level="aliasTitle">Time Lord</address>! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Look, for the thousandth time, I tell <address who="axos" level="pronoun">you</address> I am not a Time Lord. </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> We have explored the blocks the Time Lords have imposed upon your memory and can free them. We must have the secret of time travel. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Must <address who="axos" level="pronoun">you</address>? Why? </line>
+<line><speaker who="axonm">AXON MAN</speaker> Soon it will be necessary to expand our feeding range to increase the energy sources available to us. Space-time travel will give us this power.</line>
+</scene>
+<scene><location>Tardis</location>
+
+<line><speaker who="master">MASTER</speaker> Oh, well, I suppose it could be made to work. Just possibly. Right, <address who="doctor" level="title">Doctor</address>. Don't keep me waiting, will you?</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> I refuse to align myself to this cosmic bacteria of yours. </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> We shall see. <address who="doctor" level="pronoun">You</address> have seen how Axonite can absorb the life force from a human body. Now we have arranged for <reference who="jo" level="other">your companion</reference> to age to death before your eyes. </line>
+<line><speaker who="doctor">DOCTOR</speaker> <reference who="jo" level="nickname">Jo</reference>? </line>
+<action>On the wall, an image of Jo starts to age.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> No! No! No! Stop! Stop! </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> <address who="doctor" level="pronoun">You</address> will co-operate? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="axos" level="pronoun">You</address> cannot defy the laws of time. Give me a chance and I'll prove it to <address who="axos" level="pronoun">you</address>. </line>
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> Very well. Release <reference who="jo" level="pronoun">her</reference>. </line>
+<action>The image returns to young Jo.</action> 
+    <line><speaker who="axonm">AXON MAN</speaker> <location>on monitor</location> All right, <address who="doctor" level="title">Doctor</address>. Begin.</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+    <line><speaker who="brig">BRIGADIER</speaker> The whole question of Axonite's distribution must be shelved until we've found <reference who="doctor" level="title">the Doctor</reference> and got his report on it. </line>
+    <line><speaker who="chinn">CHINN</speaker> <reference who="doctor" level="title">the Doctor</reference>? I spotted <reference who="doctor" level="pronoun">him</reference> for a charlatan the moment I saw <reference who="doctor" level="pronoun">him</reference>. If you ask me, <address who="brig" level="title">Brigadier</address>, <address who="brig" level="pronoun">you</address>'re not going to see much of <reference who="doctor" level="thatNP">that gentleman</reference> again. </line>
+<line><speaker who="axonm">AXON MAN</speaker> Large quantities of Axonite are available for immediate distribution. Perhaps <address who="chinn" level="pronoun">you</address> could show me the extent of the operation.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Concentrate, <address who="doctor" level="title">Doctor</address>. <address who="doctor" level="pronoun">You</address> have only to think the equation. The mind of Axos will do the rest. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Very well. </line>
+<action>A set of equations flash up on the wall.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Good, now the power requirements. What is this? Remember what will happen if you lie. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Pure mathematics cannot lie. <address who="axos" level="pronoun">You</address>'ll need an immense amount of power to create a time field for anything as large as Axos.  </line>
+    <action>10 to the 9th power mega K-tons, apparently.</action>
+<line><speaker who="doctor">DOCTOR</speaker> There you are. There are your final power requirements. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> All data confirmed. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="axos" level="pronoun">You</address> see? Just as I told <address who="axos" level="pronoun">you</address>. Far in excess of your total power capacity. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Add the full power output of the Nuton complex to your figures, <address who="doctor" level="title">Doctor</address>. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Oh, all right, but I fail to see what good it will do. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Data confirms space-time travel possible using additional power from complex. <address who="doctor" level="pronoun">You</address> see, <address who="doctor" level="title">Doctor</address>, we can call upon the additional power of the complex whenever we need it. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> How? <address who="axos" level="pronoun">You</address> can't just walk in there and take it. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> On the contrary, <address who="doctor" level="title">Doctor</address>. We can.</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+<line><speaker who="chinn">CHINN</speaker> Cape Kennedy, ten units of Axonite in transit. Washington Pentagon, five units due for take-off eleven hundred hours GMT. Ottawa, one unit Axonite in transit. Baikonur ten units, ETA twelve thirty GMT. Lop Nor? Lop Nor, five units. Yes, well there we are. Axonite consignments on their way to every major capital and scientific establishment in the world. </line>
+<line><speaker who="axonm">AXON MAN</speaker> Excellent. </line>
+<line><speaker who="chinn">CHINN</speaker> Thank you. </line>
+<action>The Axon man gets a private message.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> De-personalise. Locate and enter main reactor. Establish link to transmit power. </line>
+<line><speaker who="chinn">CHINN</speaker> Yes, well, that just about wraps it up. Aren't <address who="axonm" level="pronoun">you</address> going to wait for confirmation of arrivals? </line>
+<line><speaker who="axonm">AXON MAN</speaker> I must leave now. </line>
+    <line><speaker who="chinn">CHINN</speaker> Is something wrong? Are <address who="axonm" level="pronoun">you</address> all right?</line>
+</scene>
+<scene><location>Medical bay</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> <address who="filer" level="pronoun">You</address>'re sure of all this? </line>
+    <line><speaker who="filer">FILER</speaker> Look, I may have been sick, <address who="brig" level="title">Brigadier</address>, but I am not crazy. Now, the Axonite killed Winser, then the Axons turn up, clobbered me and took <reference who="jo" level="nickname">Jo</reference> and <reference who="doctor" level="nickname">the Doc</reference> off. </line>
+<line><speaker who="brig">BRIGADIER</speaker> And <reference who="doctor" level="title">the Doctor</reference> said that Axonite could become a danger to the whole world? </line>
+<line><speaker who="filer">FILER</speaker> Sure. Something about draining all energy. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right, I'm going to have a word with <reference who="chinn" level="surname">Chinn</reference>, not to mention our Axon friends. </line>
+<line><speaker who="filer">FILER</speaker> Hey, hey! Wait for me! </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <location>OC</location> Lay there and rest! </line>
+<line><speaker who="filer">FILER</speaker> Yeah, sure. Will one of you Florence Nightingales kindly get my clothes?</line>
+</scene>
+<scene><location>Nuton complex</location>
+
+<action>The Axon man is already starting to change into root creature when the Brigadier spots it walking along a corridor.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Hey! <address who="axonm" level="pronoun">You there</address>! Stop! </line>
+<action>Fully mutated it walks along the glass high-walk between two buildings and goes outside. The Brigadier spots it coming up on a soldier, who turns and fires his rifle at it. The bullets make some holes in it but that is all. The soldier turns and runs. The Axon creature extends one of its tentacles, touches his back and he explodes. Then it carries on to the main research reactor, where two UNIT soldiers open fire on it before meeting their fate. The Brigadier sees it enter the reactor building.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="yates">YATES</speaker> Right, <address who="benton" level="surname">Benton</address>, get your skates on. </line>
+<line><speaker who="benton">BENTON</speaker> Right, <address who="yates" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Where's <reference who="hardiman" level="pronoun">Hardiman</reference>? </line>
+    <line><speaker who="yates">YATES</speaker> <reference who="hardiman" level="pronoun">He</reference>'s up in the control box, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right, come on. <address who="hardiman" level="title">Sir George</address>! </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> May I ask why your men have brought an obsolete police box into my research laboratory? </line>
+<line><speaker who="brig">BRIGADIER</speaker> I've no idea. Oh, that's part of the Doctor's equipment.</line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> Is it? Well, I </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="hardiman" level="title">Sir George</address>, I must ask <address who="hardiman" level="pronoun">you</address> to check the main reactor. I'm sorry, this is really rather urgent.</line>
+</scene>
+<scene><location>Laboratory control box</location>
+
+<line><speaker who="hardiman">HARDIMAN</speaker> Very well. Yes, the readings are slightly up. What is all this? </line>
+<line><speaker who="brig">BRIGADIER</speaker> <reference who="axonm" level="kinship">Our Axon friend</reference> has just walked straight into the furnace of the main reactor. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> What?</line>
+</scene>
+<scene><location>Tardis</location>
+
+<action>The Master has tidied up all the wiring and is trying to get the old girl started.</action> 
+<line><speaker who="master">MASTER</speaker> Oh, hopeless! Overweight, under-powered old museum piece! </line>
+<action>A feeble dematerialisation sound starts up but the time rotor stays still.</action> 
+<line><speaker who="master">MASTER</speaker> Ah, no proper stabiliser. Oh well, let's try again. </line>
+<action>This time there is a small explosion.</action> 
+<line><speaker who="master">MASTER</speaker> You may as well try to fly a second hand gas stove! </line>
+<action>He hits the console, and turns on a monitor in one of the wall roundels, showing the Light Accelerator.</action> 
+<line><speaker who="master">MASTER</speaker> Yes if I use that trigger mechanism, it might. Worth a try.</line>
+</scene>
+<scene><location>Laboratory control box</location>
+
+    <line><speaker who="hardiman">HARDIMAN</speaker> If <reference who="axonm" level="theNP">the Axon</reference> walked into the reactor, <reference who="axonm" level="pronoun">he</reference>'s simply committed suicide. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Yes. </line>
+<line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>, look. The Tardis door. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <reference who="master" level="title">Master</reference>! </line>
+<action>The Master goes inside the accelerator and examines the mechanism.</action> 
+    <line><speaker who="brig">BRIGADIER</speaker> Right, not a sound. <address who="benton" level="surname">Benton</address>, get some more men. <address who="yates" level="surname">Yates</address>, with me. <address who="hardiman" level="title">Sir George</address>, <address who="hardiman" level="pronoun">you</address> stay here. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Who is that? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Please!</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>The Master is concentrating on trying to take the upper section of the accelerator out, and does not spot the Brigadier and Yates flanking him until they reach the doorway.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Stay right where <address who="master" level="pronoun">you</address> are! </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> <location>OC</location> <address who="brig" level="title">Brigadier</address>, a massive power surge on the main reactor. </line>
+<action>The Master runs towards the Tardis.</action> 
+<line><speaker who="yates">YATES</speaker> Stop there! </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Touch that thing just once and we'll blast <address who="master" level="pronoun">you</address> into pieces! </line>
+<action>The Master throws his laser gun to Yates.</action> 
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="benton" level="surname">Benton</address>! </line>
+<action>The Master holds out his hands and Benton handcuffs him.</action> 
+    <line><speaker who="brig">BRIGADIER</speaker> What are <address who="master" level="pronoun">you</address> doing here? What are <address who="master" level="pronoun">you</address> after? </line>
+<line><speaker who="master">MASTER</speaker> That police box. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="master" level="pronoun">You</address> wanted to steal the Tardis? Why? </line>
+<line><speaker who="master">MASTER</speaker> Well, my own Tardis is held by <reference who="axos" level="title">Axos</reference> and I needed a space vehicle to get away from this planet before it's too late. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Why bring it here? </line>
+    <line><speaker who="master">MASTER</speaker> Well, I knew <reference who="doctor" level="title">the Doctor</reference> would soon return to his Tardis and I very much wanted to meet <reference who="doctor" level="pronoun">him</reference> just once more. Where is <reference who="doctor" level="pronoun">he</reference>, by the way? </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <reference who="doctor" level="title">The Doctor</reference> and <reference who="jo" level="titleSurname">Miss Grant</reference> have disappeared. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> <address who="brig" level="title">Brigadier</address>, the power build up has spread to the whole complex. The reactors could go critical at any moment. The whole place could go up. </line>
+<line><speaker who="master">MASTER</speaker> I'm afraid that your reactors have been taken over by <reference who="axos" level="title">the Axons</reference>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> You know these creatures. Is there anything we can do? Anything at all? </line>
+<line><speaker who="master">MASTER</speaker> Nothing, but there may be something that I can do. </line>
+<line><speaker who="brig">BRIGADIER</speaker> What? </line>
+    <line><speaker who="master">MASTER</speaker> If, and only if <address who="brig" level="pronoun">you</address> guarantee my freedom, <address who="brig" level="title">Brigadier</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Out of the question. </line>
+<line><speaker who="master">MASTER</speaker> Oh well, in that case. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> <address who="brig" level="title">Brigadier</address>, if this place goes up, thousands of lives will go with it. It only wants a chain reaction for the whole place to become a gigantic nuclear bomb. </line>
+<line><speaker who="master">MASTER</speaker> Yes, there is that possibility. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> <address who="brig" level="title">Brigadier</address>, for heaven's sake! </line>
+<line><speaker who="brig">BRIGADIER</speaker> Very well. </line>
+<line><speaker who="master">MASTER</speaker> My absolute and unconditional freedom? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Yes. Now get moving! </line>
+<line><speaker who="master">MASTER</speaker> Thank you. If you please, <address who="benton" level="title">Sergeant</address>. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Hurry, <address who="benton" level="surname">Benton</address>! </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> What can we do? </line>
+<line><speaker who="master">MASTER</speaker> I'd like you to give me a link from the Tardis to the accelerator so that I can get straight through to the main reactor. Now what I propose to do is this. Stack up as much power as the Tardis will take, then channel it back through the accelerator and boost it, so that instead of the gradual power build-up that <reference who="axos" level="title">Axos</reference> expects, it'll get the whole lot in one devastating surge. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> What else can we do? </line>
+<line><speaker who="master">MASTER</speaker> Oh, nothing very much. Oh, I suppose you can take the normal precautions against nuclear blast, like, er, sticky tape on the windows and that sort of thing. </line>
+<action>Filer bursts in with a gun.</action> 
+<line><speaker who="filer">FILER</speaker> Now, hold it! Right there! </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="filer" level="surname">Filer</address>, no! <reference who="master" level="pronoun">He</reference>'s helping us. We need <reference who="master" level="pronoun">him</reference>. </line>
+    <line><speaker who="filer">FILER</speaker> Helping? Are <address who="brig" level="pronoun">you</address> crazy, <address who="brig" level="title">Brigadier</address>? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Probably, but we've got no choice. </line>
+<line><speaker who="filer">FILER</speaker> Yeah, but </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <address who="filer" level="surname">Filer</address>! </line>
+<line><speaker who="master">MASTER</speaker> Thank you. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Where are <address who="master" level="pronoun">you</address> going? </line>
+<line><speaker who="master">MASTER</speaker> Back into this contraption. </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> Why? </line>
+<line><speaker who="master">MASTER</speaker> Well, theoretically it should be able to store all the power generated around it, like it solar cell battery. </line>
+    <line><speaker who="hardiman">HARDIMAN</speaker> Are <address who="master" level="pronoun">you</address> trying to tell me <address who="master" level="pronoun">you</address> can absorb the total output of this complex in a police box? </line>
+<line><speaker who="master">MASTER</speaker> Yes.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Forty percent time field capability. Forty five percent. Fifty percent time field capability. Fifty five percent. Sixty percent time field capability. Prepare to enter time field. Repeat, prepare to enter time field. Seventy percent. Seventy five. Seventy percent. Sixty five percent. Sixty percent. Emergency! Emergency! Emergency! </line>
+<line><speaker who="doctor">DOCTOR</speaker> They're not getting the power through! </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Locate power failure source. Investigate possible cell damage. Evaluate, trace and restore all absorption channels. Emergency! Emergency! </line>
+<action>The Doctor starts to sneak out of the room.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Attention! Attention! <reference who="doctor" level="aliasTitle">Time Lord</reference> escaping. Seal off control centre and all adjacent areas. Close all exit tracts. Surround, neutralise and retrieve when emergency is over. </line>
+<action>The Doctor fights his way through the dangling tendrils and flailing claws of the passageway walls.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>A simple single cable is hooked up from the Tardis to a laboratory console.</action> 
+<line><speaker who="hardiman">HARDIMAN</speaker> Surely it can't take any more?</line>
+</scene>
+<scene><location>Tardis</location>
+
+<line><speaker who="hardiman">HARDIMAN</speaker> <location>on scanner</location> I don't want to risk the cables. </line>
+    <line><speaker who="master">MASTER</speaker> Risk the cables, <address who="hardiman" level="man">man</address>. Risk everything! <address who="hardiman" level="pronoun">You</address>'ve got to!</line>
+</scene>
+<scene><location>Axos cell</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>! </line>
+<line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Let's get out of here while that creature's disorientated. Come on! That's it, come on! </line>
+<line><speaker who="jo">JO</speaker> What's happening? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Hang on to me. Come on!</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="master">MASTER</speaker> Now, when I pull this handle, the enormous amount of power stored in the Tardis will be channeled straight into Axos. </line>
+    <line><speaker who="filer">FILER</speaker> What about <reference who="jo" level="nickname">Jo</reference> and <reference who="doctor" level="nickname">the Doc</reference>? </line>
+<line><speaker who="master">MASTER</speaker> They won't stand a chance. They will die with <reference who="axos" level="title">Axos</reference>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> No! </line>
+    <line><speaker who="master">MASTER</speaker> Either we destroy <reference who="axos" level="title">Axos</reference> or <reference who="axos" level="title">Axos</reference> destroys the world. Which is it to be, <address who="brig" level="title">Brigadier</address>? </line>
+<action>The Brigadier turns away and the Master pulls the handle. The Doctor and Jo are still trying to find a way out of Axos.</action>
+</scene>
+</episode>
+<episode>
+    <subtitle>Episode Four</subtitle>
+
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="hardiman">HARDIMAN</speaker> Well over maximum now.</line>
+</scene>
+<scene><location>Tardis</location>
+
+<action>The Master operates the console.</action> 
+<line><speaker who="master">MASTER</speaker> Now then, you old antique, keep working!</line>
+</scene>
+<scene><location>Axos</location>
+
+<action>The Doctor and Jo continue to fight their way through flailing tendrils and claws. Images of both humanoid and creature Axons appear and disappear.</action> 
+<line><speaker who="jo">JO</speaker> I can't! I can't! I can't! </line>
+<action>The floor is wobbling like a jelly.</action> 
+<line><speaker who="jo">JO</speaker> I can't! I can't! I can't! </line>
+<action>The Doctor slaps her.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>! Stop it! Be quiet! Stop it! </line>
+<line><speaker who="jo">JO</speaker> What's that screaming? </line>
+<line><speaker who="doctor">DOCTOR</speaker> The whole thing's electro-convulsing. The power's creating an electrical storm in its brain and we're going right through the centre of the trauma! Come on! Hang on! </line>
+<action>They go through a membrane door and the effect is even more extreme here. Jo screams.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>! Try and stop it! </line>
+<line><speaker who="jo">JO</speaker> I can't! I can't! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Try and stop it! Don't let it get a grip on your brain! Don't let it get to your brain!. Listen to me! Answer me! What are three sevens? </line>
+<line><speaker who="jo">JO</speaker> Twenty one. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Twenty one. Keep answering. Three sevens times four? </line>
+<line><speaker who="jo">JO</speaker> Eighty four. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Minus thirty five? Think, <address who="jo" level="nickname">Jo</address>! Think, <address who="jo" level="nickname">Jo</address>! </line>
+<action>Humanoid Axons stagger past them.</action> 
+<line><speaker who="jo">JO</speaker> Forty nine. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Twice that? Twice! </line>
+<line><speaker who="jo">JO</speaker> Ninety eight. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Plus ten? </line>
+<action>They move on through the insane spaceship.</action> 
+<line><speaker who="jo">JO</speaker> A hundred and eight. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Divide by nine. </line>
+<line><speaker who="jo">JO</speaker> Twelve. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Divide by four. </line>
+<line><speaker who="jo">JO</speaker> Three. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Three sevens! </line>
+<line><speaker who="jo">JO</speaker> Twenty one. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes! Quick! </line>
+<action>The main entrance opens and the Doctor and Jo run out onto the shingle. They head in the direction of the power station.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="master">MASTER</speaker> Well, gentlemen? Your congratulations? </line>
+<action>Nothing.</action> 
+<line><speaker who="master">MASTER</speaker> I see. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Wait! </line>
+<line><speaker who="master">MASTER</speaker> Why? You promised me my freedom. I've earned it. </line>
+<line><speaker who="brig">BRIGADIER</speaker> We don't know yet what <address who="master" level="pronoun">you</address>'ve achieved. </line>
+    <line><speaker who="master">MASTER</speaker> <address who="brig" level="myDearNP">My dear Brigadier</address>, I promised to help <address who="brig" level="pronoun">you</address>, not sort out all your problems. </line>
+<line><speaker who="brig">BRIGADIER</speaker> <address who="yates" level="title">Captain</address>? </line>
+<line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>. <address who="soldier0" level="surname">Parker</address>, <address who="soldier1" level="surname">McDougall</address>. </line>
+<action>The two UNIT soldiers stand guard in front of the Tardis door.</action> 
+<line><speaker who="hardiman">HARDIMAN</speaker> Something's gone wrong. They must have reversed the power flow. They're feeding it back at us.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Source identified as light accelerator. Concentrate power reversal on this sector. Total destruction essential. Repeat. Total destruction essential.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>Hardiman makes a complex-wide broadcast.</action> 
+<line><speaker who="hardiman">HARDIMAN</speaker> All personnel, your attention please. Evacuate accelerator sector. Shut off all power in your area and proceed to blast wall shelters immediately. That is all. Brigadier, I want everybody out of here. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right. <address who="yates" level="titleSurname">Captain Yates</address>, everyone up to the control box. </line>
+<line><speaker who="yates">YATES</speaker> Right, <address who="benton" level="surname">Benton</address>, let's go. </line>
+<line><speaker who="benton">BENTON</speaker> Move! </line>
+<line><speaker who="brig">BRIGADIER</speaker> What are <address who="hardiman" level="pronoun">you</address> going to do? </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> I'm going to disconnect the cables. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right, where do we start? </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> No, no, no,<address who="brig" level="title"> Brigadier</address>. This establishment is my responsibility. Yours is with your men. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Yes, but surely </line>
+<line><speaker who="hardiman">HARDIMAN</speaker> I don't need any help. I'll be with <address who="brig" level="pronoun">you</address> in a minute. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Very well. </line>
+<action>Hardiman dons heat resistant gauntlets and helmet and opens up the accelerator chamber, then sets to work with a large spanner.</action>
+</scene>
+<scene><location>Laboratory control box</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> How's <reference who="hardiman" level="pronoun">he</reference> doing? </line>
+    <line><speaker who="master">MASTER</speaker> Well, <reference who="hardiman" level="pronoun">he</reference>'ll have to take out the trigger mechanism before <reference who="hardiman" level="pronoun">he</reference> can disconnect the final cable. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> How much time has <reference who="hardiman" level="pronoun">he</reference> got? </line>
+<line><speaker who="master">MASTER</speaker> Who knows. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> <reference who="hardiman" level="pronoun">He</reference>'s done it! </line>
+<action>The Brigadier spoke too soon. The second cable isn't completely disconnected before the feedback causes an explosion which throws Hardiman out and over the safety railing.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="brig">BRIGADIER</speaker> <address who="hardiman" level="surname">Hardiman</address>! <address who="yates" level="titleSurname">Captain Yates</address>, get some men down here. </line>
+<line><speaker who="yates">YATES</speaker> Yes, <address who="brig" level="sir">sir</address>. </line>
+<action>Filer stops the Master from getting into the Tardis so he dashes for the nearest door.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Going somewhere?</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+    <line><speaker who="doctor">DOCTOR</speaker> The claws of <reference who="axos" level="title">Axos</reference> are already deeply embedded in the Earth's carcass! Soon <reference who="axos" level="pronoun">it</reference>'ll activate its nutrition cycle and the feast'll be begin. The Axonite'll cease to be dormant and <reference who="axos" level="pronoun">it</reference>'ll continue to grow, gentlemen, until every living thing is consumed. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Unless we can find a way of stopping <reference who="axos" level="pronoun">it</reference>. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> I don't think you can stop <reference who="axos" level="pronoun">it</reference>. </line>
+<line><speaker who="jo">JO</speaker> Well, there must be something we can do, <address who="doctor" level="title">Doctor</address>? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Well, we can but try, <address who="jo" level="nickname">Jo</address>. Can <address who="tech2" level="pronoun">you</address> commandeer the computer banks? I want to make some very complex calculations. </line>
+<line><speaker who="tech2">TECHNICIAN</speaker> Of course. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Good, thank you. </line>
+<line><speaker who="tech2">TECHNICIAN</speaker> I'll have them cleared immediately. </line>
+<action>The Technician leaves.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> <address who="brig" level="title">Brigadier</address>, can <address who="brig" level="pronoun">you</address> set up a constant watch on that spacedome? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right. <address who="yates" level="titleSurname">Captain Yates</address>? </line>
+    <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>? </line>
+<action>The Brigadier and Yates move away to confer.</action> 
+<line><speaker who="filer">FILER</speaker> What about <reference who="master" level="title">the Master</reference>? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> I'm going to ask <address who="filer" level="pronoun">you</address> to hand <reference who="master" level="other">your prisoner</reference> over to me for a while. </line>
+<line><speaker who="filer">FILER</speaker> Well now, hold on a minute. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Look, <address who="filer" level="nickname">Bill</address>, I think I can defeat <reference who="axos" level="title">Axos</reference> but I must have <reference who="master" level="title">the Master</reference>'s help. </line>
+    <line><speaker who="jo">JO</speaker> But <address who="doctor" level="pronoun">you</address> know <address who="doctor" level="pronoun">you</address> can't trust <reference who="master" level="pronoun">him</reference>. <reference who="master" level="pronoun">He</reference>'ll kill <address who="doctor" level="pronoun">you</address> the first chance <reference who="master" level="pronoun">he</reference> gets. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Oh, don't worry, <address who="jo" level="pronoun">Jo</address>. I'll keep <reference who="master" level="pronoun">him</reference> in good order all right, with this. </line>
+<action>The Master's own laser gun.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> I shall be setting up HQ in the lab. I want <address who="yates" level="pronoun">you</address> and <reference who="benton" level="surname">Benton</reference> in R/T contact the whole time. </line>
+    <line><speaker who="yates">YATES</speaker> Yes, <address who="brig" level="sir">sir</address>. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right, get going. </line>
+    <line><speaker who="yates">YATES</speaker> Right, <address who="brig" level="sir">sir</address>. <address who="benton" level="titleSurname">Sergeant Benton</address>. </line>
+    <line><speaker who="benton">BENTON</speaker> <address who="yates" level="sir">Sir</address>.</line>
+</scene>
+<scene><location>Laboratory control box</location>
+
+<action>Out on Dungeness, Yates sets up a camera to watch the spaceship entrance, connected to a large dish. Then he gets into the back of the Land Rover to report.</action> 
+    <line><speaker who="yates">YATES</speaker> <location>OC</location> Trap One to <address who="brig" level="aliasTitle">Greyhound</address>. Over. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Go ahead, <address who="yates" level="aliasTitle">Trap One</address>. Over. </line>
+    <line><speaker who="yates">YATES</speaker> <location>OC</location> Eyes down. Look in. Over. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Roger. </line>
+<action>The Brigadier switches on a monitor.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Receiving your signal. Maintain surveillance. Over. </line>
+    <line><speaker who="yates">YATES</speaker> <location>OC</location> Roger. Wilco. Out. </line>
+<action>Chinn enters, eating a chicken drumstick.</action> 
+<line><speaker who="chinn">CHINN</speaker> That thing working? Get me the Ministry, will you? </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Ah, <address who="chinn" level="titleSurname">Mister Chinn</address>. Now where have <address who="chinn" level="pronoun">you</address> been hiding yourself? Canteen? </line>
+<line><speaker who="chinn">CHINN</speaker> As it so happens I've been doing your job! </line>
+<line><speaker who="brig">BRIGADIER</speaker> Oh yes? </line>
+<line><speaker who="chinn">CHINN</speaker> Trying to do something about the situation. </line>
+<line><speaker who="brig">BRIGADIER</speaker> Which particular situation? </line>
+<line><speaker who="chinn">CHINN</speaker> Axonite, <address who="brig" level="title">Brigadier</address>, Axonite. Do you realise that Britain's going to get the blame for all this? </line>
+    <line><speaker who="brig">BRIGADIER</speaker> Britain or <address who="chinn" level="pronoun">you</address>, <address who="chinn" level="titleSurname">Mister Chinn</address>? </line>
+<line><speaker who="chinn">CHINN</speaker> Well, if <address who="brig" level="pronoun">you</address> won't get the Ministry <action>looks around</action> Where's <address who="hardiman" level="surname">Hardiman</address>? </line>
+<line><speaker who="brig">BRIGADIER</speaker> Dead.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>The Master and the Doctor are working in the accelerator chamber.</action> 
+<line><speaker who="jo">JO</speaker> <address who="filer" level="pronoun">You</address> look like a disappointed bloodhound. </line>
+<line><speaker who="filer">FILER</speaker> All bloodhounds look disappointed. It's an occupational hazard. </line>
+    <line><speaker who="jo">JO</speaker> Why, <address who="filer" level="nickname">Bill</address>? <address who="filer" level="pronoun">You</address>'ve got <reference who="master" level="other">your man</reference>. </line>
+<line><speaker who="filer">FILER</speaker> Oh, sure. Bill Filer of the New York Mounted Police. I don't like it, <address who="jo" level="nickname">Jo</address>. </line>
+<line><speaker who="jo">JO</speaker> Well, all we can do is wait. </line>
+<line><speaker who="filer">FILER</speaker> I don't mean the hanging around, I'm used to that. I've just got this feeling that something's going on. </line>
+    <line><speaker who="jo">JO</speaker> Come on, <address who="filer" level="nickname">Bill</address>. Surely <address who="filer" level="pronoun">you</address> don't think there's a </line>
+<line><speaker who="filer">FILER</speaker> I don't think anything. It's a funny time to go collecting junk, that's all. Real eager beavers. </line>
+<line><speaker who="jo">JO</speaker> But they've got to be. They're working against time. </line>
+<line><speaker who="filer">FILER</speaker> Then why pack off all the technicians? Why can't they help? Why've they got to go it alone, huh? Why?</line>
+</scene>
+<scene><location>Tardis</location>
+
+<action>The Master carries part of the light accelerator, the Doctor holds the laser gun.</action> 
+<line><speaker who="master">MASTER</speaker> Well, <address who="doctor" level="title">Doctor</address>? I'm still waiting to hear this marvellous scheme of yours. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Actually, there isn't one. </line>
+<line><speaker who="master">MASTER</speaker> Well, then why? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Because if <address who="master" level="pronoun">you</address> mend the Tardis, we can both escape. </line>
+    <line><speaker who="master">MASTER</speaker> Both? Tell me, <address who="doctor" level="title">Doctor</address>, are <address who="doctor" level="pronoun">you</address> suggesting an alliance? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Why not? I don't want to spend the rest of my life as a heap of dust on second rate planet to a third rate star. Do <address who="master" level="pronoun">you</address>? </line>
+    <line><speaker who="master">MASTER</speaker> Do <address who="doctor" level="pronoun">you</address> mean to say that <address who="doctor" level="pronoun">you</address> are actually prepared to abandon your beloved Earth to the Axons' tender mercies? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Certainly. After all, we are both Time Lords. </line>
+    <line><speaker who="master">MASTER</speaker> Maybe. Look, why should I help <address who="doctor" level="pronoun">you</address>? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Because if <address who="master" level="pronoun">you</address> don't I shall hand <address who="master" level="pronoun">you</address> over to UNIT and <address who="master" level="pronoun">you</address>'ll become a prisoner on a doomed planet. </line>
+    <line><speaker who="master">MASTER</speaker> Yes, well, <address who="doctor" level="pronoun">you</address>'ll be doomed along with me. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Exactly. We either escape together or we die together. </line>
+<line><speaker who="master">MASTER</speaker> Oh, very generous! But look, why not just hand me over to UNIT and make your escape by yourself? Well? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Because the Time Lords have put a block on my knowledge of dematerialisation theory, that's why! </line>
+<line><speaker who="master">MASTER</speaker> Oh, I see. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes. Well, we haven't got much time. What's your decision? </line>
+<line><speaker who="master">MASTER</speaker> All right, I accept. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Good. Well, <address who="master" level="pronoun">you</address>'re the mechanic. What's the answer? </line>
+    <line><speaker who="master">MASTER</speaker> The answer, <address who="doctor" level="title">Doctor</address>, is this. </line>
+<action>The Master takes a small component from the part of the light accelerator he brought in with him.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> The trigger mechanism from the light accelerator. </line>
+<line><speaker who="master">MASTER</speaker> Yes. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Yes, of course. </line>
+<line><speaker who="master">MASTER</speaker> Now this will compensate for the deficiencies in your dematerialisation circuit. With a little ingenuity, I may be able to join one to the other, but it'll take time. </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Well, it'd better not take too much time. Right, <address who="master" level="pronoun">you</address> get on with the repairs, I'll go and work out some course coordinates. </line>
+<line><speaker who="master">MASTER</speaker> Very well. </line>
+<action>The Doctor starts to leave, then goes to the console and removes a unit from under a small panel.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> Just in case <address who="master" level="pronoun">you</address> were thinking of leaving without me.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Data indicates distribution complete. Activate nutrition cycle one. Initiate recall one. Activate nutrition cycle two. Initiate recall two. Activate nutrition cycle three. </line>
+<action>The spaceship rises out of the shingle.</action>
+</scene>
+<scene><location>Laboratory control box</location>
+
+    <line><speaker who="yates">YATES</speaker> <location>OC</location> <reference who="axos" level="pronoun">It</reference>'s surfacing, <address who="brig" level="sir">sir</address>! The whole thing! </line>
+<line><speaker who="brig">BRIGADIER</speaker> Pull out, <address who="yates" level="surname">Yates</address>. Back to the complex. </line>
+    <line><speaker who="yates">YATES</speaker> Yes, <address who="brig" level="sir">sir</address>.</line>
+</scene>
+<scene><location>Dungeness</location>
+
+<action>Yates disconnects the camera from the open top Land Rover and Benton drives them away. He crashes through a closed wooden gate then through one blockage formed by two Axon creatures, then diverts around a group of five of them. There are more along the track. One uses its tentacles to fell a tree across it then they go hand to hand with Yates while trying to get at Benton behind the windscreen. Reversing then driving forward again, Benton manages to get the creatures off back of the vehicle but there is still one on the bonnet as they career across open ground towards the complex. Yates gets a grenade and pulls the pin.</action> 
+<line><speaker who="yates">YATES</speaker> Jump! </line>
+<action>The two men get out and scramble away before the Land Rover and Axon go Boom!</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="doctor">DOCTOR</speaker> Ah, thank you, <address who="jo" level="nickname">Jo</address>. </line>
+<line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, what are those figures? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Oh, they're just some course coordinates, that's all. </line>
+    <line><speaker who="filer">FILER</speaker> What do <address who="doctor" level="pronoun">you</address> want course coordinates for, <address who="doctor" level="nickname">Doc</address>? <address who="doctor" level="pronoun">You</address>'re not thinking of leaving us, are <address who="doctor" level="pronoun">you</address>? </line>
+<action>The Doctor gives the printout to the Master at the Tardis' door.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Here <address who="master" level="pronoun">you</address> are. Everything ready? </line>
+<line><speaker who="master">MASTER</speaker> Just the check. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Good. Yes, as a matter of fact, we are. </line>
+<line><speaker who="filer">FILER</speaker> Not if I can help it! </line>
+<line><speaker who="doctor">DOCTOR</speaker> Drop that, <address who="filer" level="surname">Filer</address>! </line>
+    <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>! <address who="doctor" level="title">Doctor</address>! </line>
+<action>The Doctor shoots Filer with the laser gun, low voltage so he just drops the pistol.</action> 
+    <line><speaker who="doctor">DOCTOR</speaker> Sorry, <address who="jo" level="nickname">Jo</address>. Ah, <address who="brig" level="title">Brigadier</address>, just in time to say goodbye! </line>
+<line><speaker who="jo">JO</speaker> No, you can't! </line>
+    <line><speaker who="doctor">DOCTOR</speaker> I'm sorry, <address who="jo" level="nickname">Jo</address>, we must. </line>
+<line><speaker who="filer">FILER</speaker> We? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Yes. After all, we are both Time Lords. Goodbye, <address who="brig" level="title">Brigadier</address>, <address who="chinn" level="titleSurname">Mister Chinn</address>. Goodbye, <address who="filer" level="nickname">Bill</address>. Goodbye, <address who="jo" level="nickname">Jo</address>. I shall miss you. </line>
+<line><speaker who="jo">JO</speaker> No!</line>
+</scene>
+<scene><location>Tardis</location>
+
+    <line><speaker who="master">MASTER</speaker> Very neat, <address who="doctor" level="title">Doctor</address>. You know, I must say I never thought that <address who="doctor" level="pronoun">you</address>'d go through with it. </line>
+<line><speaker who="doctor">DOCTOR</speaker> If we're going, let's go. </line>
+<action>But the Tardis won't start. The Doctor puts the circuit back where he took it from and tries again. This time the rotor starts to go up and down.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+    <line><speaker who="jo">JO</speaker> No, <address who="doctor" level="title">Doctor</address>, <address who="doctor" level="pronoun">you</address> can't! Please! <address who="doctor" level="title">Doctor</address>! </line>
+<line><speaker who="yates">YATES</speaker> This is it. We're being over-run. </line>
+<action>The Tardis dematerialises.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Get the men inside! Get that blast door locked! </line>
+<line><speaker who="filer">FILER</speaker> Come on, <address who="jo" level="nickname">Jo</address>! </line>
+<line><speaker who="brig">BRIGADIER</speaker> Take positions back from the door! </line>
+<action>To the sound of weapons fire outside, UNIT troops rush in and everyone takes cover either behind the control console or the accelerator chamber.</action>
+</scene>
+<scene><location>Tardis</location>
+
+<line><speaker who="master">MASTER</speaker> But <address who="doctor" level="pronoun">you</address> can't rematerialise yet! We're not even in space time! </line>
+<line><speaker who="doctor">DOCTOR</speaker> This is as far as we're going for the moment. </line>
+<action>The Tardis materialises.</action> 
+<line><speaker who="master">MASTER</speaker> But where are we? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Oh, <address who="master" level="pronoun">you</address>'ll recognise it when <address who="master" level="pronoun">you</address> see it. Right, outside. Come on, out!</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+<action>The blue Tardis is parked opposite a plain white one.</action> 
+    <line><speaker who="master">MASTER</speaker> But <address who="doctor" level="pronoun">you</address> must be mad! Why have <address who="doctor" level="pronoun">you</address> brought us here? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Well, <address who="master" level="pronoun">you</address> want your Tardis back, don't you? We can't beat <reference who="axos" level="title">Axos</reference>. We may as well join <reference who="axos" level="pronoun">it</reference>. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Why have you returned? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> That's simple. Because <address who="axos" level="pronoun">you</address> are winning. And we have a proposition. <address who="axos" level="pronoun">You</address> may have conquered this tiny speck in space but <address who="axos" level="pronoun">you</address>'ve yet to conquer time. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Well? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> We are prepared to give <address who="axos" level="pronoun">you</address> this power on one condition. That we join forces against the High Council of the Time Lords. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> How can we do this? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> By linking our drive systems. In this way, <reference who="axos" level="title">Axos</reference> will become a Tardis and the Tardis will become a part of <reference who="axos" level="title">Axos</reference>. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> And you? </line>
+<line><speaker who="master">MASTER</speaker> No. My part is finished. All I'm interested in is the return of my Tardis. Well, I will leave you to your new alliance. </line>
+<action>The Master is prevented from reaching his Tardis by a forcefield.</action> 
+<line><speaker who="master">MASTER</speaker> I insist on my freedom! </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> When the link is complete, then <address who="master" level="pronoun">you</address> can have your freedom.</line>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<action>Something is burning through the blast door.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Grenades. Wait for it. Wait for it. </line>
+<action>Then everything goes quiet.</action> 
+<line><speaker who="jo">JO</speaker> What's happened, <address who="filer" level="nickname">Bill</address>? Why has it suddenly stopped? </line>
+<line><speaker who="chinn">CHINN</speaker> Don't you think we ought to negotiate? </line>
+<action>Blue energy surges through the hole in the door to the accelerator chamber.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> What happened? </line>
+<line><speaker who="tech2">TECHNICIAN</speaker> They've energised the light accelerator. Good grief! </line>
+<action>The dial is moving up to light x 4.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Well, is there anything we can do? </line>
+<line><speaker who="tech2">TECHNICIAN</speaker> Not without the trigger mechanism. The particles will just go on and on accelerating. </line>
+<line><speaker who="filer">FILER</speaker> Then what? </line>
+<line><speaker who="tech2">TECHNICIAN</speaker> Bang. </line>
+<line><speaker who="yates">YATES</speaker> The blast wall, <address who="brig" level="sir">sir</address>! </line>
+<action>The hole is now man-sized.</action>
+</scene>
+<scene><location>Tardis</location>
+
+<action>The Doctor is connecting an Axon tendril to the console.</action> 
+<line><speaker who="master">MASTER</speaker> Tell me, <address who="doctor" level="title">Doctor</address>, isn't that a rather primitive way to make a link? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Look, will <address who="master" level="pronoun">you</address> stop pestering me! </line>
+<line><speaker who="master">MASTER</speaker> All right. I'll check the course circuits. </line>
+<action>The monitor shows a dot moving in a figure of eight.</action> 
+<line><speaker who="master">MASTER</speaker> <address who="doctor" level="pronoun">You</address>'ve got it set in a time loop! </line>
+<line><speaker who="doctor">DOCTOR</speaker> That's right, yes. </line>
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Attention! Attention! Nutrition cycle incomplete. Disconnect all systems.</line>
+</scene>
+<scene><location>Axos main chamber</location>
+
+    <line><speaker who="master">MASTER</speaker> Stop <reference who="doctor" level="pronoun">him</reference>! Don't <address who="axos" level="pronoun">you</address> understand? <reference who="doctor" level="pronoun">He</reference>'s committing suicide and <reference who="doctor" level="pronoun">he</reference>'s taking us all with <reference who="doctor" level="pronoun">him</reference>! <reference who="doctor" level="pronoun">He</reference>'s doing this for Earth, not for <address who="axos" level="pronoun">you</address>. <reference who="doctor" level="pronoun">He</reference>'s putting you all in a time loop and <address who="axos" level="pronoun">you</address>'ll never get out of it! Never! </line>
+<action>The Master enters his own Tardis.</action>
+</scene>
+<scene><location>Tardis</location>
+
+    <line><speaker who="doctor">DOCTOR</speaker> Come on! Come on, <address who="axos" level="pronoun">you</address> must take the load! <address who="axos" level="pronoun">You</address> must! </line>
+<action>The Axon creatures burst into the lab. Benton and Yates roll grenades at them, but to no effect. The UNIT soldiers start firing, then Jo screams. One soldier is pushed over the railing, another zapped by a tendril. The whole situation looks hopeless, then the spaceship dematerialises, taking the creatures with it. The Doctor is held against the console by them instead.</action> 
+    <line><speaker who="axos">AXOS</speaker> <location>OC</location> Your sacrifice was in vain, <address who="doctor" level="aliasTitle">Time Lord</address>. <address who="doctor" level="pronoun">You</address> are joined to us forever in this loop of time. Our fate is yours. </line>
+<line><speaker who="doctor">DOCTOR</speaker> Not if I can break through this time loop! </line>
+<action>The Doctor inches his hand to a control and activates it. The Tardis materialises in space.</action>
+</scene>
+<scene><location>Light Acceleration laboratory</location>
+
+<line><speaker who="tech2">TECHNICIAN</speaker> Light accelerator's still building! It's going to go! </line>
+<line><speaker who="brig">BRIGADIER</speaker> Right, everybody outside! Evacuate the whole area. Go on! </line>
+<line><speaker who="jo">JO</speaker> <address who="filer" level="nickname">Bill</address>! </line>
+<line><speaker who="brig">BRIGADIER</speaker> Go on! Come on! </line>
+<action>Everybody leaves, then the Tardis materialises in the lab. Outside, the Brigadier drives Jo and Chinn away in Chinn's limousine while UNIT get into their Land Rover and drive off. The Doctor enters the lab to see the dial at light x 5 and climbing. The ceiling starts to come down so he gets back into the Tardis.</action>
+</scene>
+<scene><location>Dungeness</location>
+
+<action>The vehicles park up and everyone gets out to see what will happen to the complex.</action> 
+<line><speaker who="brig">BRIGADIER</speaker> Get down! </line>
+    <line><speaker who="jo">JO</speaker> What about <reference who="doctor" level="title">the Doctor</reference>? Supposing <reference who="doctor" level="pronoun">he</reference> comes back? </line>
+<action>The Doctor gets the Tardis started again. The research laboratory goes Boom! but the genuine nuclear power station is untouched, thank goodness. The group drive back.</action>
+</scene>
+<scene><location>Nuton complex</location>
+
+<action>The Brigadier and Jo are staring at the pile of twisted metal girders when the Tardis materialises.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Well! This is a fine welcome, I must say!</line>
+</scene>
+<scene><location>Nuton Complex office</location>
+
+<action>The blast has blown the wall away but the potted plant looks healthy enough.</action> 
+<line><speaker who="doctor">DOCTOR</speaker> Well, it's perfectly simple, <address who="brig" level="title">Brigadier</address>. A time loop is, er. Well, it's a time loop. One passes continually through the same points in time. Passes through the same. Yes. Well, the Axons said they wanted time travel and now they've got it. </line>
+<line><speaker who="filer">FILER</speaker> What about <reference who="master" level="title">the Master</reference>? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Well, I sincerely hope <reference who="master" level="pronoun">he</reference>'s with them. </line>
+<line><speaker who="filer">FILER</speaker> Hope? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Well, I can't be absolutely sure. I was pretty busy at the time. But I'm ninety percent certain though. </line>
+<line><speaker who="filer">FILER</speaker> How much? </line>
+    <line><speaker who="doctor">DOCTOR</speaker> Well, pretty certain. Well, I suppose <reference who="master" level="pronoun">he</reference> could have got away. Just. </line>
+<line><speaker who="brig">BRIGADIER</speaker> This time loop thing. How did <address who="doctor" level="pronoun">you</address> get out of it? </line>
+<line><speaker who="doctor">DOCTOR</speaker> I simply boosted the circuits and broke free. </line>
+    <line><speaker who="brig">BRIGADIER</speaker> And <address who="doctor" level="pronoun">you</address> came back of your own accord? </line>
+<line><speaker who="doctor">DOCTOR</speaker> Well, I </line>
+<line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>? </line>
+<line><speaker who="doctor">DOCTOR</speaker> No. No, I'm afraid not. No, obviously the Time Lords have programmed the Tardis always to return to Earth. It seems that I'm some kind of a galactic yo-yo!</line>
+</scene></episode>
+</serial>

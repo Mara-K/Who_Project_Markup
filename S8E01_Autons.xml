@@ -1,0 +1,2288 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="UNIT_Schema_serial.rnc" type="application/relax-ng-compact-syntax"?>
+<serial season="8" epi="01">
+    <title>Terror of the Autons</title>
+
+    <date>Original Airdate: Jan 2, 1971</date>
+
+    <episode>
+        <subtitle>Episode One</subtitle>
+        <scene>
+            <location>Circus</location>
+
+            <action>A little man in a bowler hat watches the customers enter the big top of the
+                International Circus. He walks round the back, past the lion's cage and finds a
+                quiet spot to light up a small cigar. We hear the sound of the Tardis materialising
+                and a motor horse box suddenly appears in the open ground before him. Agog, the man
+                walks over and looks round it while a trim man in black suit and gloves, and with a
+                neat beard gets out.</action>
+            <line><speaker who="rossi">ROSSINI</speaker>
+                <action>Italian accent</action> Who the heck are
+                <address who="master" level="pronoun">you</address>? Well? </line>
+            <line><speaker who="master">MASTER</speaker> I am usually referred to as the Master. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Oh? Is that so? </line>
+            <line><speaker who="master">MASTER</speaker> Universally. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Well, I am Luigi Rossini, internationally,
+                and conjurers I don't need. Okay? </line>
+            <line><speaker who="master">MASTER</speaker> Unfortunately I need
+                <address who="rossi" level="pronoun">you</address>,
+                <address who="rossi" level="fullName">Lew Russell</address>. </line>
+            <line><speaker who="rossi">ROSSINI</speaker>
+                <action>London accent</action> What did
+                <address who="master" level="pronoun">you</address> call me? </line>
+            <line><speaker who="master">MASTER</speaker> Lew Russell. It happens to be your real
+                name. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Now listen,
+                <address who="master" level="pronoun">Mister</address>. Get off my pitch while
+                <address who="master" level="pronoun">you</address>'re still safe! </line>
+            <line><speaker who="master">MASTER</speaker> Why,
+                <address who="rossi" level="insult">you insolent primitive</address>. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Oh, so
+                <address who="master" level="pronoun">you</address> it want the hard way, do you?
+                Right. </line>
+            <action>Rossini goes to grab the Master, but it is his wrist that is taken in a
+                vice-like grip. Rossini is forced to his knees and their eyes meet. After a few
+                moments the Master lets Rossini go and walks a few steps, then snaps his fingers.
+                Rossini gets up and follows.</action>
+        </scene>
+        <scene>
+            <location>National Space Museum</location>
+
+            <action>The Master breaks a display case containing a Nestene sphere.</action>
+            <line><speaker who="musatt">MUSEUM ATTENDANT</speaker> Here, <address who="master" level="pronoun">you</address>! What do <address who="master" level="pronoun">you</address> think
+                <address who="master" level="pronoun">you</address>'re doing? </line>
+            <action>Rossini knocks the attendant out.</action>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>The Doctor is working inside the Tardis.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <location>OC</location>: <action>sings</action> I don't want to set the
+                world on fire! </line>
+            <action>Bang! and smoke comes out of the open Tardis door, followed by the Doctor
+                carrying a piece of dematerialisation mechanism. He goes to the lab bench and places
+                it in a device clearly designed to hold the three legged item. There is a knock at
+                the door.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Not today, thank you. </line>
+            <action>Jo Grant enters, carrying a file.</action>
+            <line><speaker who="jo">JO</speaker> Doctor, I, er </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I said not today, thank you. </line>
+            <action>The Doctor switches on his contraption and it goes fizz. There is more
+                smoke.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, no. </line>
+            <action>Jo grabs a fire extinguisher and uses it on the contraption.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh no! </line>
+            <line><speaker who="jo">JO</speaker> It's all right. I've dealt with it. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Dealt with it?
+                <address who="jo" level="pronoun">You</address>'ve ruined it! </line>
+            <line><speaker who="jo">JO</speaker> But your bench was on fire. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Three months delicate work and now look at
+                it, <address who="jo" level="insult">you ham-fisted bun vendor</address>. </line>
+            <line><speaker who="jo">JO</speaker> But this whole place might have gone up in
+                flames. </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <address who="jo" level="myDearNP">My dear young lady,</address> steady state
+                micro-welding always creates more smoke than fire. </line>
+            <line><speaker who="jo">JO</speaker> Steady state micro-welding? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. An advanced engineering technique
+                pioneered by the Lammerdenes. A remarkably gifted race. They have nine opposable
+                digits. </line>
+            <line><speaker who="jo">JO</speaker> Nine what? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Nine opposable digits. Yes, well, never
+                mind. Look, I said I don't want any tea today, thank you. </line>
+            <line><speaker who="jo">JO</speaker> I'm not the tea lady. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Then what the blazes are
+                <address who="jo" level="pronoun">you</address> doing in here? </line>
+            <line><speaker who="jo">JO</speaker> I've </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Don't
+                <address who="jo" level="pronoun">you</address> know this area is strictly out of
+                bounds to everybody except the tea lady and the Brigadier's personal staff? </line>
+            <line><speaker who="jo">JO</speaker> I'm your new assistant. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, no. </line>
+            <line><speaker who="jo">JO</speaker>
+                <reference who="brig" level="title">The Brigadier</reference> sent me along to
+                introduce myself, <address who="doctor" level="pronoun">Doctor</address>. Josephine
+                Grant. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> How do you do,
+                <address who="jo" level="titleSurname">Miss Grant</address>? I really don't think
+                you're suitable. </line>
+            <line><speaker who="jo">JO</speaker> I'm a fully qualified agent, you know.
+                Cryptology, safe breaking, explosives. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Fire fighting? Yes, well, I'm sorry,
+                <address who="jo" level="myDear">my dear</address>, but what I need is a scientist. </line>
+            <line><speaker who="jo">JO</speaker> I took general science at A-Level. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, I'm sure
+                <address who="jo" level="pronoun">you</address> did, but, even so. </line>
+            <line><speaker who="jo">JO</speaker> I'm sorry I ruined your experiment. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That's all right. </line>
+            <action>Jo brings the file over to the bench.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Look,
+                <address who="jo" level="titleSurname">Miss Grant</address>, I've got a great deal
+                of work to do. <address who="jo" level="pronoun">You</address> must excuse me. </line>
+            <line><speaker who="jo">JO</speaker> The Brigadier wanted me to show you this report. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Mmm? </line>
+            <line><speaker who="jo">JO</speaker> Something was stolen for the Natural Space
+                Museum. It was on loan from this HQ. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, what was? </line>
+            <line><speaker who="jo">JO</speaker> A translucent polyhedron, eight and a half
+                inches in diameter. </line>
+            <action>The Doctor grabs the file.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, that's the Nestene's energy unit. It
+                should never have left this building. </line>
+            <line><speaker who="jo">JO</speaker> Apparently they wanted it for a special display.
+                    <reference who="brig" level="title">The Brigadier</reference> signed the
+                authorisation. </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <reference who="brig" level="title">The Brigadier</reference>'s an idiot! I knew I
+                should have destroyed that thing but somehow it would have felt like murder. </line>
+            <line><speaker who="jo">JO</speaker>
+                <address who="doctor" level="pronoun">You</address> mean it was alive? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, in a way. Yes, that container held a
+                form of alien intelligence. </line>
+            <line><speaker who="jo">JO</speaker> But
+                <address who="doctor" level="pronoun">you</address>'ve just got to be joking. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> There's precious little to joke about,
+                <address who="jo" level="titleSurname">Miss Grant</address>. That thing is
+                appallingly dangerous. </line>
+            <line><speaker who="jo">JO</speaker> But who would want to steal it? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Exactly. Who and why?</line>
+        </scene>
+        <scene>
+            <location>Beacon Hill Telescope Control</location>
+
+            <action>Two radio telescopes and several microwave relay towers are dotted about at the
+                site of the Ministry of Technology's Beacon Hill Research Establishment. A man in a
+                brown suit climbs the long metal staircases to a control cabin in amongst them and
+                enters. The bearded man in a white lab coat speaks first.</action>
+            <line><speaker who="goodge">GOODGE</speaker> I told <reference who="elsie"
+                    level="pronoun">her</reference> again last night. </line>
+            <line><speaker who="philips">PHILIPS</speaker> Hmm? </line>
+            <line><speaker who="goodge">GOODGE</speaker>
+                <reference who="elsie" level="firstName">Elsie</reference>. Cut out the hard-boiled
+                eggs, I said. Quite apart from their effects on my digestion, they're aesthetically
+                boring. </line>
+            <line><speaker who="philips">PHILIPS</speaker> Uh huh. </line>
+            <action>Goodge takes a paper tape printout from a computer as the Master looks in
+                through the window.</action>
+            <line><speaker who="goodge">GOODGE</speaker> Here you are. </line>
+            <line><speaker who="philips">PHILIPS</speaker> Oh, thank you, Goodge. </line>
+            <line><speaker who="goodge">GOODGE</speaker> Will there be anything else? </line>
+            <line><speaker who="philips">PHILIPS</speaker> Er, not for the moment. Oh, by the
+                way, talking of eggs, I want a four hour scan below the hydrogen line tomorrow. </line>
+            <line><speaker who="goodge">GOODGE</speaker> All right. </line>
+            <line><speaker who="philips">PHILIPS</speaker> I'll give
+                <address who="goodge" level="pronoun">you</address> the precise wavelength later. </line>
+            <action>Philips leaves and heads back to the ground. Goodge gets out his thermos and
+                lunch box. There are two hard boiled eggs in with his sandwich. The Master enters
+                and points a light-emitting device at the back of Goodge's head. A sort of evil
+                sonic screwdriver. Philips arrives in the main control room as the Master brings a
+                UNIT ammo box into telescope control and takes out the Nestene energy unit. He plugs
+                it into a control panel then reorients the radio telescopes.</action>
+        </scene>
+        <scene>
+            <location>Beacon Hill Main Control</location>
+
+            <action>An oscilloscope starts up. Philips gets on the intercom.</action>
+            <line><speaker who="philips">PHILIPS</speaker>
+                <address who="goodge" level="surname">Goodge</address>! What the blazes is
+                happening?</line>
+        </scene>
+        <scene>
+            <location>Beacon Hill Telescope Control</location>
+
+            <line><speaker who="philips">PHILIPS</speaker> <location>OC</location>:
+                <address who="goodge" level="surname">Goodge</address>, do you hear me? </line>
+            <action>The energy unit is active.</action>
+        </scene>
+        <scene>
+            <location>Beacon Hill Main Control</location>
+
+            <line><speaker who="philips">PHILIPS</speaker> The shaft angling code has gone crazy.
+                Are <address who="goodge" level="pronoun">you</address> there,
+                <address who="goodge" level="man">man</address>? Check the feed back
+                control!</line>
+        </scene>
+        <scene>
+            <location>Beacon Hill Telescope Control</location>
+
+            <action>The signal peaks and the Master switches off the telescope controls. The energy
+                sphere is beeping very quickly.</action>
+             <line><speaker who="philips">PHILIPS</speaker> <location>OC</location>:
+                <address who="goodge" level="surname">Goodge</address>! What the devil do
+                <address who="goodge" level="pronoun">you</address> think
+                <address who="goodge" level="pronoun">you</address>'re playing at? </line>
+            <action>Philips enters and is transfixed by the Master's Look.</action>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker>
+                <address who="doctor" level="pronoun">You</address>'ve been agitating for a new
+                assistant ever since <reference who="liz" level="titleSurname">Miss
+                    Shaw</reference> went back to Cambridge. </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <reference who="liz" level="nickname">Liz</reference> was a highly qualified
+                scientist. I want someone with the same qualifications. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Nonsense. What
+                <address who="doctor" level="pronoun">you</address> need, <address who="doctor" level="pronoun">Doctor</address>, as <reference
+                    who="liz" level="titleSurname">Miss Shaw</reference> herself so often
+                remarked, is someone to pass <address who="doctor" level="pronoun">you</address>
+                your test tubes and to tell <address who="doctor" level="pronoun">you</address> how
+                brilliant <address who="doctor" level="pronoun">you</address> are. <reference
+                    who="jo" level="titleSurname">Miss Grant</reference> will fulfil that function
+                admirably. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, what's <reference who="jo"
+                    level="theNP">the girl</reference> doing here anyway? UNIT's no place for
+                trainees. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> No, I couldn't agree more,
+                <address who="doctor" level="title">Doctor</address>, but <reference who="jo"
+                    level="titleSurname">Miss Grant</reference> was very keen to join us and
+                    <reference who="jo" level="pronoun">she</reference> happens to have relatives
+                in high places. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> So
+                <address who="brig" level="pronoun">you</address> tried to palm her off onto me.
+                Well, it won't work, <address who="brig" level="title">Brigadier</address>.
+                I'll have a properly qualified assistant or none at all. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Very well,
+                <address who="doctor" level="title">Doctor</address>. I'll reassign <reference
+                    who="jo" level="pronoun">her</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Good. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> But I think
+                <address who="doctor" level="pronoun">you</address> should break the news to
+                    <reference who="jo" level="pronoun">her</reference> yourself. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, now, wait a minute. </line>
+            <action>Jo enters.</action>
+            <line><speaker who="jo">JO</speaker> Hi,
+                <address who="doctor" level="nickname">Doc</address>. I. Good morning,
+                <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Good morning,
+                <address who="jo" level="titleSurname">Miss Grant</address>. </line>
+            <line><speaker who="jo">JO</speaker> I've checked all incoming reports. Still nothing
+                on the stolen meteorite. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Thank you. </line>
+            <line><speaker who="jo">JO</speaker> And I've chased those electronic spares
+                <address who="doctor" level="pronoun">you</address> wanted. They promised delivery
+                tomorrow, without fail. </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <address who="jo" level="titleSurname">Miss Grant</address>, I, er, I, er. Well, I
+                don't. This is, er, a bit difficult for me to say but. Er. Thank you,
+                <address who="jo" level="nickname">Jo</address>. I can see
+                <address who="jo" level="pronoun">you</address>'re going to be of great help to me. </line>
+            <line><speaker who="jo">JO</speaker> Thank you,
+                <address who="doctor" level="title">Doctor</address>. Report from <reference
+                    who="yates" level="other">one of our field sections</reference>,
+                <address who="brig" level="sir">sir</address>. <reference who="yates"
+                    level="titleSurname">Captain Yates</reference>. Some kind of sabotage at a radio
+                telescope. Two of their scientists have disappeared. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Let me see that. <action>reads</action> We'd
+                better get down there right away.</line>
+        </scene>
+        <scene>
+            <location>Beacon Hill</location>
+
+            <action>The Doctor, the Brigadier and Jo arrive in Bessie.</action>
+            <line><speaker who="yates">YATES</speaker>
+                <reference who="direc" level="title">The Director</reference>'s expecting you,
+                <address who="doctor" level="sir">sir</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Is that where the sabotage took place? </line>
+            <line><speaker who="yates">YATES</speaker> No,
+                <address who="doctor" level="sir">sir</address>. It seems to have happened in the
+                control cabin in the top of that tower. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, that's where
+                <address who="yates" level="pronoun">you</address>'ll find me then. No,
+                <address who="jo" level="titleSurname">Miss Grant</address>.
+                <address who="jo" level="pronoun">You</address> stay here with <reference
+                    who="brig" level="title">the Brigadier.</reference></line>
+        </scene>
+        <scene>
+            <location>Beacon Hill Main Control</location>
+
+            <line><speaker who="yates">YATES</speaker>
+                <address who="direc" level="title">Director</address>? <reference who="jo"
+                    level="fullName">Miss Josephine Grant</reference> and <reference who="brig"
+                    level="titleSurname">Brigadier Lethbridge Stewart</reference> of UNIT. </line>
+            <line><speaker who="jo">JO</speaker> Good morning. </line>
+        </scene>
+        <scene>
+            <location>Beacon Hill Telescope Control</location>
+
+            <action>The Doctor is about to enter when there is a materialisation sound. A man in a
+                pin-stripe suit with bowler hat and furled umbrella appears in mid air.</action>
+            <line><speaker who="magrit">TIME LORD</speaker> Oh, dear. Don't go away,
+                <address who="doctor" level="title">Doctor</address>. My co-ordinates seem to have
+                slipped a little. Still, not bad after twenty nine thousand light years. </line>
+            <action>He glides to the gantry.</action>
+            <line><speaker who="magrit">TIME LORD</speaker> I do hope
+                <address who="doctor" level="pronoun">you</address> can spare a moment or two,
+                <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Sarcasm always was a weak point with
+                <address who="magrit" level="pronoun">you</address>, wasn't it. May I say that I
+                think <address who="magrit" level="pronoun">you</address> look quite ridiculous
+                in those clothes. </line>
+            <line><speaker who="magrit">TIME LORD</speaker> I am travelling incognito. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh? Why? </line>
+            <line><speaker who="magrit">TIME LORD</speaker> We Time Lords don't care to be
+                conspicuous. Some of us, that is. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Look, if
+                <address who="magrit" level="pronoun">you</address>'ve come down merely to be
+                rude </line>
+            <line><speaker who="magrit">TIME LORD</speaker> I came to warn
+                <address who="doctor" level="pronoun">you</address>. An old acquaintance has
+                arrived on this planet. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh? One of our people? </line>
+            <line><speaker who="magrit">TIME LORD</speaker>
+                <reference who="master" level="title">The Master</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <reference who="master" level="thatNP">That jackanapes</reference>! All <reference
+                    who="master" level="pronoun">he</reference> ever does is cause trouble. </line>
+            <line><speaker who="magrit">TIME LORD</speaker>
+                <reference who="master" level="pronoun">He</reference>'ll certainly try to kill
+                you, <address who="doctor" level="title">Doctor</address>. The tribunal thought
+                that <address who="doctor" level="pronoun">you</address> ought to be made aware of
+                your danger. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> How very kind of them. </line>
+            <line><speaker who="magrit">TIME LORD</speaker>
+                <address who="doctor" level="pronoun">You</address> are incorrigibly meddlesome,
+                <address who="doctor" level="title">Doctor</address>, but we've always felt that
+                your hearts are in the right places. But be careful. <reference who="master"
+                    level="title">The Master</reference> has learnt a great deal since you last met
+                    <reference who="master" level="pronoun">him</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I refuse to be worried by a renegade like
+                    <reference who="master" level="title">the Master</reference>. <reference
+                    who="master" level="pronoun">He</reference>'s a, he's an unimaginative plodder. </line>
+            <line><speaker who="magrit">TIME LORD</speaker> His degree in cosmic science was of a
+                higher class than yours. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well, er, yes, well, I, I was a late
+                developer. </line>
+            <line><speaker who="magrit">TIME LORD</speaker> Would you call that little surprise
+                unimaginative? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What? </line>
+            <line><speaker who="magrit">TIME LORD</speaker> Look through the door, but be
+                careful. </line>
+            <action>We can see a string running across the cabin through the window. The Doctor
+                carefully opens the door a crack to see that it runs from the top of the door to a
+                cylinder balanced on the console.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> A volatiser. If that thing should fall </line>
+            <line><speaker who="magrit">TIME LORD</speaker> It'll explode and probably destroy
+                this research centre completely. You see, <reference who="master" level="pronoun"
+                    >he</reference>'s rigged it up so that it opening the door will make it fall.
+                Such an amusing idea. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well,
+                <address who="magrit" level="pronoun">you</address>'d better think of a witty way
+                of dealing with it. </line>
+            <action>The dematerialisation sound.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Now wait! </line>
+            <line><speaker who="magrit">TIME LORD</speaker> Oh, good luck! </line>
+            <action>The Time Lord vanishes. The Doctor reopens the door a little and feels for the
+                end of the string, then he steps back, bursts in and catches the volatiser just
+                before it hits the floor.</action>
+        </scene>
+        <scene>
+            <location>Beacon Hill Telescope Control</location>
+
+            <action>The Doctor unscrews the top of the cylinder.</action>
+            <line><speaker who="yates">YATES</speaker> Any luck? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Keep back. </line>
+            <line><speaker who="yates">YATES</speaker> What's that? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> A bomb. </line>
+            <line><speaker who="yates">YATES</speaker> A bomb! Is it defused? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> It is now. </line>
+            <line><speaker who="yates">YATES</speaker> Where on earth did
+                <address who="doctor" level="pronoun">you</address> find it? Oh, I'm so sorry. Er,
+                this is <reference who="direc" level="title">the Director</reference>. </line>
+            <line><speaker who="direc">DIRECTOR</speaker> How do you do? I hope
+                <address who="doctor" level="pronoun">you</address> realise the police have already
+                investigated this matter. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Where's <reference who="brig"
+                    level="surname">Lethbridge-Stewart</reference>? </line>
+            <line><speaker who="yates">YATES</speaker> He and <reference who="jo"
+                    level="titleSurname">Miss Grant</reference> are questioning the staff. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Huh. A fat lot of use that'll do. </line>
+            <line><speaker who="direc">DIRECTOR</speaker> After all, it's hardly an
+                international matter, is it? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I understand
+                <address who="direc" level="pronoun">you</address>'ve lost a couple of
+                scientists. </line>
+            <line><speaker who="direc">DIRECTOR</speaker> Yes. <reference who="philips"
+                    level="titleSurname">Professor Philips</reference> and <reference
+                    who="goodge" level="other">his assistant</reference>, <reference
+                    who="goodge" level="surname">Goodge</reference>. </line>
+            <action>The Doctor picks up the half eaten hard-boiled egg from the table.</action>
+            <line><speaker who="direc">DIRECTOR</speaker>
+                <reference who="goodge" level="surname">Goodge</reference> must have left in
+                quite a hurry. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. Yes, <reference who="goodge"
+                    level="pronoun">he</reference> must. </line>
+            <action>The Doctor opens the sandwich box.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, no! </line>
+            <line><speaker who="yates">YATES</speaker> What's wrong? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Look for yourself. </line>
+            <line><speaker who="direc">DIRECTOR</speaker> It's <reference who="goodge"
+                    level="surname">Goodge</reference>! </line>
+            <action>Goodge's tiny figure is slumped against the side of the box.</action>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <action>The Master is in a more conventional business suit.</action>
+            <line><speaker who="master">MASTER</speaker> I'm very glad that you could see me at such
+                short notice, <address who="farjr" level="titleSurname">Mister Farrel</address>. </line>
+            <line><speaker who="farjr">FARREL</speaker> Well, your telephone call was pretty
+                intriguing, <address who="master" level="aliasTitle">Colonel</address>. Er, do sit down. </line>
+            <line><speaker who="master">MASTER</speaker> Oh, thank you. </line>
+            <line><speaker who="farjr">FARREL</speaker> Er, we, er, do have a little spare capacity
+                at the moment. </line>
+            <line><speaker who="master">MASTER</speaker> I would say more than a little, considering
+                that your plant has been working at less than half volume for over a year. </line>
+            <line><speaker who="farjr">FARREL</speaker> I see
+                <address who="master" level="pronoun">you</address>'ve done your homework,
+                <address who="master" level="aliasTitle">Colonel</address>. Well, I, er, admit I was
+                interested when <address who="master" level="pronoun">you</address> mentioned a
+                steady repeat demand. </line>
+            <line><speaker who="master">MASTER</speaker> The people I represent,
+                <address who="farjr" level="titleSurname">Mister Farrel</address>, can never have
+                too much plastic.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="jo">JO</speaker> What is a Nestene? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Ask <reference who="yates"
+                    level="titleSurname">Captain Yates</reference>. <reference who="yates"
+                    level="pronoun">He</reference> had the job of clearing up the mess last time. </line>
+            <line><speaker who="jo">JO</speaker> Well, what is a Nestene? </line>
+            <line><speaker who="yates">YATES</speaker> Oh, a Nestene? Er, it's a bit difficult to
+                describe, exactly. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> A Nestene is a ruthlessly aggressive
+                intelligent alien life form. </line>
+            <line><speaker who="jo">JO</speaker> Well, what do they look like? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well I expect myself their basic form is
+                analogous to a cephalopod. </line>
+            <line><speaker who="jo">JO</speaker> What's a cephalopod? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> An octopus. I thought
+                <address who="jo" level="pronoun">you</address> took an A-Level in science. </line>
+            <line><speaker who="jo">JO</speaker> I didn't say I passed. Urgh, an octopus. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> They manifest themselves as a disembodied,
+                mutually telepathic intelligence. </line>
+            <line><speaker who="jo">JO</speaker> But if they're disembodied, how can they hurt
+                us? </line>
+            <line><speaker who="yates">YATES</speaker> They make themselves bodies when they need
+                them. </line>
+            <line><speaker who="jo">JO</speaker> You mean like Frankenstein? </line>
+            <action>The Doctor puts on a heat reflective apron and gloves.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> No. They have a natural affinity for
+                plastic. Now, if <address who="jo" level="pronoun">you</address>'ve quite finished
+                asking questions? </line>
+            <line><speaker who="jo">JO</speaker> Sorry. Just forget I'm here. </line>
+            <line><speaker who="yates">YATES</speaker> At least we should be ready for them this
+                time. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Too late,
+                <address who="yates" level="title">Captain</address>. They're here already. </line>
+            <line><speaker who="jo">JO</speaker> What? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> The radio telescope is their bridgehead.
+                They used that to contain energy into that surviving Nestene unit. </line>
+            <action>The Brigadier enters.</action>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <address who="brig" level="title">Brigadier</address>. Look, that unit must be
+                discovered within the next hour. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes, I'm well aware of the urgency of the
+                situation, <address who="doctor" level="title">Doctor</address>. If we had some
+                idea where its been taken. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, try the plastics factories,
+                <address who="brig" level="man">man</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes. I'll set up a search straight away.
+                <address who="yates" level="surname">Yates</address>. </line>
+            <line><speaker who="yates">YATES</speaker> Right,
+                <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="jo">JO</speaker> Can I help,
+                <address who="brig" level="sir">sir</address>? Please? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Very well,
+                <address who="jo" level="titleSurname">Miss Grant</address>. </line>
+            <line><speaker who="jo">JO</speaker> I'll start by making out some lists.</line>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <action>Farrel is getting the full benefit of the Master's Look.</action>
+            <line><speaker who="master">MASTER</speaker>
+                <address who="farjr" level="pronoun">You</address> will obey me and no one else. Do
+                you understand? </line>
+            <line><speaker who="farjr">FARREL</speaker> I shall obey. I shall obey. I shall
+                obey.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> And
+                <address who="doctor" level="pronoun">you</address>'re convinced <reference
+                    who="master" level="thatNP">this man</reference> is working with the Nestenes? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, I should think by now <reference
+                who="master" level="pronoun">he</reference>'ll be calling himself their
+                Commander in Chief. Vanity's his weakness. Ah, there you are. It should be cooked by
+                now. </line>
+            <action>The Doctor opens a kiln and takes out the cylinder.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> This, er, this device of his. Is it very
+                powerful? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, I should say roughly equal to a fifteen
+                megaton bomb. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Really? Well, the research boys'll be
+                glad to get their hands on this. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Too late,
+                <address who="brig" level="title">Brigadier</address>. I've boiled out the
+                contents. The weapons that you have on Earth are quite nasty enough as it is.</line>
+        </scene>
+        <scene>
+            <location>Plastics Factory</location>
+
+            <action>The Master attaches the energy unit to a piece of machinery and walks off.
+                Farrel follows as they go outside. Meanwhile Jo is running across the top of a brick
+                regaining wall at the bottom of a grass bank.</action>
+            <line><speaker who="master">MASTER</speaker> Now the computer. </line>
+            <line><speaker who="farjr">FARREL</speaker> This way. </line>
+            <action>Jo hides behind a convenient pile of milk crates as the two men walk towards
+                her, talking.</action>
+            <line><speaker who="master">MASTER</speaker> I see. Excellent. </line>
+            <line><speaker who="farjr">FARREL</speaker> What are
+                <address who="master" level="pronoun">you</address> going to do? </line>
+            <line><speaker who="master">MASTER</speaker> I wish to alter the masterplan. </line>
+            <line><speaker who="farjr">FARREL</speaker> But that would change our whole production
+                lines! </line>
+            <line><speaker who="master">MASTER</speaker> Naturally. </line>
+            <line><speaker who="farjr">FARREL</speaker>
+                <reference who="farsr" level="kinship">My father</reference> would never dream of
+                allowing </line>
+            <line><speaker who="master">MASTER</speaker>
+                <address who="farjr" level="myDearNP">My dear Mister Farrel</address>, don't worry
+                about <address who="farsr" level="pronoun">him</address>. You are under a new thumb
+                now. </line>
+            <action>They walk past Jo's hiding place. She gets up to see where they are going and
+                knocks off some small boxes.</action>
+            <line><speaker who="jo">JO</speaker> Oh, hello. </line>
+            <action>The Master stares at her.</action>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <line><speaker who="master">MASTER</speaker> Who went to the Radio Telescope Station? </line>
+            <line><speaker who="jo">JO</speaker> Myself, <reference who="brig" level="title">the
+                    Brigadier</reference> and <reference who="doctor" level="title">the
+                    Doctor</reference>. </line>
+            <line><speaker who="master">MASTER</speaker> As I thought. Curiosity is his weakness.
+                Well, I should have to see that it's satisfied.
+                <address who="jo" level="pronoun">You</address> will return to UNIT with a negative
+                report. <address who="jo" level="pronoun">You</address> found nothing suspicious.
+                Everything was in order. </line>
+            <line><speaker who="jo">JO</speaker> Yes. Everything in order. </line>
+            <line><speaker who="master">MASTER</speaker> When
+                <address who="jo" level="pronoun">you</address> leave this room you will have no
+                memory of meeting me, only <reference who="farjr" level="titleSurname">Mister
+                    Farrel</reference>. </line>
+            <line><speaker who="jo">JO</speaker> Only <reference who="farjr"
+                    level="titleSurname">Mister Farrel</reference>. </line>
+            <line><speaker who="master">MASTER</speaker> Your instructions are already implanted.
+                <address who="jo" level="pronoun">You</address> will obey them without a further
+                word from me. </line>
+            <line><speaker who="jo">JO</speaker> I shall obey. </line>
+            <line><speaker who="master">MASTER</speaker> Good.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="yates">YATES</speaker> Yes, what is it,
+                <address who="benton" level="title">Sergeant</address>? </line>
+            <line><speaker who="benton">BENTON</speaker> Excuse me,
+                <address who="yates" level="sir">sir</address>. We've just had a call from the
+                civil police. They found Philips' car abandoned. </line>
+            <line><speaker who="yates">YATES</speaker> Where? </line>
+            <line><speaker who="benton">BENTON</speaker> In a field about nine miles away from the
+                research station, and they say there's a zinc box in the boot with UNIT markings. </line>
+            <line><speaker who="yates">YATES</speaker> The energy unit? </line>
+            <line><speaker who="benton">BENTON</speaker> I've told them not to touch it,
+                <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="yates">YATES</speaker> What do you think,
+                <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I still am. </line>
+            <line><speaker who="yates">YATES</speaker> Huh? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Thinking.</line>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <line><speaker who="mcder">McDERMOTT</speaker>
+                <action>Irish</action> I think you'd better go home. Sure, look, I know all our
+                customers and there isn't a <reference who="master" level="aliasFull">Colonel
+                    Masters</reference> amongst them. </line>
+            <line><speaker who="farjr">FARREL</speaker> You're quite wrong,
+                <address who="mcder" level="firstName">James</address>. He's taking over our entire
+                production at the moment. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Entire? Here, look, I'll tell you what,
+                <address who="farjr" level="nickname">Rex</address>. Now look,
+                <address who="farjr" level="pronoun">you</address> go through those orders, yes?
+                And <address who="farjr" level="pronoun">you</address> show me <reference who="master" level="thatNP">this chap</reference>. Go on. </line>
+            <line><speaker who="farjr">FARREL</speaker> All right. </line>
+            <action>Farrel opens a drawer full of large card files. His head hurts.</action>
+            <line><speaker who="farjr">FARREL</speaker> I don't understand. There should be a card
+                for <reference who="master" level="pronoun">him</reference>! </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Look
+                <address who="farjr" level="nickname">Rex</address>, I think
+                <address who="farjr" level="pronoun">you</address> ought to take a couple of days
+                off. I'll ring <reference who="farsr" level="kinship">your father</reference> and
+                    <reference who="farsr" level="pronoun">he</reference> can come </line>
+            <line><speaker who="farjr">FARREL</speaker> May I remind you,
+                <address who="mcder" level="titleSurname">Mister McDermott</address>, that
+                    <reference who="farsr" level="kinship">my father</reference> is retired. I'm
+                running this place now. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker>
+                <reference who="farsr" level="kinship">Your father</reference> built this place up
+                from nothing. Sure, I remember when I was a wee lad, <reference who="farsr"
+                    level="pronoun">he</reference>
+            </line>
+            <line><speaker who="farjr">FARREL</speaker> All right, all right, all right! Let's not
+                go over all that again. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Look, I'm sorry,
+                <address who="farjr" level="nickname">Rex</address>, but I especially promised
+                    <reference who="farsr" level="kinship">your father</reference> I would </line>
+            <line><speaker who="farjr">FARREL</speaker> There's no need to bring <reference
+                    who="farsr" level="kinship">father</reference> into it! Look, I'll go and fetch
+                    <reference who="master" level="pronoun">him</reference>. <reference
+                    who="master" level="pronoun">He</reference>'s only down in the lab. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Who? </line>
+            <line><speaker who="farjr">FARREL</speaker>
+                <reference who="master" level="aliasFull"> Colonel Masters</reference>, of course.
+                    <reference who="master" level="pronoun">He</reference>'ll explain everything. </line>
+            <action>Farrel leaves. McDermott picks up the telephone.</action>
+            <line><speaker who="mcder">McDERMOTT</speaker>
+                <address who="sylvia" level="firstName">Sylvia</address>? Get me <reference
+                    who="farsr" level="titleSurname">Mister Farrel senior</reference>,
+                please.</line>
+        </scene>
+        <scene>
+            <location>Research Laboratory</location>
+
+            <action>The Master snaps his fingers and the first of three Autons sits up. Farrel
+                enters, stares and turns to leave. An Auton is behind the door with its arm raised
+                to strike.</action>
+            <line><speaker who="master">MASTER</speaker> No! Don't be frightened,
+                <address who="farjr" level="surname">Farrel</address>. The Autons are my servants.
+                Why do you come here? </line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>Benton puts the ammo box on the bench. It has a lot of chain fastened around
+                it.</action>
+            <line><speaker who="yates">YATES</speaker> That's not an issue padlock, is it? </line>
+            <line><speaker who="benton">BENTON</speaker> No. I'll try and find some keys. </line>
+            <line><speaker who="jo">JO</speaker> I can open it. </line>
+            <action>Jo takes out a large bunch of skeleton keys.</action>
+            <line><speaker who="yates">YATES</speaker> A key for every occasion, eh? </line>
+            <line><speaker who="yates">YATES</speaker>
+                <address who="doctor" level="title">Doctor</address>, we've got the box down here. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <location>OC</location>: Good. I'll be right down. </line>
+            <action>Jo unfastens the padlock and starts to prise the lid open. The Doctor has come
+                down the spiral staircase in the corner of the lab.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Stop <reference who="jo" level="pronoun"
+                    >her</reference>! That's a bomb! </line>
+            <action>Smoke is pouring from the box. Jo thumps Yates hard in the stomach.</action>
+            <line><speaker who="jo">JO</speaker> I've got to open it! I've got to!</line>
+        </scene>
+    </episode>
+
+    <episode>
+        <subtitle>Episode Two</subtitle>
+
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>Benson drags Jo away. The Doctor grabs the box and throws it through the closed
+                window into the canal. BOOM! Seagulls start squawking.</action>
+            <line><speaker who="benton">BENTON</speaker> Strewth! There's going be some complaints
+                about that you know, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <address who="benton" level="myDearNP">My dear Sergeant</address>, if that box hadn't
+                been tied, <address who="benton" level="pronoun">you</address> wouldn't be here to
+                receive any complaints. </line>
+            <line><speaker who="benton">BENTON</speaker> Yes
+                <address who="doctor" level="sir">sir</address>. I mean, no,
+                <address who="doctor" level="sir">sir</address>. </line>
+            <line><speaker who="yates">YATES</speaker> What gave
+                <address who="doctor" level="pronoun">you</address> the idea it was a booby trap,
+                <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <reference who="jo" level="pronoun">She</reference> did. </line>
+            <action>Jo is standing staring at nothing.</action>
+            <line><speaker who="yates">YATES</speaker> What's wrong with <reference who="jo"
+                    level="pronoun">her</reference>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Almost certainly post-hypnotic alienation. </line>
+            <line><speaker who="yates">YATES</speaker>
+                <reference who="jo" level="pronoun">She</reference>'s been hypnotised? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, of course. Why else do you think
+                    <reference who="jo" level="pronoun">she</reference> tried to blow us all to
+                pieces? Come on, <address who="jo" level="myDear">my dear</address>, come and sit
+                down over here. Get a chair,
+                <address who="yates" level="titleSurname">Captain Yates</address>. Come on,
+                <address who="jo" level="pronoun">you</address> sit down here. There. Good. </line>
+            <line><speaker who="yates">YATES</speaker> Well, I understood that under hypnosis it was
+                impossible for </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <address who="yates" level="pronoun">You</address> thought that under hypnosis it
+                was impossible for a subject to be persuaded to do anything that was against his
+                nature? </line>
+            <line><speaker who="yates">YATES</speaker> That's right. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, it's a fallacy,
+                <address who="yates" level="title">Captain</address>. <reference who="master"
+                    level="title">The Master</reference> can completely control the human mind. </line>
+            <line><speaker who="benton">BENTON</speaker> So <reference who="master" level="pronoun"
+                    >he</reference> can just take over anyone <reference who="master"
+                    level="pronoun">he</reference> likes? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No, not quite. No, some minds are stubborn
+                enough to resist hypnosis. In any case, it doesn't last. Away from the Master's
+                influence, the mind struggles constantly to free itself. </line>
+            <line><speaker who="yates">YATES</speaker> Is <reference who="jo" level="pronoun"
+                    >she</reference> in some sort of a trance? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I think the current jargon is schizoid
+                dissociation. It's because <reference who="jo" level="pronoun">she</reference> was
+                forced to do something against her will and her conscious mind refuses to accept the
+                fact. The result is a deep trauma. </line>
+            <line><speaker who="yates">YATES</speaker>
+                <address who="jo" level="nickname">Jo</address>? Where's <reference who="master"
+                    level="title">the Master</reference>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <reference who="jo" level="pronoun">She</reference> won't remember that. </line>
+            <line><speaker who="yates">YATES</speaker> But she might.
+                <address who="jo" level="nickname">Jo</address>! Where is <reference who="master"
+                    level="title">the Master</reference>?</line>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <line><speaker who="mcder">McDERMOTT</speaker>
+                <reference who="farjr" level="titleSurname">Mister Farrel</reference> tells me
+                <address who="master" level="pronoun">you</address>'ve changed the mix. What right
+                have <address who="master" level="pronoun">you</address> got to interfere? Do
+                <address who="master" level="pronoun">you</address> know
+                <address who="master" level="pronoun">you</address>'ve ruined a whole day's
+                production? </line>
+            <line><speaker who="master">MASTER</speaker>
+                <address who="mcder" level="pronoun">You</address> call this ruined? </line>
+            <action>It's a big black shiny lump.</action>
+            <line><speaker who="mcder">McDERMOTT</speaker> Well, it's the wrong colour and the wrong texture. Of
+                course it's ruined! </line>
+            <line><speaker who="master">MASTER</speaker> <address who="mcder" level="pronoun">You</address> don't appreciate its full potential, do
+                you. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Look and I don't want to. It doesn't meet our
+                specification. </line>
+            <line><speaker who="master">MASTER</speaker> This plastic has got unique properties,
+               <address who="mcder" level="titleSurname"> Mister McDermott</address>. Allow me to demonstrate. </line>
+            <action>The Master throws the black plastic onto the floor and snaps his fingers. It
+                slowly unfolds itself into an inflated armchair.</action>
+            <line><speaker who="mcder">McDERMOTT</speaker> It's unique, right enough. So, er, <address who="master" level="pronoun">you</address>'re a magician
+                as well as a Colonel, eh? </line>
+            <line><speaker who="master">MASTER</speaker> I am many things. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Aye, well, that's as maybe, but <address who="master" level="pronoun">you</address>'re not a director
+                of this company, <address who="master" level="aliasFull"> Colonel Masters</address>. I am in charge of production here and I answer
+                only to <reference who="farjr" level="titleSurname">Mister Farrel</reference> and <reference who="farsr" level="kinship">his father</reference>. </line>
+            <line><speaker who="master">MASTER</speaker> Look, why don't <address who="mcder" level="pronoun">you</address> try it? </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> Well, <address who="master" level="pronoun">you</address>'ll never sell that, I'll tell <address who="master" level="pronoun">you</address> that for
+                nothing. Sure, it looks like like a black pudding. </line>
+            <line><speaker who="master">MASTER</speaker> Try sitting in it. </line>
+            <line><speaker who="mcder">McDERMOTT</speaker> It's got a cold clammy feel to it. Now plastic should
+                be warm and dry with a </line>
+            <line><speaker who="master">MASTER</speaker> Sit down! </line>
+            <action>McDermott gets a Look and obeys.</action>
+            <line><speaker who="mcder">McDERMOTT</speaker> It's moving. </line>
+            <action>The chair starts to wrap around McDermott. Farrel steps forward.</action>
+            <line><speaker who="master">MASTER</speaker> No, I will not tolerate his insolence. </line>
+            <action>Finally the back of the chair covers McDermott's face and suffocates him. Farrel
+                goes to the intercom.</action>
+            <line><speaker who="farjr">FARREL</speaker> <address who="sylvia" level="firstName">Sylvia</address>, will <address who="sylvia" level="pronoun">you</address> check Mister McDermott's
+                entitlement on termination of employment, please? </line>
+            <line><speaker who="master">MASTER</speaker> It's a very clumsy operation, this. <address who="farjr" level="pronoun">You</address> can
+                see now why this product's got to be changed. </line>
+            <line><speaker who="farjr">FARREL</speaker> Oh, I don't know. Seems very effective to
+                me. </line>
+            <line><speaker who="master">MASTER</speaker> What? Yards of plastic to accomplish that
+                which can be done by just a few inches? </line>
+            <line><speaker who="farjr">FARREL</speaker> A few inches? </line>
+            <line><speaker who="master">MASTER</speaker> Yes, <address who="farjr" level="surname">Farrel</address>. The human body has a basic
+                weakness. One that I which I shall exploit to assist in the destruction of
+                humanity.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, wake up. Wake up, <address who="jo" level="nickname">Jo</address>. This is the
+                Doctor. You're amongst friends. </line>
+            <line><speaker who="yates">YATES</speaker> It's no good. I think we're just wasting </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Please! Be quiet! </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes? </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>? <address who="doctor" level="title">Doctor</address>! <address who="doctor" level="pronoun">You</address> </line>
+            <line><speaker who="doctor">DOCTOR</speaker> All right, all right. </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Calm down, <address who="jo" level="nickname">Jo</address>. Calm down. We're quite safe. </line>
+            <line><speaker who="jo">JO</speaker> There was an explosion! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That was a long way away. Believe me, that
+                was a long way away. Now we're all quite safe. Look around <address who="jo" level="pronoun">you</address>. See for yourself.
+                Look around. Look. Look, we're all here. </line>
+            <line><speaker who="jo">JO</speaker> The box! I had to open it! There was a voice. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes well, that voice. Where were <address who="jo" level="pronoun">you</address> when
+                <address who="jo" level="pronoun">you</address> heard that voice? </line>
+            <line><speaker who="jo">JO</speaker> A room </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Mmm hmm. </line>
+            <line><speaker who="jo">JO</speaker> I don't know where. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. What sort of a room? </line>
+            <line><speaker who="jo">JO</speaker> There was a desk. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. </line>
+            <line><speaker who="jo">JO</speaker> A telephone. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> An office? Was it a factory office? </line>
+            <line><speaker who="jo">JO</speaker> Yes! Yes, an office. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well, where was that factory? Do <address who="jo" level="pronoun">you</address>
+                know the name of the factory? </line>
+            <line><speaker who="jo">JO</speaker> No. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, try and remember. </line>
+            <line><speaker who="jo">JO</speaker> I can't remember. I can't remember!</line>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <action>Farrel Senior, Farrel's father, is given the bad news.</action>
+            <line><speaker who="farsr">FARREL SR</speaker> Dead? <reference who="mcder" level="pronoun">He</reference> can't be. </line>
+            <line><speaker who="farjr">FARREL</speaker> I'm afraid so, <address who="farsr" level="kinship">father</address>. </line>
+            <line><speaker who="master">MASTER</speaker> Yes <reference who="mcder" level="pronoun">he</reference> sat down in this chair here, and just
+                slipped away. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> I can't take it in. </line>
+            <line><speaker who="farjr">FARREL</speaker> Yes, it's very sad. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> Well, what did the doctor say? </line>
+            <line><speaker who="farjr">FARREL</speaker> I. I'm not sure. It all happened so
+                suddenly. You see </line>
+            <line><speaker who="farsr">FARREL SR</speaker> Oh, well, anyway, I suppose it's hardly decent in the circumstances but
+                I've driven a long way to talk to <address who="farjr" level="pronoun">you</address>, <address who="farjr" level="nickname">Rex</address>. </line>
+            <line><speaker who="farjr">FARREL</speaker> Er, yes, <address who="farsr" level="kinship">father</address>? What about? </line>
+            <line><speaker who="farsr">FARREL SR</speaker> About the way <address who="farjr" level="pronoun">you</address> seem determined to throw away the years of work I've
+                put into this factory. Now just what is going on here? </line>
+            <line><speaker who="farjr">FARREL</speaker> We're changing our policy, <address who="farsr" level="kinship">father</address>.
+                Introducing new methods, new products. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> <address who="farjr" level="pronoun">You</address>'re doing nothing of the sort. <address who="farjr" level="pronoun">You</address>'ll carry on on the lines I laid
+                down, or I'll come out of retirement and do the job myself. I'm not past it, you
+                know. </line>
+            <line><speaker who="master">MASTER</speaker> Allow me to explain, <address who="farsr" level="titleSurname">Mister Farrel</address>. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> I'd be very much obliged if <address who="master" level="pronoun">you</address> would. </line>
+            <line><speaker who="master">MASTER</speaker> The changes that I have suggested are for
+                the good of the factory. Now <address who="farsr" level="pronoun">you</address> must trust me, there's nothing to worry about. </line>
+            <action>The Master stares at the older Farrel.</action>
+            <line><speaker who="master">MASTER</speaker> Nothing to worry about. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> Trust <address who="master" level="pronoun">you</address>. Nothing to worry about. There's a great deal to worry about,
+                sir! And frankly, the thing that worries me most is your presence here. </line>
+            <line><speaker who="master">MASTER</speaker> Why <address who="farsr" level="pronoun">you</address> </line>
+            <action>Farrel stops the Master from hitting his father.</action>
+            <line><speaker who="farjr">FARREL</speaker> No! </line>
+            <line><speaker who="master">MASTER</speaker> Congratulations, <address who="farsr" level="titleSurname">Mister Farrel</address>. Usually I
+                can overcome opposition but your will is exceptionally strong. One might say
+                dangerously strong. </line>
+            <action>The Master leaves.</action>
+            <line><speaker who="farsr">FARREL SR</speaker> Damned impertinence. <address who="farjr" level="nickname">Rex</address>. <address who="farjr" level="nickname">Rex</address>, hadn't <address who="farjr" level="pronoun">you</address> better go home? I'll see
+                after things here. </line>
+            <line><speaker who="farjr">FARREL</speaker> No. Please, I can manage. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> All right. I'll give <address who="farjr" level="pronoun">you</address> till tomorrow. And by then I want <reference who="master" level="thatNP">this Masters
+                fellow</reference> out of here and production back to normal. </line>
+            <action>Farrel Senior leaves and junior's head hurts.</action>
+        </scene>
+        <scene>
+            <location>Outside the office building</location>
+
+            <action>The Master goes over to Farrel Senior's car and moves the heating control over
+                to hot, then walks away. When Farrel Senior comes out, he goes over to him.</action>
+            <line><speaker who="master">MASTER</speaker> Oh, <address who="farsr" level="titleSurname">Mister Farrel</address>? </line>
+            <line><speaker who="farsr">FARREL SR</speaker> I've nothing to say to <address who="master" level="pronoun">you</address>, <address who="master" level="sir">sir</address>. </line>
+            <line><speaker who="master">MASTER</speaker> Well, I thought if <address who="farsr" level="pronoun">you</address> actually saw one of
+                our new lines. </line>
+            <action>The Master produces a dwarf-like brown doll with protruding eyes, pointed teeth,
+                three white buttons on its long torso and very short legs.</action>
+            <line><speaker who="farsr">FARREL SR</speaker> Disgusting object. No demand for a thing like that. </line>
+            <line><speaker who="master">MASTER</speaker> I think <address who="farsr" level="pronoun">you</address>'re wrong, Mister Farrel. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> Well, since <address who="master" level="pronoun">you</address> won't be making any more of them, we shan't have a
+                chance to find out. </line>
+            <action>Farrel Senior gets into his car.</action>
+            <line><speaker who="master">MASTER</speaker> Why don't <address who="farsr" level="pronoun">you</address> keep this for a while? Think
+                it over. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> I don't want the thing! </line>
+            <line><speaker who="master">MASTER</speaker> Ah, but I insist! </line>
+            <action>The Master throws the doll onto the back seat.</action>
+            <line><speaker who="farsr">FARREL SR</speaker> <address who="master" level="pronoun">you</address>'re wasting your time. </line>
+            <line><speaker who="master">MASTER</speaker> Not at all. I'm simply trying out a new
+                product. </line>
+            <action>Farrel drives off.</action>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>Jo enters cautiously.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Hello, <address who="jo" level="nickname">Jo</address>. Are you feeling better? </line>
+            <line><speaker who="jo">JO</speaker> Yes, I'm fine, thank you. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That's good. </line>
+            <line><speaker who="jo">JO</speaker> I just wanted to say how sorry I am. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What on earth for? </line>
+            <line><speaker who="jo">JO</speaker> The bomb! I might have killed you all. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, that was nothing to do with <address who="jo" level="pronoun">you</address>, <address who="jo" level="myDear">my
+                dear</address>. That was <reference who="master" level="title">the Master</reference>. </line>
+            <action>The Brigadier enters.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> You're supposed to be on sick leave, <address who="jo" level="titleSurname">Miss
+                Grant</address>. </line>
+            <line><speaker who="jo">JO</speaker> I'm okay now again, <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Oh, so <address who="jo" level="pronoun">you</address>'ve recovered your memory then? </line>
+            <line><speaker who="jo">JO</speaker> No, I'm afraid I haven't. I've tried and tried
+                to remember. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well don't. It'll only make things
+                worse. Leave your mind alone. Something may pop up of its own accord. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes, well, we can't just sit about
+                waiting for something to pop up from <address who="jo" level="titleSurname">Miss
+                Grant</address>'s mind. If my agents don't turn up
+                something soon, I'm going to surround and search every factory on that list. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> You know, <address who="brig" level="title">Brigadier</address>, your methods have all
+                the refined subtlety of a bull in a china shop. </line>
+            <action>Yates enters.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Any news? </line>
+            <line><speaker who="yates">YATES</speaker> Well, it's a bit tenuous, <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Well, out with it. </line>
+            <line><speaker who="yates">YATES</speaker> You know the field where we found Professor
+                Philips' car? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes. </line>
+            <line><speaker who="yates">YATES</speaker> Well, <reference who="benton" level="titleSurname">Sergeant Benton</reference> noticed that the turf
+                was all churned up. So <reference who="benton" level="pronoun">he</reference> did a bit of checking and <reference who="benton" level="pronoun">he</reference> found that a circus had just
+                left. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh? Where's the circus now? </line>
+            <line><speaker who="yates">YATES</speaker> Tarminster. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I'll get some of my men down there with
+                photographs of <reference who="philips" level="surname">Philips</reference>. Someone at the circus may have seen <reference who="philips" level="surname">him</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I haven't been to a circus for years. I
+                think I'll go myself. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> All right, <address who="doctor" level="title">Doctor</address>. I'll get <address who="doctor" level="pronoun">you</address> an
+                escort. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No, thank you, <address who="brig" level="title">Brigadier</address>. No, I'll go on my
+                own, if you don't mind. Don't want a lot of soldiers crashing about, do we? </line>
+            <line><speaker who="jo">JO</speaker> Can I come? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Er, no, <address who="jo" level="titleSurname">Miss
+                Grant</address>, I don't think so. Not
+                just yet. </line>
+            <line><speaker who="jo">JO</speaker> But I'm fine now. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="jo" level="titleSurname">Miss
+                Grant</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I'll need some photographs of <reference who="philips" level="thatNP">that man
+                Philips</reference>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Oh, they're in my office, but I still
+                don't see why <address who="doctor" level="pronoun">you</address> don't want members of my company to come with <address who="doctor" level="pronoun">you</address>.</line>
+                <action>The Doctor and Brigadier leave.</action>
+            <line><speaker who="yates">YATES</speaker> What's up now? </line>
+            <line><speaker who="jo">JO</speaker> Oh, nothing. Life's just wonderful. </line>
+            <line><speaker who="yates">YATES</speaker> Easy, <address who="jo" level="otherEndear">love</address>. </line>
+            <line><speaker who="jo">JO</speaker> I've really got off to a terrific start, haven't
+                I? I find <reference who="master" level="theNP">the man everybody's looking for</reference>, I forget where <reference who="master" level="pronoun">he</reference> is and I end up by
+                trying to blow you all sky high! </line>
+            <line><speaker who="yates">YATES</speaker> No-one's blaming <address who="jo" level="pronoun">you</address>. </line>
+            <line><speaker who="jo">JO</speaker> Oh no! You all just tell me to keep out of the
+                way. I'm not a child, you know. </line>
+            <line><speaker who="yates">YATES</speaker> Well, <address who="jo" level="pronoun">you</address>'re acting like one. </line>
+            <line><speaker who="jo">JO</speaker> Sorry. But if only I could show them. </line>
+            <line><speaker who="yates">YATES</speaker> Don't try. Just do as <reference who="brig" level="title">the Brigadier</reference> says. </line>
+            <line><speaker who="jo">JO</speaker> Yes, of course, <address who="yates" level="pronoun">you</address>'re quite right. </line>
+            <action>Meanwhile, Farrel Senior is starting to feel the effects of the extra heat in
+                his car and mops his brow. On the back seat, the doll sits up, while Farrel adjusts
+                the car's ventilation controls and opens his front quarter-light. The doll falls
+                back again.</action>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <action>The Master is at the desk doing paperwork when Farrel enters.</action>
+            <line><speaker who="farjr">FARREL</speaker> I've sent the staff home as <address who="master" level="pronoun">you</address> ordered,
+                <address who="master" level="aliasTitle">Colonel</address>. </line>
+            <line><speaker who="master">MASTER</speaker> Excellent. Begin maximum output of our new
+                product. </line>
+            <line><speaker who="farjr">FARREL</speaker> Without workers? </line>
+            <line><speaker who="master">MASTER</speaker> The Nestene Autons will run the factory. </line>
+            <line><speaker who="farjr">FARREL</speaker> Oh! Er, I'm still afraid <reference who="farsr" level="kinship">my father</reference> will
+                make trouble. <reference who="farsr" level="pronoun">He</reference>, er, doesn't understand. </line>
+            <line><speaker who="master">MASTER</speaker> Don't worry about <reference who="farsr" level="kinship">your father</reference>. I've
+                persuaded <reference who="farsr" level="pronoun">him</reference> to change his mind. </line>
+            <line><speaker who="farjr">FARREL</speaker> Why did you send <reference who="philips" level="surname">Philips</reference> to the circus? The
+                UNIT people may find <reference who="philips" level="pronoun">him</reference>. </line>
+            <line><speaker who="master">MASTER</speaker> But I sent <reference who="philips" level="pronoun">him</reference> there to be found by UNIT. Or
+                better still, by <reference who="doctor" level="title">the Doctor</reference>. </line>
+            <line><speaker who="farjr">FARREL</speaker> I'm sorry, I don't understand. </line>
+            <line><speaker who="master">MASTER</speaker> You see, the bomb was by way of being a
+                greetings card, a small little gallantry on the eve of battle. The car will lure <reference who="doctor" level="title">the Doctor</reference> to the circus, and there, I shall destroy <reference who="doctor" level="pronoun">him</reference>.</line>
+        </scene>
+        <scene>
+            <location>Circus</location>
+
+            <action>In the big top, five Indian elephants finish their dance routine. The Doctor
+                parks Bessie in amongst the caravans and goes over to the tent as the gentle giants
+                leave, followed by a baby. Jo pokes her head up from the back seat. The Doctor shows
+                a photograph to the elephant handler.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <reference who="philips" level="surname">Philips</reference>. <reference who="philips" level="titleSurname">Professor Philips</reference>. </line>
+            <line><speaker who="eleph">HANDLER</speaker> Sorry, pal, never seen <reference who="philips" level="pronoun">him</reference>. </line>
+            <action>A large African strong man in leopard skin costume watches the Doctor talking to
+                the clowns. Jo sees him walk away.</action>
+        </scene>
+        <scene>
+            <location>Farrel Senior's home</location>
+
+            <action>Mrs Farrel enters, in coat and hat.</action>
+            <line><speaker who="farmom">MRS FARREL</speaker> Oh, poor <reference who="mcder" level="titleSurname">Mister McDermott</reference>. It must have been a terrible shock for <reference who="farjr" level="nickname">Rex</reference>. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> On the contrary. When I walked in, <reference who="farjr" level="pronoun">he</reference> was just carrying on with his
+                work as if nothing had happened. </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Oh <address who="farsr" level="firstName">John</address>, no! </line>
+            <line><speaker who="farsr">FARREL SR</speaker> And <reference who="master" level="thatNP">this Colonel Masters</reference> was just as unconcerned. Frankly, they both
+                seemed to me quite inhuman. </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> You will make <reference who="farjr" level="nickname">Rex</reference> get rid of <reference who="master" level="thatNP">that man</reference>. </line>
+            <line><speaker who="farsr">FARREL SR</speaker> I most certainly shall. Frankly, I didn't take to <reference who="master" level="theNP">the chap</reference> really, or
+                to his repulsive toy. Now, just look at that! </line>
+            <action>He shows her the dwarf.</action>
+            <line><speaker who="farmom">MRS FARREL</speaker> Oh, it's a horrible looking thing. There's something evil about
+                it.</line>
+        </scene>
+        <scene>
+            <location>Circus</location>
+
+            <action>The Doctor spots the lovely modern horsebox and goes over to investigate.
+                Meanwhile the strong man and Rossini come out of Rossini's caravan. (The Doctor has
+                just put a listening device against the horsebox door, heard something interesting
+                and is about to open the door when a hand pulls him away.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> Into me wagon, quick! </line>
+            <action>Jo has seen this.</action>
+        </scene>
+        <scene>
+            <location>Rossini's caravan</location>
+
+            <action>The strong man ties the Doctor to a chair.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> This is outrageous. Let me go at once! </line>
+            <line><speaker who="rossi">ROSSINI</speaker> <address who="doctor" level="pronoun">You</address>'ve got some hopes. All right, <address who="tony" level="firstName">Tony</address>,
+                he's no elephant. What's your name? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Smith. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Smith? <address who="doctor" level="pronoun">You</address>'ve got no imagination. Try
+                again, <address who="doctor" level="aliasFull">Mister Smith</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Doctor actually. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Horse doctor maybe? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="rossi" level="pronoun">You</address>'re an insulting ruffian, aren't <address who="rossi" level="pronoun">you</address>? </line>
+            <action>Rossini blows cigar smoke into the Doctor's face. He coughs.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> Why were <address who="doctor" level="pronoun">you</address> so interested in my friend's
+                horsebox? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What's your friend's name? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> His name's none of your business. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> A strange name. How long's the horse box
+                been here? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Shut up! I'm asking the questions! <address who="tony" level="firstName">Tony</address>. </line>
+            <action>Tony grabs the Doctor's elbows.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> <reference who="tony" level="pronoun">He</reference>'ll snap your arm like a twig, <address who="doctor" level="title">Mister</address>.
+                <reference who="tony" level="firstName">Tony</reference> don't talk much but <reference who="tony" level="pronoun">he</reference>'s strong. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> All right, <address who="rossi" level="myDearNP">my dear chap</address>, there's no need to
+                do that. I'm perfectly prepared to answer all your questions. And, er, what was the
+                question? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> My friend's horsebox. Why were <address who="doctor" level="pronoun">you</address> so
+                interested? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I was listening. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> What for? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Certain vibrations. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Hmm. I don't think <reference who="master" level="kinship">my friend</reference>'s going to
+                like <address who="doctor" level="pronoun">you</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I'm sure of it. Where is <reference who="master" level="pronoun">he</reference>? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Away. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> How much are they paying <address who="rossi" level="pronoun">you</address>? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Come, come, <address who="doctor" level="title">Doctor</address>. Gentlemen don't
+                discuss money. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Nonsense, gentlemen never talk about
+                anything else. Now, listen to me. If <address who="rossi" level="pronoun">you</address>'re prepared to forget that <address who="rossi" level="pronoun">you</address>'ve ever seen
+                me and let me go, I will reward <address who="rossi" level="pronoun">you</address> very handsomely. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Is that so? Let's have a look, <address who="tony" level="firstName">Tony</address>. </line>
+            <action>Tony takes the Doctor's wallet from his inside pocket. It is empty.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> Oh, pity. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I can get money quite easily. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Eccentric millionaire, eh? Hello. </line>
+            <action>Rossini takes out a photograph of Philips.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Do <address who="rossi" level="pronoun">you</address> recognise <reference who="philips" level="thatNP">that man</reference>? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Maybe. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That is a photo of <reference who="philips" level="theNP">a missing government
+                scientist</reference>. If <address who="rossi" level="pronoun">you</address>'ve had anything to do with concealing <reference who="philips" level="pronoun">him</reference>, <address who="rossi" level="pronoun">you</address> are in very serious
+                trouble. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Someone's in trouble all right, <address who="doctor" level="title">Doctor</address>,
+                but it isn't me.</line>
+        </scene>
+        <scene>
+            <location>Telephone box</location>
+
+            <line><speaker who="jo">JO</speaker> They're holding <reference who="doctor" level="pronoun">him</reference> prisoner in one of the
+                caravans. </line>
+        </scene>
+        <scene>
+            <location>Brigadier's office</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> Just what do <address who="jo" level="pronoun">you</address> think <address who="jo" level="pronoun">you</address>'re doing down
+                there, <address who="jo" level="titleSurname">Miss Grant?</address></line>
+        </scene>
+        <scene>
+            <location>Telephone box</location>
+
+            <line><speaker who="jo">JO</speaker> Sorry, <address who="brig" level="sir">sir</address>, no time to argue. I'll go and see if
+                I can help <reference who="doctor" level="title">the Doctor</reference>.</line>
+        </scene>
+        <scene>
+            <location>Brigadier's office</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="jo" level="pronoun">You</address>'ll do nothing of the sort. <address who="jo" level="pronoun">You</address>'ll
+                stay in the background till I arrive. Is that clear?</line>
+        </scene>
+        <scene>
+            <location>Circus</location>
+
+            <action>Jo watches a man go over to the horsebox, unlock it and enter. She checks the
+                photograph in her pocket.</action>
+            <line><speaker who="jo">JO</speaker> It's <reference who="philips" level="titleSurname">Professor Philips</reference>.</line>
+        </scene>
+        <scene>
+            <location>Farrel Senior's home</location>
+
+            <line><speaker who="farsr">FARREL SR</speaker> It must have been a heart attack I suppose. </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Try not to worry about it, <address who="farsr" level="myDear">dear</address>. What's this thing doing over here? </line>
+            <action>The doll is on the floor by the main radiator, where the fireplace should
+                be.</action>
+            <line><speaker who="farsr">FARREL SR</speaker> It's <reference who="farjr" level="theNP">the boy</reference>'s attitude I can't understand. </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> It certainly doesn't sound like <reference who="farjr" level="other">my Rex</reference>. Oh well, I'll go make the
+                coffee. </line>
+            <action>She puts the doll on a shelf and leaves.</action>
+            <line><speaker who="farsr">FARREL SR</speaker> It's beyond me. </line>
+            <action>The doll rolls onto it's stomach and gets to its feet. It jumps down and Farrel
+                Senior spots it running towards him. Mrs Farrel hears a noise in the kitchen as the
+                vicious dwarf sinks its pointed teeth into Farrel Senior's throat, killing
+                him.</action>
+            <line><speaker who="farmom">MRS FARREL</speaker> <location>OC</location>: <address who="farsr" level="firstName">John</address>, are <address who="farsr" level="pronoun">you all right?</address> </line>
+            <action>The dwarf runs for cover and Mrs Farrel enters.</action>
+            <line><speaker who="farmom">MRS FARREL</speaker> <address who="farsr" level="firstName">John</address>? <action>she screams</action></line>
+        </scene>
+        <scene>
+            <location>Rossini's caravan</location>
+
+            <action>As the Brigadier and three other UNIT members drive along in an average family
+                car.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> <address who="doctor" level="pronoun">You</address> don't give very good answers, <address who="doctor" level="kinship">my
+                friend</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Maybe <address who="rossi" level="pronoun">you</address>'re not asking the right questions. </line>
+            <line><speaker who="rossi">ROSSINI</speaker> No <address who="tony" level="firstName">Tony</address>, don't break his arms. Yet. I
+                think I'll tell <reference who="master" level="kinship">my friend</reference> <address who="doctor" level="pronoun">you</address>'ve arrived. <reference who="master" level="pronoun">He</reference>'ll know what to do with <address who="doctor" level="pronoun">you</address>. </line>
+            <action>In a mirror, the Doctor sees Jo looking through the window. He shakes his head
+                and she ducks down out of sight.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> You know, <address who="doctor" level="title">Doctor</address>, the cost of meat is
+                exorbitant. Maybe <reference who="master" level="kinship">my friend</reference>'ll let me feed <address who="doctor" level="pronoun">you</address> to the tigers. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="rossi" level="pronoun">You</address>'ve got a very distorted sense of humour,
+                haven't <address who="rossi" level="pronoun">you</address>? </line>
+            <line><speaker who="rossi">ROSSINI</speaker> All right, <address who="tony" level="firstName">Tony</address>, watch <reference who="doctor" level="pronoun">him</reference>. </line>
+            <action>Rossini puts on his bowler hat and leaves. Tony goes to the drinks cabinet and
+                takes a swig straight from a bottle.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="tony" level="theNP">The strong silent man</address>, eh? </line>
+            <action>Jo opens the door and looks in.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="tony" level="pronoun">You</address>'ve got no right to keep me here, you
+                know? I've got a good mind to call for help. Help! Help! Help! </line>
+            <action>Tony grabs a cloth and goes over to the Doctor to push it in his mouth. Jo
+                enters and smashes a convenient vase over Tony's head, knocking him out.</action>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What the blazes are <address who="jo" level="pronoun">you</address> doing here? I told
+                <address who="jo" level="pronoun">you</address> to stay at headquarters. </line>
+            <line><speaker who="jo">JO</speaker> It's just as well for <address who="doctor" level="pronoun">you</address> I didn't, isn't it? </line>
+            <action>Jo unties the Doctor.</action>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, I've seen <reference who="philips" level="titleSurname">Professor Philips</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, where? </line>
+            <line><speaker who="jo">JO</speaker> <reference who="philips" level="pronoun">He</reference> went into a horsebox, over there.</line>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <action>The Master is having a video conference with Philips.</action>
+            <line><speaker who="master">MASTER</speaker> <reference who="jo" level="thatNP">This girl</reference> <address who="philips" level="pronoun">you</address> say who's been following <address who="philips" level="pronoun">you</address>.
+                describe <reference who="jo" level="pronoun">her</reference>? </line>
+             <line><speaker who="philips">PHILIPS</speaker> <location>on monitor</location>: Small, blond, short hair. </line>
+            <line><speaker who="master">MASTER</speaker> Sounds like <reference who="jo" level="theNP">the Doctor's little friend</reference>. I
+                wonder. Switch on the scanners, <address who="philips" level="surname">Philips</address>. </line>
+            <action>The monitor shows the area around the horsebox, including Jo and the Doctor
+                standing in the doorway of a caravan.</action>
+            <line><speaker who="master">MASTER</speaker> Very well, <address who="philips" level="surname">Philips</address>. <address who="philips" level="pronoun">You</address>know what <address who="philips" level="pronoun">you</address> have
+                to do. </line>
+             <line><speaker who="philips">PHILIPS</speaker> <location>on monitor</location>: Yes, <address who="master" level="title">Master</address>.</line>
+        </scene>
+        <scene>
+            <location>Rossini's caravan</location>
+
+            <line><speaker who="jo">JO</speaker> What on earth is <reference who="philips" level="pronoun">he</reference> doing inside a horsebox? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> It isn't exactly a horsebox. It just happens
+                to look like one. </line>
+            <line><speaker who="jo">JO</speaker> You mean there isn't a horse inside. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No more than there's a policeman inside my
+                police box. </line>
+            <line><speaker who="jo">JO</speaker> So what do we do now? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well </line>
+            <action>Philips enters, brandishing a silver rod in his hand.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Wait! <address who="philips" level="surname">Philips</address>, wait! Don't move, <address who="jo" level="nickname">Jo</address>. </line>
+            <line><speaker who="jo">JO</speaker> What's <reference who="philips" level="pronoun">he</reference> holding? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Some sort of a grenade. Now, <address who="philips" level="surname">Philips</address>, <address who="philips" level="pronoun">you</address>
+                listen to me. <address who="philips" level="pronoun">You</address> are about to commit murder. </line>
+            <line><speaker who="philips">PHILIPS</speaker> I must. <reference who="master" level="pronoun">He</reference> said I must! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Wait. <address who="philips" level="pronoun">You</address> just listen. <reference who="master" level="title">The Master</reference> is
+                controlling your mind. <address who="philips" level="pronoun">You</address> must resist <reference who="master" level="pronoun">him</reference>. <address who="philips" level="pronoun">You</address> can resist <reference who="master" level="pronoun">him</reference>. <address who="philips" level="pronoun">You</address> are Professor
+                George Philips of the Radio Telescope research centre. <address who="philips" level="pronoun">You</address> must resist <reference who="master" level="pronoun">him</reference>! </line>
+            <action>Philips leaves, whimpering.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="philips" level="pronoun">You</address> must resist <reference who="master" level="pronoun">him</reference>! Down, <address who="jo" level="nickname">Jo</address>! </line>
+            <action>Bang outside.</action>
+        </scene>
+        <scene>
+            <location>Circus</location>
+
+            <action>Philips is lying on the ground, dead, with a key in his hand which the Doctor
+                takes.</action>
+            <line><speaker who="jo">JO</speaker> What happened? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <reference who="philips" level="pronoun">He</reference> tried to get rid of it. <reference who="philips" level="other">Poor chap.</reference> </line>
+            <action>The Doctor goes to the horsebox.</action>
+            <line><speaker who="jo">JO</speaker> What are <address who="doctor" level="pronoun">you</address> doing? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Shan't be a moment. </line>
+            <action>The Doctor enters the horsebox.</action>
+            <line><speaker who="rossi">ROSSINI</speaker> Come on! Spread out! They can't have gone
+                far! </line>
+            <action>Rossini is marshalling his men.</action>
+            <line><speaker who="jo">JO</speaker> Hurry, <address who="doctor" level="title">Doctor</address>. </line>
+            <action>The Doctor comes out with the same component he was working on from his own
+                Tardis.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, that didn't take long, did it? </line>
+            <line><speaker who="jo">JO</speaker> Long enough, I'm afraid. </line>
+            <action>The Doctor confronts the mob.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Now, wait a minute, listen to me. Now listen
+                to me, all of you! </line>
+            <line><speaker who="rossi">ROSSINI</speaker> Tried to rob my caravan and killed <reference who="philips" level="other">one of
+                my men</reference> with a bomb! Get 'em! </line>
+            <action>Rossini hits the Doctor with a baseball bat. Jo screams. Just then a police car
+                comes up and skids to a halt and the two officers rescue Jo. Then UNIT arrives in an
+                ordinary car as the police drive off.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Here, wait! </line>
+            <line><speaker who="yates">YATES</speaker> They're in the back, sir. <reference who="doctor" level="title">The Doctor</reference> and <reference who="jo" level="nickname">Jo</reference>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Better go and bail them out.</line>
+        </scene>
+        <scene>
+            <location>Police car</location>
+
+            <line><speaker who="jo">JO</speaker> Are <address who="doctor" level="pronoun">you</address> all right, <address who="doctor" level="title">Doctor</address>? <address who="doctor" level="title">Doctor</address>! </line>
+            <action>The Doctor becomes alert and checks that he still has the Tardis
+                component.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Thank heavens. Nothing damaged. </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">You</address> speak for yourself. I'm bruised all over. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> It's a good thing you chaps turned up when
+                you did, otherwise we might have been lynched. <reference who="brig" level="surname">Lethbridge Stewart</reference> must have sent
+                them. Yes, it's nice to know <reference who="brig" level="pronoun">he</reference> can use his head once in a while.</line>
+        </scene>
+        <scene>
+            <location>UNIT Comms room</location>
+
+            <line><speaker who="benton">BENTON</speaker> Yes, <address who="brig" level="sir">sir</address>. I've checked with County
+                Headquarters. <address who="brig" level="pronoun">You</address> were right. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <location>OC</location>: Then it's not a police car at all. </line>
+            <line><speaker who="benton">BENTON</speaker> No, <address who="brig" level="sir">sir</address>. Definitely not.</line>
+        </scene>
+        <scene>
+            <location>Police car</location>
+
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">you</address>? Where are they taking us? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> It isn't Tarminster. </line>
+            <line><speaker who="jo">JO</speaker> It's some sort of a quarry. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Excuse me, <address who="auton" level="title">officer</address>, could I see your warrant
+                card? </line>
+            <action>The policeman in front of him turns around. The Doctor reaches towards him and
+                pulls away a mask to reveal a blank plastic face underneath.</action>
+        </scene>
+    </episode>
+    <episode>
+        <subtitle>Episode Three</subtitle>
+
+        <scene>
+            <location>Quarry</location>
+
+            <action>There's a brief struggle and the car goes out of control, crashing into a large
+                rock. The unmasked Auton's door is jammed as Jo and the Doctor flee the car and get
+                behind a rocky outcrop before it can fire its hand weapon. They hide as the two
+                Autons now come searching for them, weapons ready. Then the Brigadier
+                arrives.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Spread out. They can't be far! </line>
+            <action>Yates, the Brigadier and an armed soldier start searching the quarry.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="doctor" level="title">Doctor</address>? <address who="jo" level="titleSurname">Miss Grant</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Get down, <address who="brig" level="man">man</address>! Get down! </line>
+            <action>The still-masked Auton shoots at the Brigadier, and the blast knocks him down.
+                The second Auton comes up behind the soldier.</action>
+            <line><speaker who="yates">YATES</speaker> Look out! </line>
+            <action>Too late. The soldier dies. Yates and the Brigadier take pot shots at his
+                assailant.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> They're Autons! Bullets can't stop them! </line>
+            <action>Yates gets back into the car and drives it at the unmasked Auton, sending it
+                flying over a cliff and tumbling to the bottom, where it promptly starts climbing
+                back up again.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Right, now! </line>
+            <action>The Doctor and Jo come out of hiding and run with the Brigadier to the open area
+                where Yates picks them up. The 'policeman' takes one last shot at them as they drive
+                away.</action>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <line><speaker who="farjr">FARREL</speaker> <address who="master" level="aliasTitle">Colonel</address>? <address who="master" level="aliasTitle">Colonel</address>, the Autons that were sent
+                to recover the bodies of <reference who="doctor" level="title">the Doctor</reference> and <reference who="jo" level="theNP">the girl</reference> </line>
+            <line><speaker who="master">MASTER</speaker> Have returned without them. I know. </line>
+            <line><speaker who="farjr">FARREL</speaker> And <address who="master" level="pronoun">you</address>'re not angry? </line>
+            <line><speaker who="master">MASTER</speaker> Because <reference who="doctor" level="title">the Doctor</reference>'s escaped again? No. <reference who="doctor" level="pronoun">He</reference>'s
+                an interesting adversary. I admire <reference who="doctor" level="pronoun">him</reference> in many ways. </line>
+            <line><speaker who="farjr">FARREL</speaker> But <address who="master" level="pronoun">you</address> still intend to destroy <reference who="doctor" level="pronoun">him</reference>? </line>
+            <line><speaker who="master">MASTER</speaker> Of course and the more <reference who="doctor" level="pronoun">he</reference> struggles to
+                postpone the moment, the greater the ultimate satisfaction.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> Six, the Nestenes have landed a small
+                bridgehead force. Seven, they're operating from somewhere from within this area.
+                Eight, they're being led by <reference who="master" level="theNP">an intelligent alien known as the Master</reference>. Nine, all
+                their operations have, so far, been primarily directed at us here at UNIT. </line>
+            <action>Paying no attention, the Doctor goes to the Tardis with the device he stole from
+                the Master.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Ten, what are <address who="doctor" level="pronoun">you</address> doing, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, I'm terribly sorry. Did <address who="brig" level="pronoun">you</address> want me? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I should like your attention, <address who="doctor" level="title">Doctor</address>,
+                until we've settled on a course of action. That is, of course, unless <address who="doctor" level="pronoun">you</address> have
+                something of greater importance to attend to? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No, no, of course not. No, do carry on, it's
+                most interesting. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Thank you. Where was I? </line>
+            <line><speaker who="yates">YATES</speaker> Ten, <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Ten. The enemy intention </line>
+            <line><speaker who="doctor">DOCTOR</speaker> The enemy intention is to occupy your
+                planet. I should have thought that was quite obvious. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> To do that they will have to land
+                additional forces. In other words, this is no more than a diversionary thrust. Do
+                <address who="doctor" level="pronoun">you</address> agree, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, I should have thought that was pretty
+                obvious too, isn't it? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> We have, as you know, raided the circus
+                and arrested <reference who="rossi" level="surname">Rossini</reference> and his thugs. And what have we learned from them? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Nothing. <reference who="rossi" level="surname">Rossini</reference> is just a tool. <reference who="master" level="title">The Master</reference>
+                used <reference who="rossi" level="pronoun">him</reference> and then discarded <reference who="rossi" level="pronoun">him</reference>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> There was no sign of alien activity at
+                the circus. This mysterious horsebox had vanished. So had the Autons. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Naturally. Oh, <address who="brig" level="pronoun">you</address> have finished with me
+                now, I hope? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Not quite. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I therefore propose that we redouble our
+                security here and concentrate on finding the Master's headquarters. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, well, having reached that brilliant
+                conclusion, how about getting on with it? <address who="yates" level="titleSurname">Captain Yates</address>, is my car back yet? </line>
+            <line><speaker who="yates">YATES</speaker> Safe and sound, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh good, that's something anyway. </line>
+            <action>The Doctor enters the Tardis.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Any further comments, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <location>OC</location>: I'll let <address who="brig" level="pronoun">you</address> know as soon as I think of any. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="yates" level="titleSurname">Captain Yates</address>, we will continue this
+                conference in my office. </line>
+            <action>The Brigadier and Yates leave. The Doctor comes out of the Tardis.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Do you know, <address who="jo" level="nickname">Jo</address>, I sometimes think that
+                military intelligence is a contradiction in terms. </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">You</address>'re not very grateful, are you? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What? For having my time wasted? </line>
+            <line><speaker who="jo">JO</speaker> <reference who="brig" level="pronoun">He</reference> did save our lives, you know. Well? Didn't
+                <reference who="brig" level="pronoun">he</reference>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="pronoun">You</address>'re quite right, <address who="jo" level="nickname">Jo</address>. I'll apologise, if I
+                have the time. </line>
+            <line><speaker who="jo">JO</speaker> What are those things? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, that is the discarded circuit from my
+                Tardis and this is an identical circuit that I, er, borrowed from the Master's
+                horsebox. </line>
+            <line><speaker who="jo">JO</speaker> What does it do? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="pronoun">You</address> wait there and I'll show <address who="jo" level="pronoun">you</address>. </line>
+            <action>The Doctor goes to the Tardis.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Bye bye, <address who="jo" level="nickname">Jo</address>. </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, where are you going? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <location>OC</location>: Just a proving flight. </line>
+            <action>The dematerialisation sequence starts.</action>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>! What's happening? </line>
+            <action>The dematerialisation sequence stops with a thud. The door opens and smoke comes
+                out, followed by the Doctor.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Of all the stupid useless. </line>
+            <action>The Doctor kicks the Tardis, hurting his toe.</action>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>. <address who="doctor" level="title">Doctor</address>, stop being childish. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What's wrong with being childish? I like
+                being childish. </line>
+            <line><speaker who="jo">JO</speaker> What were <address who="doctor" level="pronoun">you</address> trying to do anyway? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, my Tardis uses a mark one
+                dematerialisation circuit and I tried to replace it with a mark two. </line>
+            <action>The Doctor laughs.</action>
+            <line><speaker who="jo">JO</speaker> What's the joke? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, I've just thought of something. My
+                Tardis might not work, but neither will his now. Wherever he is, he's trapped on
+                Earth.</line>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <action>Farrel holds up a daffodil for close inspection.</action>
+            <line><speaker who="master">MASTER</speaker> <address who="farjr" level="surname">Farrel</address>, be careful. Careful. I don't want an
+                accident. </line>
+            <line><speaker who="farjr">FARREL</speaker> I was admiring the workmanship. </line>
+            <line><speaker who="master">MASTER</speaker> Do <address who="farjr" level="pronoun">you</address> think people will be impressed? </line>
+            <line><speaker who="farjr">FARREL</speaker> They're the finest plastic flowers I've
+                ever seen. </line>
+            <line><speaker who="master">MASTER</speaker> Yes, well, that's our object. To show the
+                world the skill of the modern plastics industry. </line>
+            <action>In a shopping area, men with large carnival heads with yellow boaters, wearing
+                jackets to match, are giving away the daffodils. Once finished, they return to
+                Farrel at a coach.</action>
+        </scene>
+        <scene>
+            <location>Coach</location>
+
+            <action>Under the oversized smiles are blank Autons.</action>
+            <line><speaker who="auton">AUTON</speaker> We're ready, <address who="farjr" level="surname">Farrel</address>. We must drive to the
+                next distribution centre. </line>
+            <line><speaker who="farjr">FARREL</speaker> No! <reference who="master" level="title">The Master</reference> must be obeyed! Must be
+                obeyed. </line>
+            <line><speaker who="auton">AUTON</speaker> We will wait a little longer. If <reference who="master" level="pronoun">he</reference>'s not
+                then returned, we shall drive on. </line>
+            <line><speaker who="master">MASTER</speaker> <location>OC</location>: <address who="farjr" level="pronoun">You</address> will obey me, <address who="farjr" level="surname">Farrel</address>. I am your Master.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="doctor">DOCTOR</speaker>
+                <action>reads</action> From field section one. Continuous watch maintained. Nothing
+                to report. Business appears to be proceeding normally. No unusual activity.
+                Everything checked and found in order. Report completely negative. Nothing to report
+                so far. Will continue to search. It's worthless! Absolutely worthless! </line>
+            <action>The Doctor tears up the reports.</action>
+            <line><speaker who="jo">JO</speaker> Now, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Days of exhaustive investigation by the
+                Brigadier's band of bloodhounds and what have they discovered? Nothing, absolutely
+                nothing. The incompetent imbeciles. </line>
+            <line><speaker who="jo">JO</speaker> We're doing everything possible, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No news from any of those plastic factories? </line>
+            <line><speaker who="jo">JO</speaker> Well, there were those reports of a promotional
+                tour. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="myDearNP">My dear girl</address>, <reference who="master" level="title">the Master</reference> is scarcely likely
+                to advertise what <reference who="master" level="pronoun">he</reference>'s doing. </line>
+            <line><speaker who="jo">JO</speaker> I suppose not. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I will not give up. <reference who="master" level="pronoun">He</reference>'s lying low somewhere
+                and we've got to find <reference who="master" level="pronoun">him</reference>. </line>
+            <line><speaker who="jo">JO</speaker> Maybe <reference who="master" level="pronoun">he</reference>'s given up. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <reference who="master" level="title">The Master</reference>? Never! <reference who="master" level="pronoun">He</reference>'s too conceited. </line>
+            <action>The Brigadier enters with a man carrying a briefcase.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="doctor" level="title">Doctor</address>, this is <reference who="brose" level="titleSurname">Mister Brownrose</reference> from the
+                Ministry. <reference who="brose" level="pronoun">He</reference>'s come to us with a rather alarming story. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well, I'm not in the mood for stories. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> Is <reference who="doctor" level="thatNP">this man</reference> a member of your staff? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <reference who="doctor" level="title">The Doctor</reference> acts as our scientific
+                consultant, yes. <reference who="jo" level="other">His assistant</reference>, <reference who="jo" level="titleSurname">Miss Grant</reference>. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> How do you do. I hope <reference who="doctor" level="pronoun">he</reference>'s qualified to deal with a
+                matter of this complexity. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I think <address who="brose" level="pronoun">you</address>'ll find, sir, that I'm qualified
+                to deal with practically everything, if I choose. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> I must say, <address who="brig" level="title">Brigadier</address>, I'm far from satisfied that
+                <address who="brig" level="pronoun">you</address>'ve grasped the urgency of this matter. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I assure you I have. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> It's not something to be shuffled off onto some stray
+                boffin, you know. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Now just a moment, <address who="brose" level="other">my good man</address>. We at UNIT
+                are very busy with a number of extremely urgent matters. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="doctor" level="title">Doctor</address>, please. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="brig" level="title">The Brigadier</address> has a great deal on his plate.
+                <address who="brose" level="pronoun">You</address> cannot expect his exclusive attention for your petty concerns. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> Oh, can't I sir? Now, I'll have you know that my </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Who's in charge of you pen pushers these
+                days? <reference who="rowl" level="nickname">Old Tubby Rowlands</reference> isn't it? </line>
+            <line><speaker who="brose">BROWNROSE</speaker> <reference who="rowl" level="titleSurname">Lord Rowlands</reference> is head of our department, yes. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I was saying to him in the Club only the
+                other day, wrong sort of chap is creeping into your lot, <address who="rowl" level="nickname">Tubby</address>, I said. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> Well, of course, I didn't mean to imply anything
+                offensive. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No. No, of course not. Say no more about it.
+                Right now, <address who="brig" level="title">Brigadier</address>, what's your problem? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Pretty serious, <address who="doctor" level="title">Doctor</address>. A wave of sudden
+                deaths all over the Home Counties. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Cause? </line>
+            <line><speaker who="brose">BROWNROSE</speaker> Asphyxiation, heart failure, shock. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> In other words, no satisfactory
+                explanation at all. </line>
+            <line><speaker who="brose">BROWNROSE</speaker> I'm afraid not. </line>
+            <line><speaker who="jo">JO</speaker> Some kind of virus? </line>
+            <line><speaker who="brose">BROWNROSE</speaker> There's no evidence of infection. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Any connection between the victims? </line>
+            <line><speaker who="brose">BROWNROSE</speaker> None whatsoever. Different ages, sexes and
+                occupations. Apart from the first two deaths, there's no connection at all. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What about the first two? </line>
+            <line><speaker who="brose">BROWNROSE</speaker> Well, the first was a man called <reference who="mcder" level="surname">McDermott</reference>, the
+                second, <reference who="farsr" level="surname">Farrel</reference>. </line>
+            <line><speaker who="jo">JO</speaker> Farrel? </line>
+            <line><speaker who="brose">BROWNROSE</speaker> Production Manager and retired owner of the same
+                plastics factory.</line>
+        </scene>
+        <scene>
+            <location>Farrel Senior's home</location>
+
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="farmom" level="titleSurname">Mrs Farrel</address>, I do realise how distressing
+                this must be for <address who="farmom" level="pronoun">you</address>. </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> I've already been over it with the police. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, I know. Believe me, it is terribly
+                important, you know. <address who="farmom" level="pronoun">You</address> could help us save hundreds of lives. </line>
+            <line><speaker who="jo">JO</speaker> Would <address who="farmom" level="pronoun">you</address> like us to come back another time? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> No <address who="jo" level="myDear">dear</address>, I'll be all right. Well, I'd gone to make the coffee after
+                lunch, but I heard a noise. I came in and found <reference who="farsr" level="pronoun">him</reference>. </line>
+            <line><speaker who="jo">JO</speaker> <reference who="farsr" level="kinship">Your husband</reference> seemed quite normal when you left
+                <reference who="farsr" level="pronoun">him</reference>? I mean not ill or anything? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Well, <reference who="farsr" level="pronoun">he</reference> was a little worried and depressed, I think, but <reference who="farsr" level="pronoun">he</reference> certainly
+                wasn't ill. </line>
+            <line><speaker who="jo">JO</speaker> Did <reference who="farsr" level="pronoun">he</reference> say why <reference who="farsr" level="pronoun">he</reference> was depressed? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Oh, the death of <reference who="mcder" level="titleSurname">Mister McDermott</reference> upset <reference who="farsr" level="pronoun">him</reference>, of course, and I do know
+                <reference who="farsr" level="pronoun">he</reference> was very disturbed about developments within the firm. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What sort of developments? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Well, <reference who="farsr" level="pronoun">he</reference> seemed to think that <reference who="farjr" level="nickname">Rex</reference>, <reference who="farjr" level="nickname">our son</reference>, <reference who="farsr" level="pronoun">he</reference> seemed to think that
+                <reference who="farjr" level="pronoun">he</reference>'d fallen too much under the influence of <reference who="master" level="theNP">a new customer</reference>. <reference who="farsr" level="kinship">My husband</reference> didn't like
+                <reference who="master" level="pronoun">him</reference> at all. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What was his name? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> <reference who="master" level="aliasFull">Colonel Masters</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I knew it.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>Yates enters to find a man working on the Doctor's telephone.</action>
+            <line><speaker who="yates">YATES</speaker> <address who="doctor" level="title">Doctor</address>, did <address who="doctor" level="pronoun">you</address>. Who are you? </line>
+            <line><speaker who="phoneguy">ENGINEER</speaker> Telephone engineer, <address who="yates" level="sir">sir</address>. Just finishing. </line>
+            <line><speaker who="yates">YATES</speaker> Got your pass? </line>
+            <line><speaker who="phoneguy">ENGINEER</speaker> Blimey, not again. I've been checked more times than </line>
+            <line><speaker who="yates">YATES</speaker> Pass. Thank you. Okay, fine. Why such a long
+                flex? </line>
+            <line><speaker who="phoneguy">ENGINEER</speaker> Specially ordered, <address who="yates" level="sir">sir</address>. Perhaps <reference who="doctor" level="theNP">the gent</reference> likes to walk
+                up and down while he's talking. </line>
+            <line><speaker who="yates">YATES</speaker> Sounds very like <reference who="doctor" level="pronoun">him</reference>. </line>
+            <line><speaker who="phoneguy">ENGINEER</speaker> That's it then.</line>
+        </scene>
+        <scene>
+            <location>Farrel Senior's home</location>
+
+            <line><speaker who="doctor">DOCTOR</speaker> Is there anything else <address who="farmom" level="pronoun">you</address> can tell us about
+                <reference who="master" level="thatNP">this Colonel Masters</reference>? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Well, er, I believe <reference who="master" level="pronoun">he</reference>'s still working with <reference who="farjr" level="pronoun">Rex</reference>. I've been too upset
+                to think about the business. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, of course, but can <address who="farmom" level="pronoun">you</address> remember
+                anything that <reference who="farsr" level="kinship">your husband</reference> said about <reference who="master" level="pronoun">him</reference>? Anything at all? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> I don't think so. Oh, <reference who="farsr" level="firstName">John</reference> did bring one of the new dolls home to
+                examine. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What sort of dolls? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Well, wasn't my idea of a doll at all. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Could we see it, <address who="farmom" level="titleSurname">Mrs Farrel</address>? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Yes of course. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Thank you. </line>
+            <action>Mrs Farrel takes the dwarf from a sideboard and gives it to Jo.</action>
+            <line><speaker who="jo">JO</speaker> Yes, I see what <address who="farmom" level="pronoun">you</address> mean. </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> It wasn't intended for children, naturally. Some sort of a novelty for
+                grown ups, I suppose. It's odd, you know. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What is? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> Well, when I went out of the room, that thing was on the radiator by
+                the door. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes? </line>
+            <line><speaker who="farmom">MRS FARREL</speaker> But after they'd taken <reference who="farsr" level="firstName">John</reference> away, I found it under the curtains. It
+                was as if it was trying to get out.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="doctor">DOCTOR</speaker> Right. Now, lets take a look at this thing. </line>
+            <line><speaker who="yates">YATES</speaker> Charming little chap, isn't he. Where did you
+                get it? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Scalpel. </line>
+            <action>The Doctor lays the dwarf face down on the bench, stabs it in the back of the
+                neck and cuts down the middle of the back.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Forceps. </line>
+            <line><speaker who="jo">JO</speaker> What are you doing? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I'm just poking about. Oh, it appears to be
+                made of solid plastic. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Why would they make a thing like that
+                solid? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Why indeed? Let's try the head. Oh. That
+                appears to be solid plastic, too. It's no good, I'll have to make a full analysis. </line>
+            <line><speaker who="yates">YATES</speaker> Where'd you pick it up? </line>
+            <line><speaker who="jo">JO</speaker> From the house of a man called <reference who="farsr" level="surname">Farrel</reference>. </line>
+            <line><speaker who="yates">YATES</speaker> Why bring it here? </line>
+            <line><speaker who="jo">JO</speaker> Well, <reference who="doctor" level="title">the Doctor</reference> seems to think it might have
+                killed <reference who="farsr" level="pronoun">him</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, get in touch with scientific supplies,
+                will you? Tell them I need these things straight away. </line>
+            <action>Jo takes the piece of paper and goes to the telephone.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="doctor" level="title">Doctor</address>, how on earth could a thing like
+                that kill anybody? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That, <address who="brig" level="title">Brigadier</address>, is what I'm trying to find
+                out. </line>
+            <line><speaker who="jo">JO</speaker> Hello, scientific supplies section? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Do you have the result of the post
+                mortem? </line>
+            <line><speaker who="jo">JO</speaker> I have a requisition for you, top priority. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, asphyxiation, cause unknown. </line>
+            <line><speaker who="yates">YATES</speaker> It might have frightened <reference who="farsr" level="pronoun">him</reference> to death. </line>
+            <line><speaker who="jo">JO</speaker> Scanning molecular structure analyser. </line>
+            <line><speaker who="yates">YATES</speaker> But asphyxiation? Well, it's not alive. </line>
+            <line><speaker who="jo">JO</speaker> Electrode unit. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> The Nestenes change the molecular structure
+                of plastic, <address who="yates" level="titleSurname">Captain Yates</address>. They energise it in some way and turn it into
+                quasi-organic matter, almost like flesh and blood. Well, it's inert at the moment.
+                Something must have activated it. </line>
+            <line><speaker who="jo">JO</speaker> That's it. Thank you. The equipment's on its
+                way, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Good. How long will it be? </line>
+            <line><speaker who="jo">JO</speaker> Quite a while, I'm afraid. They've had to send
+                out for most of it. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What? Do you mean that they haven't got a
+                scanning molecular structure analyser in stock? Oh really, <address who="brig" level="title">Brigadier</address>. <address who="brig" level="pronoun">You</address> should
+                keep this place better supplied, <address who="brig" level="pronoun">you</address> know. I cannot work without proper equipment. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I'm very sorry, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well, just as well. It'll give me more
+                time to look at Mister Farrel's plastic factory. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Now just a moment, <address who="doctor" level="title">Doctor</address>. I'm aware for
+                your preference for acting as a one-man band, but this does happen to be a UNIT
+                operation. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="brig" level="surname">Lethbridge Stewart</address>, I can assure <address who="brig" level="pronoun">you</address> </line>
+            <line><speaker who="yates">YATES</speaker> <reference who="brig" level="pronoun">He</reference>'s right you know, <address who="doctor" level="title">Doctor</address>. I'd better come
+                with you. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> No! I shall accompany <reference who="doctor" level="pronoun">the Doctor</reference> myself.
+                I'm not entirely deskbound yet, you know and I </line>
+            <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">sir</address> </line>
+            <line><speaker who="brig">BRIGADIER</speaker> That will do, <address who="yates" level="titleSurname">Captain Yates</address>! May I remind
+                you that you're duty officer today. If you're ready, <address who="doctor" level="title">Doctor</address>? </line>
+            <action>The Brigadier leaves.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, nobody is to touch that thing until I've
+                had the chance of examining it properly, all right? </line>
+            <line><speaker who="jo">JO</speaker> Don't worry, I won't go anywhere near it.
+                Yuk!</line>
+        </scene>
+        <scene>
+            <location>Coach</location>
+
+            <line><speaker who="auton">AUTON</speaker> We will leave now. </line>
+            <line><speaker who="farjr">FARREL</speaker> No, not until <reference who="master" level="title">the Master</reference> returns. </line>
+            <line><speaker who="auton">AUTON</speaker> We shall leave without <reference who="master" level="pronoun">him</reference>. We must keep to
+                schedule. </line>
+            <line><speaker who="farjr">FARREL</speaker> For the last time, no! </line>
+            <action>The telephone engineer opens the coach door.</action>
+            <line><speaker who="farjr">FARREL</speaker> Who are you? </line>
+            <action>The engineer removes a mask to reveal - the Master.</action>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>Yates has put a piece of metal on a tripod over a bunsen burner.</action>
+            <line><speaker who="yates">YATES</speaker> Until <address who="jo" level="pronoun">you</address>'ve had a mug of army cocoa, <address who="jo" level="pronoun">you</address>
+                just haven't lived. </line>
+            <line><speaker who="jo">JO</speaker> You know, I don't think <reference who="doctor" level="title">the Doctor</reference> would approve
+                of that. </line>
+            <line><speaker who="yates">YATES</speaker> What? </line>
+            <line><speaker who="jo">JO</speaker> Making free with his Bunsen burner. Hello?
+                Scientific supplies section? I'd like to speak to Mister Campbell please. </line>
+            <line><speaker who="yates">YATES</speaker> Then <reference who="doctor" level="pronoun">he</reference> shouldn't go gallivanting off leaving
+                me stuck here. </line>
+            <line><speaker who="jo">JO</speaker> What about me? I'm stuck here too, you know. </line>
+            <line><speaker who="yates">YATES</speaker> Oh well, that's different, isn't it? I'll
+                just go and fetch the gubbins. </line>
+            <action>Yates leaves.</action>
+            <line><speaker who="jo">JO</speaker> Thank you and good night, <address who="yates" level="titleSurname">Captain Yates</address>. Hello?
+                Mister Campbell? Oh, I see. No, no, I'll hang on. Will he be long? </line>
+            <action>The bunsen is burning next to the dwarf.</action>
+        </scene>
+        <scene>
+            <location>Plastics factory</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> Is anybody there?</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="jo">JO</speaker> Yes, well, <reference who="doctor" level="title">the Doctor</reference> does need it rather
+                urgently so I thought </line>
+            <action>The dwarf rolls over and gets onto its feet.</action>
+            <line><speaker who="jo">JO</speaker> Yes, that's quite true, but if anybody could,
+                you could. You're dead right, we'd be in terrible trouble. Could you? Could you
+                really? You're a dolly Scotsman, Mister Campbell. Yes, of course.</line>
+        </scene>
+        <scene>
+            <location>Plastics factory</location>
+
+            <action>The Doctor and Brigadier go up to the main entrance.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> It's open.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>Jo turns just as the dwarf leaps at her, and it misses, falling to the
+                floor.</action>
+            <line><speaker who="jo">JO</speaker> <address who="yates" level="nickname">Mike</address>! <address who="yates" level="nickname">Mike</address>, come quickly! </line>
+            <action>Yates enters with two mugs and a jar of cocoa in one hand, fumbling for his
+                service revolver with the other.</action>
+            <line><speaker who="yates">YATES</speaker> <address who="jo" level="nickname">Jo</address>! What's the matter? </line>
+            <action>Yates shoots the dwarf, each shot blasting the solid plastic and breaking off
+                limbs.</action>
+        </scene>
+        <scene>
+            <location>Factory office</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> Seems as though they've moved camp. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. Today. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Oh, how do <address who="doctor" level="pronoun">you</address> know that? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Desk calendar. Hello? </line>
+            <action>He picks a daffodil up from the floor.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> What have <address who="doctor" level="pronoun">you</address> got there? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> A daffodil. A plastic daffodil. Hang onto it
+                for me, will <address who="brig" level="pronoun">you</address>? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> What do <address who="doctor" level="pronoun">you</address> want it for? They give these
+                things away with soap. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> It's plastic, <address who="brig" level="title">Brigadier</address>, and any plastic
+                artefact, anything at all, can, in the Nestene sense of the word, be alive. First a
+                doll, then a flower. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> What are <address who="doctor" level="pronoun">you</address> getting at, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I wish I knew. </line>
+            <action>The Doctor goes over to a large safe set in the wall and sets about the
+                combination lock.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, have a look at that desk, <address who="brig" level="otherEndear">old chap</address>, will
+                you? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="brig" level="pronoun">You</address> never know, there might be something
+                there to give us a lead. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Oh, nothing much here. Unless this might
+                be something. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Mmm? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <reference who="farjr" level="surname">Farrel</reference>'s ordered a coach this week. A
+                fifteen-seater. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, maybe <reference who="farjr" level="pronoun">he</reference>'s going on a works outing. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yeah. </line>
+            <action>The Brigadier shuts the office door and starts looking through files in a
+                cabinet next to it. The Doctor opens the safe, which contains an Auton with its
+                weapon hand primed.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Look out! <reference who="auton" level="title">Auton</reference>! </line>
+            <action>The Auton shoots, just missing the Brigadier as he ducks. The Doctor slams the
+                safe door shut and turns the dial.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Remarkably persistent, aren't they.</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="brig">BRIGADIER</speaker> This thing actually attacked you? </line>
+            <line><speaker who="jo">JO</speaker> It was going to if <reference who="yates" level="nickname">Mike</reference> hadn't shot it. It was
+                horrible. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Seems as though <address who="doctor" level="pronoun">you</address> may be right, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I usually am. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Well, it's dead enough now. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="firstName">Jo</address>, where were <address who="jo" level="pronoun">you</address> when this thing started
+                moving? </line>
+            <line><speaker who="jo">JO</speaker> I was on the telephone. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> And what about <address who="yates" level="pronoun">you</address>, <address who="yates" level="titleSurname">Captain Yates</address>? </line>
+            <line><speaker who="yates">YATES</speaker> I wasn't here. I'd just gone out to, er,
+                fetch some cocoa. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well something must have. Fetch a tin
+                of what? </line>
+            <line><speaker who="yates">YATES</speaker> Cocoa. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Are <address who="yates" level="pronoun">you</address> trying to tell me that <address who="yates" level="pronoun">you</address> were
+                going to make cocoa in my lab? </line>
+            <line><speaker who="yates">YATES</speaker> That was the general idea. I'm sorry, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well, <address who="yates" level="title">Sergeant</address>. <action>pause</action>
+                Now wait a minute. <address who="yates" level="pronoun">You</address> didn't by any chance use my bunsen burner, did <address who="yates" level="pronoun">you</address>? </line>
+            <line><speaker who="yates">YATES</speaker> Well, yes. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well that's it then. Heat! This thing was
+                lying alongside my bunsen. It must be triggered off by a pre-determined temperature. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes, that may account for Farrel's death,
+                <address who="doctor" level="title">Doctor</address>. What about all the others? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> If this thing is what I think it is, we may
+                have the answer right here. Right, off you go, the whole lot of you. </line>
+            <action>The Brigadier and Yates leave.</action>
+            <line><speaker who="jo">JO</speaker> Me, too? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, <address who="jo" level="pronoun">you</address> too. No. No, <address who="jo" level="pronoun">you</address> go down to the
+                stores and see if <address who="jo" level="pronoun">you</address> can chase up that Mister Campbell, all right? </line>
+            <line><speaker who="jo">JO</speaker> Okay. </line>
+            <action>Jo leaves. The Doctor hangs his cape on the stand from the Tardis and the
+                telephone rings.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Hello, yes? What is it?</line>
+        </scene>
+        <scene>
+            <location>Telephone box</location>
+
+            <line><speaker who="master">MASTER</speaker> Hello, <address who="doctor" level="title">Doctor</address>. Is that you?</line>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <line><speaker who="doctor">DOCTOR</speaker> Who is this? What do <address who="master" level="pronoun">you</address> want?</line>
+        </scene>
+        <scene>
+            <location>Telephone box</location>
+
+            <line><speaker who="master">MASTER</speaker> Simply to say goodbye, <address who="doctor" level="title">Doctor</address>. </line>
+            <action>The Master sends an electronic sound down the telephone line.</action>
+        </scene>
+        <scene>
+            <location>UNIT Laboratory</location>
+
+            <action>The special extra-long telephone flex wraps itself around the Doctor.</action>
+        </scene>
+    </episode>
+
+    <episode>
+        <subtitle>Episode Four</subtitle> 
+        <scene>
+            <location>UNIT Corridor</location> 
+            <line><speaker who="doctor">DOCTOR</speaker>
+                    <location>OC</location>: Help, <address who="brig" level="title">Brigadier</address>! Help!</line></scene>
+        <scene><location>UNIT Laboratory</location> <line><speaker who="doctor">DOCTOR</speaker> The
+                cable. Pull it out! Pull it out! </line>
+            <action>The Brigadier pulls the phone wire from the socket. The Master hears the line
+                being disconnected and turns off his device. The Brigadier unwraps the
+                Doctor.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="doctor" level="pronoun">You</address> all right, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, more or less. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I'm afraid I cut your connection. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, very amusing. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> What happened? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, remember what I told you, <address who="brig" level="title">Brigadier</address>?
+                The Nestenes can put life into anything made of plastic. Anything at all. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I see. And there's a lot of plastic
+                around. </line>
+            <action>The coach drives past a motor bike waiting in the bushes. The rider starts it up
+                and follows. The Doctor is testing his heat theory on the daffodil.</action>
+            <line><speaker who="yates">YATES</speaker> <address who="doctor" level="title">Doctor</address>? <address who="doctor" level="title">Doctor</address>? </line>
+            <action>Nothing happens so the Doctor puts the bunsen burner down.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, I was wrong. It isn't heat. Well? </line>
+            <line><speaker who="yates">YATES</speaker> Message from <reference who="brig" level="title">the Brigadier</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What is it this time? </line>
+            <line><speaker who="yates">YATES</speaker> It's about these daffodils. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> What about them? </line>
+            <line><speaker who="yates">YATES</speaker> <address who="doctor" level="pronoun">You</address> remember we had a report of a plastics
+                promotion tour? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Mmm hmm. </line>
+            <line><speaker who="yates">YATES</speaker> Well, er, they're handing out daffodils. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Who are? </line>
+            <line><speaker who="yates">YATES</speaker> Chaps in weird carnival masks, touring round
+                in a coach. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Did they say how many they'd given out? </line>
+            <line><speaker who="yates">YATES</speaker> No, they didn't. We've got no idea at all,
+                I'm afraid. We don't even know how long they've been doing it. The thing is, <reference who="brig" level="title">the Brigadier</reference> wants to know if the daffs are dangerous. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That, <address who="yates" level="titleSurname">Captain Yates</address>, is what I'm trying to
+                find out.</line>
+        </scene>
+        <scene><location>Brigadier's office</location> <action>The Brigadier is on the
+                phone.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Excellent. Where was it? Well, give me
+                the grid reference. Yeah. No, just maintain contact. I want to tackle them in open
+                country. Good. Keep me informed. </line>
+            <action>He makes a second call.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Lethbridge Stewart here, I want a call to
+                the RAF please. Priority red one. Strike command.</line>
+        </scene>
+        <scene><location>UNIT Laboratory</location> <line><speaker who="doctor">DOCTOR</speaker>
+                Excuse me, <address who="jo" level="nickname">Jo</address>. </line>
+            <action>The Doctor puts a slide with a piece of daffodil onto a small contraption on the
+                bench.</action>
+            <line><speaker who="jo">JO</speaker> What are <address who="doctor" level="pronoun">you</address> doing? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> This is a section of that daffodil. I'm
+                trying to find out its molecular structure. </line>
+            <action>The results start to come up on a monitor.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> No. </line>
+            <action>A series of hexagons appear.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Hello, what's this? A programme pattern. </line>
+            <line><speaker who="jo">JO</speaker> A programme pattern? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, these daffodils have their instructions
+                imprinted on every cell. It's a weapon of some sort, but what sort? </line>
+            <line><speaker who="jo">JO</speaker> Well, will those signs help <address who="doctor" level="pronoun">you</address> find out? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> They will if I can translate them. </line>
+            <action>The Brigadier and Yates enter in combat gear.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> My word, you look very fierce. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> We've located that coach load of Nestene
+                Autons distributing those daffodils, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Good. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> They're hiding in that same quarry where
+                they took <address who="doctor" level="pronoun">you</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, that's curious. Was <reference who="master" level="title">the Master</reference> with
+                them? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I couldn't say. <address who="doctor" level="pronoun">You</address> might be able to
+                identify <reference who="master" level="pronoun">him</reference> afterwards. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Afterwards? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I've got the RAF to lay on a rocket
+                strike. In a few hours time, that coach should be a pile of scrap iron. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> The military mind at its most scintillating.
+                Faced with a problem they blast it off the face of the earth. </line>
+            <line><speaker who="jo">JO</speaker> What do <address who="doctor" level="pronoun">you</address> think we should do? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Nothing. Keep them under observation for a
+                while and give me a chance to find out the purpose of these flowers. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I'm sorry, <address who="doctor" level="title">Doctor</address>. I can't afford to take
+                that risk. If that coach moves to a populated area, it'll be impossible to destroy
+                it. The strike will go ahead as planned. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="yates" level="titleSurname">Captain Yates</address>? </line>
+            <action>The Brigadier leaves.</action>
+            <line><speaker who="yates">YATES</speaker> Yes, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> How long have we got? </line>
+            <line><speaker who="yates">YATES</speaker> About an hour and a half. The RAF boys are
+                setting things up now and we have established an observation point at the quarry. </line>
+            <line><speaker who="jo">JO</speaker> <address who="yates" level="nickname">Mike</address>, can we reach <address who="yates" level="pronoun">you</address> there? </line>
+            <line><speaker who="yates">YATES</speaker> Sure. We'll be in radio contact with HQ and
+                with the RAF. <address who="jo" level="pronoun">You</address> can get us on one of these. </line>
+            <action>Yates gives a radio to Jo.</action>
+            <line><speaker who="yates">YATES</speaker> See you, <address who="doctor" level="nickname">Doc</address>. Bye, <address who="jo" level="nickname">Jo</address>. </line>
+            <action>Yates leaves.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> An hour and a half.</line>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="farjr">FARREL</speaker> Everything
+                seems quiet. </line>
+            <line><speaker who="auton">AUTON</speaker> The humans are watching us. </line>
+            <line><speaker who="farjr">FARREL</speaker> How do <address who="auton" level="pronoun">you</address> know? </line>
+            <line><speaker who="auton">AUTON</speaker> We were followed to this place.</line>
+        </scene>
+        <scene><location>UNIT Laboratory</location> <line><speaker who="jo">JO</speaker> But
+                won't that programme pattern be in Nestene? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, well done. That's why I'm converting it
+                to visual symbols. Ah, here it comes. </line>
+            <line><speaker who="jo">JO</speaker> That's a face. A part of one. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. Yes, a nose and a mouth. </line>
+            <line><speaker who="jo">JO</speaker> What does that mean? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I've no idea. </line>
+            <line><speaker who="jo">JO</speaker> So what next? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, if it is a weapon, we must find out
+                what triggers it off. <address who="jo" level="nickname">Jo</address>, get in touch with <reference who="brig" level="title">the Brigadier</reference>, will <address who="jo" level="pronoun">you</address>? See if <reference who="brig" level="pronoun">he</reference> can
+                hold up that air strike. I must have more time. </line>
+            <action>Jo uses the radio.</action>
+            <line><speaker who="jo">JO</speaker> Hello, <address who="brig" level="aliasFull">Greyhound</address>. This is Trap One. Do you read
+                me? Over. <action>static</action> There seems to be something wrong. Hello,
+                <address who="brig" level="aliasFull">Greyhound</address>. This is Trap One. Do you read me? Over. </line>
+            <action>The daffodil turns towards them.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, look! </line>
+            <line><speaker who="jo">JO</speaker> It's alive! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Short wave radio. <address who="jo" level="pronoun">You</address> must have triggered it
+                off with that walkie-talkie. Of course. They must be planning to set them all off at
+                once with a gigantic radio signal. If I could only find out the direction of the
+                signal. </line>
+            <line><speaker who="jo">JO</speaker> It seems to be looking for something. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, be careful. <address who="jo" level="nickname">Jo</address>! </line>
+            <action>The daffodil sprays out a liquid at Jo's face. It hardens instantly, blocking
+                Jo's nose and mouth. The Doctor has to use an aerosol to get it off her
+                skin.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> It's all over. <address who="jo" level="pronoun">You</address> all right? </line>
+            <line><speaker who="jo">JO</speaker> Just a bit short of breath. What happened? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well, your nose and mouth were sealed off
+                with this. </line>
+            <line><speaker who="jo">JO</speaker> What's that? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Plastic film. <address who="jo" level="pronoun">You</address> would have been
+                unconscious in two minutes, dead in under ten. </line>
+            <line><speaker who="jo">JO</speaker> So all those people were killed by the
+                daffodils? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes. Yes, they must have triggered them off
+                accidentally, just as <address who="jo" level="pronoun">you</address> did. Jo, do something for me, will <address who="jo" level="pronoun">you</address>? </line>
+            <line><speaker who="jo">JO</speaker> Yes, of course. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Get in touch with <reference who="brose" level="thatNP">that idiot Brownrose</reference>. See
+                if plastic daffodils were found at the scenes of any of those deaths. Oh, and ask
+                him if anybody was using short wave radios, will you? </line>
+            <line><speaker who="jo">JO</speaker> Okay. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="pronoun">You</address> all right? </line>
+            <line><speaker who="jo">JO</speaker> Fine, <address who="doctor" level="title">Doctor</address>. And thank you.</line>
+        </scene>
+        <scene><location>Quarry</location> <action>Benton is using the R/T.</action>
+            <line><speaker who="benton">BENTON</speaker> Thank you, Eagle. Message confirmed. Over
+                and out. That's it then, <address who="brig" level="sir">sir</address>. Air strike confirmed. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Right. </line>
+            <line><speaker who="yates">YATES</speaker> No word from <reference who="doctor" level="title">the Doctor</reference> then, <address who="brig" level="sir">sir</address>? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> No. The air strike's due to begin in
+                thirty seven minutes. If <reference who="doctor" level="title">the Doctor</reference>'s coming up with anything, <reference who="doctor" level="pronoun">he</reference>'d better be
+                quick.</line>
+        </scene>
+        <scene><location>UNIT Laboratory</location> <line><speaker who="doctor">DOCTOR</speaker> Now
+                why wasn't this stuff found on the bodies? </line>
+            <action>The Doctor sniffs the plastic film, then breathes hard on it. It shrivels in his
+                hand.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, of course. Dissolved by carbon dioxide
+                from the lungs. </line>
+            <line><speaker who="master">MASTER</speaker> Good afternoon, <address who="doctor" level="title">Doctor</address>. </line>
+            <action>The Master comes down the spiral staircase, holding his cylinder weapon
+                ready.</action>
+            <line><speaker who="master">MASTER</speaker> I hope I'm not interrupting anything
+                important. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No, no, indeed not. <address who="master" level="pronoun">You</address>'ve come here to kill
+                me, of course. </line>
+            <line><speaker who="master">MASTER</speaker> But not without considerable regret. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> How very comforting. </line>
+            <line><speaker who="master">MASTER</speaker> You see, <address who="doctor" level="title">Doctor</address>, you're my intellectual
+                equal. Almost. I have so few worthy opponents. When they've gone, I always miss them. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> How did <address who="master" level="pronoun">you</address> get in here? </line>
+            <line><speaker who="master">MASTER</speaker> Oh, don't be trivial, <address who="doctor" level="title">Doctor</address>. I see <address who="doctor" level="pronoun">you</address>'ve
+                been working on the Nestene autojet. My own small contribution to their invasion
+                plan. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Vicious, complicated and inefficient.
+                Typical of your way of thinking. </line>
+            <line><speaker who="master">MASTER</speaker> Now, come, come, <address who="doctor" level="title">Doctor</address>. Death is always
+                more frightening when it strikes invisibly. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Tell me, how do <address who="master" level="pronoun">you</address> intend to activate these
+                flowers? </line>
+            <line><speaker who="master">MASTER</speaker> Oh, by a radio impulse which the Nestenes
+                will send. I shall open the channel for them. We've distributed four hundred and
+                fifty thousand of these daffodils, so when four hundred and fifty thousand people
+                fall dead, the country will be disrupted. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> And in the confusion the Nestenes will land
+                their invasion force. </line>
+            <line><speaker who="master">MASTER</speaker> Exactly. It's a shame that <address who="doctor" level="pronoun">you</address> can't be here
+                to enjoy the chaos and destruction with me. Goodbye, <address who="doctor" level="title">Doctor</address>. </line>
+            <action>Jo walks in just as the Master was about to shoot the Doctor. As the Master is
+                distracted, the Doctor grabs something from the bench.</action>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">You</address> were quite right </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Wait! Don't shoot. </line>
+            <line><speaker who="master">MASTER</speaker> <address who="doctor" level="title">Doctor</address>, <address who="doctor" level="pronoun">you</address> do disappoint me. We Time Lords
+                are expected to face death with dignity. </line>
+            <line><speaker who="jo">JO</speaker> Oh, no! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Don't worry. <reference who="master" level="pronoun">He</reference>'s not going to kill me. </line>
+            <line><speaker who="master">MASTER</speaker> That is your last mistake. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> If <address who="master" level="pronoun">you</address> fire that thing, you will never be
+                able to leave this planet. </line>
+            <line><speaker who="master">MASTER</speaker> <address who="doctor" level="pronoun">You</address>'re bluffing on an empty hand, <address who="doctor" level="title">Doctor</address>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I'm not bluffing and my hand, as <address who="master" level="pronoun">you</address> can
+                see, is not empty. If <address who="master" level="pronoun">you</address> kill me, <address who="master" level="pronoun">you</address> will destroy the dematerialisation circuit
+                from your own Tardis. <address who="master" level="pronoun">You</address> recognise it, I feel sure. </line>
+            <line><speaker who="master">MASTER</speaker> Where did <address who="doctor" level="pronoun">you</address> get that? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> The circus. </line>
+            <line><speaker who="master">MASTER</speaker> <address who="doctor" level="pronoun">You</address> underestimate me, <address who="doctor" level="title">Doctor</address>. Let me be
+                quite plain. Either <address who="doctor" level="pronoun">you</address> hand that unit over to me now, or I kill <reference who="jo" level="titleSurname">Miss Grant</reference>. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Touché. </line>
+            <line><speaker who="jo">JO</speaker> Don't! <reference who="master" level="pronoun">He</reference>'s beaten already! They're going to
+                bomb the quarry. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>! </line>
+            <line><speaker who="master">MASTER</speaker> Oh. There's been a slight change of plan,
+                <address who="doctor" level="pronoun">Doctor</address>. I've decided to let <address who="doctor" level="pronoun">you</address> live, for a little while.</line>
+        </scene>
+        <scene><location>Quarry</location> <line><speaker who="yates">YATES</speaker> Not long now,
+                <address who="brig" level="sir">sir</address>.</line>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="farjr">FARREL</speaker> What's
+                happening out there? </line>
+            <line><speaker who="auton">AUTON</speaker> The humans are planning to attack us. </line>
+            <line><speaker who="farjr">FARREL</speaker> We should try and leave. </line>
+            <line><speaker who="auton">AUTON</speaker> We shall leave soon. Our task is not yet
+                completed. </line>
+            <line><speaker who="farjr">FARREL</speaker> <reference who="master" level="pronoun">He</reference>'s left us! <reference who="master" level="pronoun">He</reference>'s deserted!
+                    <action>pain</action> How did I get here? I'm not part of this! </line>
+            <action>The Auton knocks Farrel out.</action>
+        </scene>
+        <scene><location>Quarry</location> <line><speaker who="brig">BRIGADIER</speaker> Twenty
+                nine, twenty eight. </line>
+            <line><speaker who="yates">YATES</speaker> Look, <address who="brig" level="sir">sir</address>. </line>
+            <action>The Doctor drives Jo and the Master up to the coach.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="benton" level="surname">Benton</address>, stop that air strike! </line>
+            <line><speaker who="benton">BENTON</speaker> It's too late, <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Well try, <address who="benton" level="man">man</address>, try! </line>
+            <line><speaker who="benton">BENTON</speaker> Eagle, Eagle, Eagle. Abort, abort, abort! </line>
+            <action>In the coach and outside, everyone holds their breath as a Phantom jet roars
+                overhead.</action>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="master">MASTER</speaker> Now, tie these
+                two up.</line>
+        </scene>
+        <scene><location>Quarry</location> <line><speaker who="brig">BRIGADIER</speaker> Not a sign
+                of life down there. </line>
+            <line><speaker who="yates">YATES</speaker> What do we do if they try to move out? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I don't know.</line>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="master">MASTER</speaker> <address who="farjr" level="surname">Farrel</address>? </line>
+            <line><speaker who="auton">AUTON</speaker> <reference who="farjr" level="surname">Farrel</reference> became undependable. </line>
+            <line><speaker who="master">MASTER</speaker> Did <reference who="farjr" level="pronoun">he</reference>? <reference who="farsr" level="kinship">His father</reference> would have been proud of
+                <reference who="farjr" level="pronoun">him</reference>. </line>
+            <line><speaker who="jo">JO</speaker> Ow! </line>
+            <action>Jo and the Doctor are lying on the floor of the coach, trussed up.</action>
+            <line><speaker who="master">MASTER</speaker> Yes, <address who="jo" level="titleSurname">Miss Grant</address>, they are a little heavy
+                handed. I apologise for your last moments on earth being so uncomfortable, <address who="doctor" level="pronoun">Doctor</address>. </line>
+            <action>The Master takes the dematerialisation circuit.</action>
+            <line><speaker who="master">MASTER</speaker> Thank you. Right, <address who="auton" level="pronoun">you</address> come with me. </line>
+            <action>An energy sphere is pulsing in a cardboard box.</action>
+            <line><speaker who="master">MASTER</speaker> Now, because of the change in circumstances,
+                we're going to have to bring our schedule forward. What we're going to do is this.
+                It's absolutely essential that we </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, you know where we are, don't <address who="jo" level="pronoun">you</address>. </line>
+            <line><speaker who="jo">JO</speaker> Roughly, why? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> We're just three or four miles from that
+                radio telescope. </line>
+            <line><speaker who="jo">JO</speaker> So? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> <reference who="master" level="title">The Master</reference> will activate the daffodils from
+                there. </line>
+            <line><speaker who="jo">JO</speaker> What are <address who="doctor" level="pronoun">you</address> doing? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> We've got to warn UNIT. If I can just reach
+                these brake pedals. </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, if <address who="doctor" level="pronoun">you</address>'re going to drive, I want to get
+                off. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> No. I only hope <reference who="brig" level="title">the Brigadier</reference>'s keeping his
+                eyes open. Got it!</line>
+        </scene>
+        <scene><location>Quarry</location> <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>! <address who="brig" level="sir">Sir</address>! The
+                brake lights are flashing. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Yes, you're right. Somebody's signalling. </line>
+            <line><speaker who="yates">YATES</speaker> <reference who="doctor" level="title">The Doctor</reference>! </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="benton" level="surname">Benton</address>? </line>
+            <line><speaker who="benton">BENTON</speaker> Yes, <address who="brig" level="sir">sir</address>? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Get this down. E S T</line>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="jo">JO</speaker> Do <address who="doctor" level="pronoun">you</address> think
+                they're getting it? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> If I can just keep trying.</line>
+        </scene>
+        <scene><location>Quarry</location> <line><speaker who="brig">BRIGADIER</speaker> I O N.
+                That's it. Read that back, <address who="benton" level="surname">Benton</address>. </line>
+            <line><speaker who="benton">BENTON</speaker> Daffodils are lethal. Activated soon.
+                Destroy immediately. Guard radio research station. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="benton" level="surname">Benton</address>, send an alert to the civil
+                police. I want radio and TV warnings, loudspeaker vans, house to house, the lot. </line>
+            <line><speaker who="benton">BENTON</speaker> Right away, <address who="brig" level="sir">sir</address>. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="yates" level="titleSurname">Captain Yates</address>, rustle up every available
+                man and put a guard on that radio research station. </line>
+            <line><speaker who="benton">BENTON</speaker> Hello, Bluebottle Three. This is Greyhound.
+                Do you read me? </line>
+            <line><speaker who="brig">BRIGADIER</speaker> I'll stay here with the coach. </line>
+            <line><speaker who="benton">BENTON</speaker> Do you read me? Over.</line>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="doctor">DOCTOR</speaker> <address who="jo" level="nickname">Jo</address>, it's a
+                pity escapology wasn't part of your curriculum. </line>
+            <line><speaker who="jo">JO</speaker> Funny <address who="doctor" level="pronoun">you</address> should say that. Look. </line>
+            <action>Jo has got one hand free.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Well done! </line>
+            <line><speaker who="jo">JO</speaker> Careful! </line>
+            <line><speaker who="master">MASTER</speaker> I hope that you two have enjoyed your little
+                rest. Right, the time has come for our final move. </line>
+            <action>The Autons drag the Doctor away as one starts to drive the coach. Farrel wakes
+                up.</action>
+        </scene>
+        <scene><location>Quarry</location> <line><speaker who="brig">BRIGADIER</speaker> They're on
+                the move. Come on, <address who="benton" level="surname">Benton</address>. </line>
+            <line><speaker who="benton">BENTON</speaker> Right, <address who="brig" level="sir">sir</address>.</line>
+        </scene>
+        <scene><location>Coach</location> <action>Unseen, Jo works on the Doctor's bonds.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> That's it, I'm free. </line>
+            <action>The coach splashes through a ford, followed by the UNIT car.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> If <reference who="master" level="surname">he</reference> slows down, we might be able to jump
+                for it. </line>
+            <line><speaker who="jo">JO</speaker> Right.</line>
+        </scene>
+        <scene><location>Beacon Hill</location> <action>UNIT have got there first.</action>
+            <line><speaker who="yates">YATES</speaker> Right, take your positions! Quick!</line>
+        </scene>
+        <scene><location>Coach</location> <action>Farrel suddenly grabs the steering wheel.</action>
+            <line><speaker who="master">MASTER</speaker> Get back, <address who="farjr" level="surname">Farrel</address>! </line>
+            <action>The coach veers down the little road, and the soldiers scatter as it crashes
+                through the Research Station sign and on across a field. The Doctor jumps out of the
+                emergency exit and Jo follows.</action>
+            <line><speaker who="master">MASTER</speaker> Let go! </line>
+            <action>The Master knocks Farrel out and the coach stops.</action>
+        </scene>
+        <scene><location>Beacon Hill</location> <line><speaker who="doctor">DOCTOR</speaker> Are <address who="jo" level="pronoun">you</address>
+                all right? </line>
+            <line><speaker who="jo">JO</speaker> It's my ankle.</line>
+        </scene>
+        <scene><location>Coach</location> <line><speaker who="auton">AUTON</speaker> The two humans
+                have escaped. </line>
+            <line><speaker who="master">MASTER</speaker> Never mind about them! I must get to the
+                radio telescope. </line>
+            <line><speaker who="auton">AUTON</speaker> The Autojets are being destroyed. It's too
+                late. </line>
+            <line><speaker who="master">MASTER</speaker> No! Get out there, all of you. Keep those
+                soldiers back!</line>
+        </scene>
+        <scene><location>Beacon Hill</location> <action>The masked Autons leave the coach and gun
+                down any soldiers they see. The Brigadier drives up.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> <address who="brig" level="title">Brigadier</address>, those daffodils </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="title">Doctor</address>, look! </line>
+            <action>The Master is going up the metal staircase.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> The radio telescope! We must stop <reference who="master" level="pronoun">him</reference>
+                reaching the control. He'll open the channel for the Nestenes. </line>
+            <action>The Master meets a man in a white jacket coming down, and pushes him over the
+                side. They run to where he lands.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> <address who="benton" level="surname">Benton</address>, get a stretcher party. And get
+                some more men. </line>
+            <line><speaker who="benton">BENTON</speaker> Right, <address who="brig" level="sir">sir</address>. </line>
+            <action>The Doctor and Brigadier set off up to the Telescope control room, where the
+                Master is realigning the dishes.</action>
+        </scene>
+        <scene><location>Outside Telescope control</location> 
+            <line><speaker who="doctor">DOCTOR</speaker> It's locked. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Stand back, <address who="doctor" level="title">Doctor</address>.</line>
+        </scene>
+        <scene><location>Telescope control</location> <action>The Brigadier shoots out the
+                lock.</action>
+            <line><speaker who="master">MASTER</speaker> Too late, <address who="doctor" level="title">Doctor</address>. The Nestenes are here. </line>
+            <action>The dishes are aiming at a point just between them, and something is starting to
+                form. It is bright white energy and appears to have multiple appendages.</action>
+            <line><speaker who="master">MASTER</speaker> An amateur landing, of course. Not the way I
+                planned it. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> If only we could shut off the power. </line>
+            <line><speaker who="master">MASTER</speaker> Impossible. They've taken control. No one
+                can stop them now. Your precious little planet is finished. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> If we're finished, then <address who="master" level="pronoun">you</address>'re finished too. </line>
+            <line><speaker who="master">MASTER</speaker> Nonsense! I helped them to come here. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Do <address who="master" level="pronoun">you</address> really think that that thing will
+                distinguish between <address who="master" level="pronoun">you</address> and us?</line>
+        </scene>
+        <scene><location>Beacon Hill</location> <action>The troops are being decimated as
+                usual.</action>
+            <line><speaker who="benton">BENTON</speaker> It's no good, <address who="brig" level="sir">sir</address>. We just can't hold
+                them.</line>
+        </scene>
+        <scene><location>Beacon Hill Telescope Control</location> <line><speaker who="brig">BRIGADIER</speaker> Can't <address who="doctor" level="pronoun">you</address> do anything, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Not unless we change the polarity. </line>
+            <line><speaker who="master">MASTER</speaker> Whilst the transfer shift is still open? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> It will fling them right out into space. </line>
+            <line><speaker who="master">MASTER</speaker> <address who="doctor" level="pronoun">You</address>'re right! </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Well, <address who="doctor" level="pronoun">you</address>'d better try it and quick! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Get on to the transfer bank. I'll switch the
+                power through. Are <address who="master" level="pronoun">you</address> ready? </line>
+            <line><speaker who="master">MASTER</speaker> Yes! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Right, now! </line>
+            <action>The two aliens flick switches and turn knobs. There is an explosion from the
+                telescope control panel and Nestene energy fills the cabin as the image outside
+                starts to lose focus and fade away. The Autons lower their weapons, stagger around a
+                bit then fall over.</action>
+            <line><speaker who="brig">BRIGADIER</speaker> Well, <address who="doctor" level="title">Doctor</address>, it worked. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, but only just. Another minute and we'd
+                have been too late. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> <reference who="master" level="pronoun">He</reference>'s gone! </line>
+            <line><speaker who="doctor">DOCTOR</speaker> After <address who="master" level="pronoun">him</address>, quick!</line>
+        </scene>
+        <scene><location>Beacon Hill</location> <line><speaker who="jo">JO</speaker> Look! </line>
+            <action>Yates looks up from an Auton to see the Master disappearing behind the coach. He
+                fires.</action>
+            <line><speaker who="yates">YATES</speaker> <address who="brig" level="sir">Sir</address>! <reference who="master" level="pronoun">He</reference>'s in the coach, <address who="brig" level="sir">sir</address>. We've got <address who="master" level="pronoun">him</address>
+                now. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Don't be too sure. </line>
+            <action>The Master comes out of the coach and walks towards them with his hands
+                raised.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> Don't trust <address who="master" level="pronoun">him</address>, <address who="brig" level="title">Brigadier</address>. It's a trick. </line>
+            <action>The Master suddenly pulls out a gun and Yates shoots him.</action>
+            <line><speaker who="yates">YATES</speaker> Well, that's the end of <address who="master" level="pronoun">him</address>. </line>
+            <action>The Doctor reaches down and removes a mask from - Farrel.</action>
+            <line><speaker who="doctor">DOCTOR</speaker> I told <address who="yates" level="pronoun">you</address> not to be too sure. </line>
+            <line><speaker who="jo">JO</speaker> Look out! </line>
+            <action>The Master drives the coach straight at them and presumably right over Farrel,
+                then away.</action>
+        </scene>
+        <scene><location>UNIT Laboratory</location> <line><speaker who="brig">BRIGADIER</speaker>
+                Well, we found the abandoned coach but the Master disappeared completely. </line>
+            <line><speaker who="jo">JO</speaker> <reference who="master" level="pronoun">He</reference>'s probably left Earth by now. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Oh, no. </line>
+            <line><speaker who="jo">JO</speaker> What makes <address who="doctor" level="pronoun">you</address> so sure? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Well his Tardis can't go anywhere. Not
+                without this. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> And what the dickens is that? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> That's a dematerialisation circuit. It's
+                very complicated. </line>
+            <line><speaker who="jo">JO</speaker> So the one <reference who="master" level="pronoun">he</reference> took from <address who="doctor" level="pronoun">you</address> </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Belonged to my Tardis, yes. Yes, I've been
+                trying to repair it for months. </line>
+            <line><speaker who="jo">JO</speaker> And now <reference who="master" level="pronoun">he</reference>'s stuck here on Earth. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, I'm afraid so. </line>
+            <line><speaker who="brig">BRIGADIER</speaker> Think <reference who="master" level="pronoun">he</reference>'ll turn up again, <address who="doctor" level="title">Doctor</address>? </line>
+            <line><speaker who="doctor">DOCTOR</speaker> Yes, bound to. </line>
+            <line><speaker who="jo">JO</speaker> <address who="doctor" level="pronoun">You</address> don't seem very worried about it. </line>
+            <line><speaker who="doctor">DOCTOR</speaker> I'm not. As a matter of fact, <address who="jo" level="nickname">Jo</address>, I'm rather
+                looking forward to it.</line></scene></episode>
+</serial>
